@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1997-03-01
+Version Consolidée au 1997-04-05
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -642,7 +642,7 @@ Version Consolidée au 1997-03-01
               - [Sous-section 1 : Le conseil du district. (art. L5213-6 à L5213-9)](#639)
               - [Sous-section 2 : Le président. (art. L5213-10 à L5213-11)](#640)
               - [Sous-section 3 : Le bureau. (art. L5213-12 à L5213-13)](#641)
-            - [Section 3 : Compétences. (art. L5213-14 à L5213-15)](#642)
+            - [Section 3 : Compétences. (art. L5213-14 à L5213-15-1)](#642)
             - [Section 4 : Dispositions financières. (art. L5213-16 à L5213-21)](#643)
             - [Section 5 : Modifications des conditions de fonctionnement. (art. L5213-22 à L5213-23)](#644)
             - [Section 6 : Dissolution et transformation. (art. L5213-24 à L5213-27)](#645)
@@ -58950,6 +58950,28 @@ _Abrogé par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L621-1 (V)
+
+
+###### Article L5213-15-1
+
+Pour l'exercice de ses compétences, le district est également substitué aux communes qui en font partie lorsque celles-ci
+sont groupées avec des communes extérieures au district au sein de syndicats de communes.
+
+Cette disposition ne modifie ni les attributions ni le périmètre des syndicats préexistants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°97-303 1997-04-04 article unique jorf 5 avril 1997
+
+_Abrogé par_:
+
+  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
 
 
 ##### Section 4 : Dispositions financières.<a id=643></a>
