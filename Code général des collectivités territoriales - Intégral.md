@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-02-15
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -48897,7 +48897,7 @@ _Créé par_:
 
 ###### Article L4332-5
 
-- Le prélèvement sur les recettes fiscales prévu à l'article L. 4332-4 est supporté par les régions dont le potentiel fiscal
+Le prélèvement sur les recettes fiscales prévu à l'article L. 4332-4 est supporté par les régions dont le potentiel fiscal
 direct par habitant est supérieur au potentiel fiscal direct moyen par habitant de l'ensemble des régions :
 
 1° Lorsque le potentiel fiscal par habitant d'une région est supérieur de 5 p. 100 au plus au potentiel fiscal moyen, ce
@@ -48914,6 +48914,10 @@ Le prélèvement cesse d'être opéré lorsque, dans une région, le taux de ch�
 par l'Institut national de la statistique et des études économiques, est supérieur au taux de chômage annuel moyen de
 l'ensemble des régions métropolitaines.
 
+Les dépenses réalisées en application de l'expérimentation prévue au troisième alinéa de l'article 67 de la loi n° 95-115 du
+4 février 1995 d'orientation pour l'aménagement et le développement du territoire n'entrent pas dans l'assiette du
+prélèvement, à due concurrence, de la compensation forfaitaire des charges transférées.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -48921,13 +48925,18 @@ _Anciens textes_:
   - Loi n°92-125 1992-02-06 art. 64 par. II
   - Loi n°92-125 du 6 février 1992 - art. 64 (Ab)
 
+_Cite_:
+
+  - Loi n°95-115 du 4 février 1995 - art. 67 (M)
+  - Code général des collectivités territoriales - art. L4332-4 (M)
+
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°97-135 du 13 février 1997 - art. 15 ()
 
 _Cité par_:
 
@@ -48938,10 +48947,6 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L1612-12 (M)
   - Code général des collectivités territoriales - art. L4332-6 (Ab)
   - Code général des collectivités territoriales - art. L4332-7 (M)
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L4332-4 (M)
 
 
 ###### Article L4332-6
