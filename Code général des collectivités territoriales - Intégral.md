@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1998-03-08
+Version Consolidée au 1998-05-26
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -103,7 +103,7 @@ Version Consolidée au 1998-03-08
             - [Section 5 : Attributions (art. L2121-29 à L2121-34)](#100)
             - [Section 6 : Délégation spéciale (art. L2121-35 à L2121-39)](#101)
           - [CHAPITRE II : Le maire et les adjoints (art. L2122-1 à L2122-35)](#102)
-            - [Section 1 : Dispositions générales (art. L2122-1 à L2122-6)](#103)
+            - [Section 1 : Dispositions générales (art. L2122-1 à LO2122-4-1)](#103)
             - [Section 2 : Désignation (art. L2122-7 à L2122-17)](#104)
             - [Section 3 : Attributions (art. L2122-18 à L2122-34)](#105)
               - [Sous-section 1 : Conditions générales d'exercice. (art. L2122-18 à L2122-20)](#106)
@@ -255,7 +255,7 @@ Version Consolidée au 1998-03-08
           - [CHAPITRE III : Comptabilité du comptable (art. L2343-1 à L2343-2)](#252)
       - [LIVRE IV : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. L2411-1 à L2421-20)](#253)
         - [TITRE Ier : SECTION DE COMMUNE (art. L2411-1 à L2412-1)](#254)
-          - [CHAPITRE Ier : Dispositions générales (art. L2411-1 à L2411-19)](#255)
+          - [CHAPITRE Ier : Dispositions générales (art. L2411-1 à LO2411-3-1)](#255)
           - [CHAPITRE II : Dispositions financières (art. L2412-1)](#256)
         - [TITRE II : BIENS IMMOBILIERS SOUMIS À UN DROIT DE JOUISSANCE EXCLUSIF (art. L2421-1 à L2421-20)](#257)
           - [CHAPITRE UNIQUE (art. L2421-1 à L2421-20)](#258)
@@ -12278,6 +12278,22 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2564-6 (V)
   - Code général des collectivités territoriales - art. L2572-5 (V)
   - Code général des collectivités territoriales - art. L2573-6 (V)
+
+
+###### Article LO2122-4-1
+
+Le conseiller municipal qui n'a pas la nationalité française ne peut être élu maire ou adjoint, ni en exercer même
+temporairement les fonctions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°98-404 du 25 mai 1998 - art. 9 ()
 
 
 ##### Section 2 : Désignation<a id=104></a>
@@ -30920,6 +30936,27 @@ _Anciens textes_:
 
   - Code des communes L151-19 section de commune ecqc les dispositions générales
   - CODE DES COMMUNES. - art. L151-19 (Ab)
+
+
+###### Article LO2411-3-1
+
+Lorsqu'ils sont inscrits sur la liste électorale complémentaire de la commune établie en application de l'article LO 227-2 du
+code électoral, les ressortissants d'un Etat membre de l'Union européenne autre que la France participent à l'élection de
+l'organe délibérant d'une section de commune dans les mêmes conditions que les électeurs français.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°98-404 du 25 mai 1998 - art. 12 ()
+
+_Cite_:
+
+  - Code électoral - art. LO227-2 (V)
 
 
 ##### CHAPITRE II : Dispositions financières<a id=256></a>
