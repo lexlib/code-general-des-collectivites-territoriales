@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1999-07-13
+Version Consolidée au 1999-07-28
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -420,7 +420,7 @@ Version Consolidée au 1999-07-13
               - [Sous-section 1 : Dispositions générales. (art. L3334-1 à L3334-2)](#417)
               - [Sous-section 2 : Dotation forfaitaire. (art. L3334-3)](#418)
               - [Sous-section 3 : Dotation de péréquation. (art. L3334-4 à L3334-6)](#419)
-              - [Sous-section 4 : Dotation de fonctionnement minimale. (art. L3334-7)](#420)
+              - [Sous-section 4 : Concours particuliers (art. L3334-7 à L3334-7-1)](#420)
               - [Sous-section 5 : Solidarité financière entre les départements. (art. L3334-8)](#421)
               - [Sous-section 6 : Garantie d'évolution. (art. L3334-9)](#422)
             - [Section 2 : Dotation globale d'équipement (art. L3334-10 à L3334-15)](#423)
@@ -430,10 +430,10 @@ Version Consolidée au 1999-07-13
           - [CHAPITRE Ier : Engagement des dépenses (art. L3341-1)](#427)
           - [CHAPITRE II : Comptable du département (art. L3342-1 à L3342-2)](#428)
       - [LIVRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINS DÉPARTEMENTS (art. L3411-1 à L3443-2)](#429)
-        - [TITRE Ier : DÉPARTEMENT DE PARIS (art. L3411-1 à L3413-1)](#430)
+        - [TITRE Ier : DÉPARTEMENT DE PARIS (art. L3411-1 à L3413-2)](#430)
           - [CHAPITRE Ier : Dispositions générales (art. L3411-1 à L3411-2)](#431)
           - [CHAPITRE II : Organisation (art. L3412-1 à L3412-2)](#432)
-          - [CHAPITRE III : Dispositions financières (art. L3413-1)](#433)
+          - [CHAPITRE III : Dispositions financières (art. L3413-1 à L3413-2)](#433)
         - [TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE (art. L3421-1 à L3421-2)](#434)
           - [CHAPITRE UNIQUE (art. L3421-1 à L3421-2)](#435)
         - [TITRE III : DÉPARTEMENTS DE LA CORSE-DU-SUD ET DE LA HAUTE-CORSE (art. L3431-1 à L3431-2)](#436)
@@ -630,7 +630,7 @@ Version Consolidée au 1999-07-13
               - [Sous-section 1 : Modifications relatives aux compétences. (art. L5211-16 à L5211-17)](#627)
               - [Sous-section 2 : Modifications relatives au périmètre et à l'organisation. (art. L5211-18 à L5211-20)](#628)
             - [Section 6 : Dispositions financières (art. L5211-21 à L5211-40)](#629)
-              - [Sous-section 1 : Dispositions communes. (art. L5211-21 à L5211-27)](#630)
+              - [Sous-section 1 : Dispositions communes. (art. L5211-21 à L5211-27-1)](#630)
               - [Sous-section 2 : Etablissements de coopération intercommunale à fiscalité propre. (art. L5211-28 à L5211-30)](#631)
               - [Sous-section 2 : Etablissements publics de coopération intercommunale dotés d'une fiscalité propre. (art. L5211-31 à L5211-35)](#632)
               - [Sous-section 3 : Démocratisation et transparence. (art. L5211-36 à L5211-40)](#633)
@@ -646,100 +646,99 @@ Version Consolidée au 1999-07-13
               - [Sous-section 1 : Le comité du syndicat. (art. L5212-6 à L5212-7)](#643)
             - [Section 3 : Fonctionnement. (art. L5212-15 à L5212-17)](#644)
             - [Section 4 : Dispositions financières. (art. L5212-18 à L5212-25)](#645)
-            - [Section 5 : Modification des conditions initiales de composition et de fonctionnement (art. L5212-26 à L5212-32)](#646)
-              - [Sous-section 1 : Admission de nouvelles communes. (art. L5212-26)](#647)
-              - [Sous-section 3 : Retrait de communes. (art. L5212-29 à L5212-30)](#648)
-              - [Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale. (art. L5212-32)](#649)
-            - [Section 6 : Dissolution (art. L5212-33 à L5212-34)](#650)
-          - [CHAPITRE IV : Communauté de communes (art. L5214-1 à L5214-29)](#651)
-            - [Section 1 : Création (art. L5214-1 à L5214-4)](#652)
-            - [Section 2 : Organes (art. L5214-7 à L5214-10-1)](#653)
-              - [Sous-section 1 : Le conseil de la communauté de communes. (art. L5214-7 à L5214-10-1)](#654)
-            - [Section 4 : Compétences. (art. L5214-16 à L5214-22)](#655)
-            - [Section 5 : Dispositions financières. (art. L5214-23 à L5214-23-1)](#656)
-            - [Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes (art. L5214-26 à L5214-27)](#657)
-              - [Sous-section 3 : Retrait de communes. (art. L5214-26)](#658)
-              - [Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale. (art. L5214-27)](#659)
-            - [Section 7 : Dissolution. (art. L5214-28 à L5214-29)](#660)
-          - [CHAPITRE V : Communauté urbaine (art. L5215-1 à L5215-42)](#661)
-            - [Section 1 : Création. (art. L5215-1 à L5215-4)](#662)
-            - [Section 2 : Organes (art. L5215-6 à L5215-18)](#663)
-              - [Sous-section 1 : Le conseil de communauté. (art. L5215-6 à L5215-10)](#664)
-              - [Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté. (art. L5215-16 à L5215-18)](#665)
-            - [Section 3 : Compétences (art. L5215-19 à L5215-31)](#666)
-              - [Sous-section 1 : Dispositions générales. (art. L5215-19)](#667)
-              - [Sous-section 2 : Compétences obligatoires. (art. L5215-20 à L5215-20-1)](#668)
-              - [Sous-section 3 : Transferts de compétences. (art. L5215-21 à L5215-24)](#669)
-              - [Sous-section 4 : Modalités particulières d'intervention. (art. L5215-26 à L5215-27)](#670)
-              - [Sous-section 5 : Transferts de biens, droits et obligations. (art. L5215-28 à L5215-31)](#671)
-            - [Section 4 : Dispositions financières. (art. L5215-32 à L5215-39)](#672)
-            - [Section 5 : Modifications (art. L5215-40)](#673)
-              - [Sous-section 1 : Admission de nouvelles communes. (art. L5215-40)](#674)
-            - [Section 3 : Modifications (art. L5215-40-1)](#675)
-              - [Sous-section 2 : Admission de nouvelles communes (art. L5215-40-1)](#676)
-            - [Section 6 : Dissolution et transformation. (art. L5215-42)](#677)
-          - [CHAPITRE VI : Communauté d'agglomération (art. L5216-10 à L5216-9)](#678)
-            - [Section 1 : Création. (art. L5216-1 à L5216-2)](#679)
-            - [Section 2 : Le conseil de la communauté d'agglomération (art. L5216-3)](#680)
-            - [Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération (art. L5216-4 à L5216-4-2)](#681)
-            - [Section 4 : Compétences (art. L5216-5 à L5216-7)](#682)
-            - [Section 5 : Dispositions financières (art. L5216-8)](#683)
-            - [Section 6 : Dissolution. (art. L5216-9)](#684)
-        - [TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE (art. L5221-1 à L5223-3)](#685)
-          - [CHAPITRE Ier : Entente, convention et conférence intercommunales (art. L5221-1 à L5221-2)](#686)
-          - [CHAPITRE II : Biens et droits indivis entre plusieurs communes (art. L5222-1 à L5222-6)](#687)
-            - [Section 1 : Gestion des biens et droits indivis. (art. L5222-1 à L5222-3)](#688)
-            - [Section 2 : Fin de l'indivision. (art. L5222-4 à L5222-6)](#689)
-          - [CHAPITRE III : Charte intercommunale de développement et d'aménagement (art. L5223-1 à L5223-3)](#690)
-      - [LIVRE III : AGGLOMÉRATION NOUVELLE (art. L5311-1 à L5351-1)](#691)
-        - [TITRE Ier : CRÉATION (art. L5311-1 à L5311-3)](#692)
-          - [CHAPITRE UNIQUE (art. L5311-1 à L5311-3)](#693)
-        - [TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES (art. L5321-1 à L5321-5)](#694)
-          - [CHAPITRE UNIQUE (art. L5321-1 à L5321-5)](#695)
-        - [TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE (art. L5331-1 à L5334-21)](#696)
-          - [CHAPITRE Ier : Communauté d'agglomération nouvelle (art. L5331-1 à L5331-3)](#697)
-          - [CHAPITRE II : Syndicat d'agglomération nouvelle (art. L5332-1 à L5332-5)](#698)
-            - [Section 1 : Composition du comité du syndicat d'agglomération nouvelle. (art. L5332-1 à L5332-2)](#699)
-            - [Section 2 : Admission de nouvelles communes au syndicat d'agglomération nouvelle et retrait. (art. L5332-3 à L5332-5)](#700)
-          - [CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle (art. L5333-1 à L5333-9)](#701)
-          - [CHAPITRE IV : Dispositions financières (art. L5334-1 à L5334-21)](#702)
-            - [Section 1 : Dispositions générales. (art. L5334-1 à L5334-20)](#703)
-            - [Section 2 : Fin du régime particulier applicable aux agglomérations nouvelles. (art. L5334-21)](#704)
-        - [TITRE IV : FIN DU RÉGIME APPLICABLE AUX AGGLOMÉRATIONS NOUVELLES (art. L5341-1 à L5341-3)](#705)
-          - [CHAPITRE UNIQUE (art. L5341-1 à L5341-3)](#706)
-        - [TITRE V : DISPOSITIONS D'APPLICATION (art. L5351-1)](#707)
-          - [CHAPITRE UNIQUE (art. L5351-1)](#708)
-      - [LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE (art. L5411-1 à L5421-6)](#709)
-        - [TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES (art. L5411-1 à L5411-2)](#710)
-          - [CHAPITRE UNIQUE (art. L5411-1 à L5411-2)](#711)
-        - [TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX (art. L5421-1 à L5421-6)](#712)
-          - [CHAPITRE UNIQUE (art. L5421-1 à L5421-6)](#713)
-      - [LIVRE V : AGENCE DÉPARTEMENTALE (art. L5511-1)](#714)
-        - [TITRE UNIQUE (art. L5511-1)](#715)
-          - [CHAPITRE UNIQUE (art. L5511-1)](#716)
-      - [LIVRE VI : COOPÉRATION INTERRÉGIONALE (art. L5611-1 à L5622-4)](#717)
-        - [TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES (art. L5611-1)](#718)
-          - [CHAPITRE UNIQUE (art. L5611-1)](#719)
-        - [TITRE II : ENTENTE INTERRÉGIONALE (art. L5621-1 à L5622-4)](#720)
-          - [CHAPITRE Ier : Organisation et fonctionnement (art. L5621-1 à L5621-9)](#721)
-          - [CHAPITRE II : Dispositions financières (art. L5622-1 à L5622-4)](#722)
-      - [LIVRE VII : SYNDICAT MIXTE (art. L5711-1 à L5722-6)](#723)
-        - [TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE (art. L5711-1)](#724)
-          - [CHAPITRE unique. (art. L5711-1)](#725)
-        - [TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC (art. L5721-1 à L5722-6)](#726)
-          - [CHAPITRE Ier : Organisation et fonctionnement (art. L5721-1 à L5721-7)](#727)
-          - [CHAPITRE II : Dispositions financières (art. L5722-1 à L5722-6)](#728)
-      - [LIVRE VIII : DISPOSITIONS PARTICULIÈRES (art. L5811-1 à L5822-1)](#729)
-        - [TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN (art. L5811-1 à L5816-9)](#730)
-          - [CHAPITRE Ier : Syndicat de communes. (art. L5811-1)](#731)
-          - [CHAPITRE II : Communauté de communes. (art. L5812-1)](#732)
-          - [CHAPITRE III : Communauté urbaine. (art. L5813-1 à L5813-2)](#733)
-          - [CHAPITRE IV : Communauté de villes. (art. L5814-1)](#734)
-          - [CHAPITRE V : Entente, convention et conférence intercommunales. (art. L5815-1 à L5815-2)](#735)
-          - [CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes. (art. L5816-1 à L5816-9)](#736)
-        - [TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION (art. L5821-1 à L5822-1)](#737)
-          - [CHAPITRE Ier : Communauté urbaine. (art. L5821-1)](#738)
-          - [CHAPITRE II : Charte intercommunale de développement et d'aménagement. (art. L5822-1)](#739)
+            - [Section 5 : Modification des conditions initiales de composition et de fonctionnement (art. L5212-29 à L5212-32)](#646)
+              - [Sous-section 3 : Retrait de communes. (art. L5212-29 à L5212-30)](#647)
+              - [Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale. (art. L5212-32)](#648)
+            - [Section 6 : Dissolution (art. L5212-33 à L5212-34)](#649)
+          - [CHAPITRE IV : Communauté de communes (art. L5214-1 à L5214-29)](#650)
+            - [Section 1 : Création (art. L5214-1 à L5214-4)](#651)
+            - [Section 2 : Organes (art. L5214-7 à L5214-10-1)](#652)
+              - [Sous-section 1 : Le conseil de la communauté de communes. (art. L5214-7 à L5214-10-1)](#653)
+            - [Section 4 : Compétences. (art. L5214-16 à L5214-22)](#654)
+            - [Section 5 : Dispositions financières. (art. L5214-23 à L5214-23-1)](#655)
+            - [Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes (art. L5214-26 à L5214-27)](#656)
+              - [Sous-section 3 : Retrait de communes. (art. L5214-26)](#657)
+              - [Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale. (art. L5214-27)](#658)
+            - [Section 7 : Dissolution. (art. L5214-28 à L5214-29)](#659)
+          - [CHAPITRE V : Communauté urbaine (art. L5215-1 à L5215-42)](#660)
+            - [Section 1 : Création. (art. L5215-1 à L5215-4)](#661)
+            - [Section 2 : Organes (art. L5215-6 à L5215-18)](#662)
+              - [Sous-section 1 : Le conseil de communauté. (art. L5215-6 à L5215-10)](#663)
+              - [Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté. (art. L5215-16 à L5215-18)](#664)
+            - [Section 3 : Compétences (art. L5215-19 à L5215-31)](#665)
+              - [Sous-section 1 : Dispositions générales. (art. L5215-19)](#666)
+              - [Sous-section 2 : Compétences obligatoires. (art. L5215-20 à L5215-20-1)](#667)
+              - [Sous-section 3 : Transferts de compétences. (art. L5215-21 à L5215-24)](#668)
+              - [Sous-section 4 : Modalités particulières d'intervention. (art. L5215-26 à L5215-27)](#669)
+              - [Sous-section 5 : Transferts de biens, droits et obligations. (art. L5215-28 à L5215-31)](#670)
+            - [Section 4 : Dispositions financières. (art. L5215-32 à L5215-39)](#671)
+            - [Section 5 : Modifications (art. L5215-40)](#672)
+              - [Sous-section 1 : Admission de nouvelles communes. (art. L5215-40)](#673)
+            - [Section 3 : Modifications (art. L5215-40-1)](#674)
+              - [Sous-section 2 : Admission de nouvelles communes (art. L5215-40-1)](#675)
+            - [Section 6 : Dissolution et transformation. (art. L5215-42)](#676)
+          - [CHAPITRE VI : Communauté d'agglomération (art. L5216-10 à L5216-9)](#677)
+            - [Section 1 : Création. (art. L5216-1 à L5216-2)](#678)
+            - [Section 2 : Le conseil de la communauté d'agglomération (art. L5216-3)](#679)
+            - [Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération (art. L5216-4 à L5216-4-2)](#680)
+            - [Section 4 : Compétences (art. L5216-5 à L5216-7)](#681)
+            - [Section 5 : Dispositions financières (art. L5216-8)](#682)
+            - [Section 6 : Dissolution. (art. L5216-9)](#683)
+        - [TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE (art. L5221-1 à L5223-3)](#684)
+          - [CHAPITRE Ier : Entente, convention et conférence intercommunales (art. L5221-1 à L5221-2)](#685)
+          - [CHAPITRE II : Biens et droits indivis entre plusieurs communes (art. L5222-1 à L5222-6)](#686)
+            - [Section 1 : Gestion des biens et droits indivis. (art. L5222-1 à L5222-3)](#687)
+            - [Section 2 : Fin de l'indivision. (art. L5222-4 à L5222-6)](#688)
+          - [CHAPITRE III : Charte intercommunale de développement et d'aménagement (art. L5223-1 à L5223-3)](#689)
+      - [LIVRE III : AGGLOMÉRATION NOUVELLE (art. L5311-1 à L5351-1)](#690)
+        - [TITRE Ier : CRÉATION (art. L5311-1 à L5311-3)](#691)
+          - [CHAPITRE UNIQUE (art. L5311-1 à L5311-3)](#692)
+        - [TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES (art. L5321-1 à L5321-5)](#693)
+          - [CHAPITRE UNIQUE (art. L5321-1 à L5321-5)](#694)
+        - [TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE (art. L5331-1 à L5334-21)](#695)
+          - [CHAPITRE Ier : Communauté d'agglomération nouvelle (art. L5331-1 à L5331-3)](#696)
+          - [CHAPITRE II : Syndicat d'agglomération nouvelle (art. L5332-1 à L5332-5)](#697)
+            - [Section 1 : Composition du comité du syndicat d'agglomération nouvelle. (art. L5332-1 à L5332-2)](#698)
+            - [Section 2 : Admission de nouvelles communes au syndicat d'agglomération nouvelle et retrait. (art. L5332-3 à L5332-5)](#699)
+          - [CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle (art. L5333-1 à L5333-9)](#700)
+          - [CHAPITRE IV : Dispositions financières (art. L5334-1 à L5334-21)](#701)
+            - [Section 1 : Dispositions générales. (art. L5334-1 à L5334-20)](#702)
+            - [Section 2 : Fin du régime particulier applicable aux agglomérations nouvelles. (art. L5334-21)](#703)
+        - [TITRE IV : FIN DU RÉGIME APPLICABLE AUX AGGLOMÉRATIONS NOUVELLES (art. L5341-1 à L5341-3)](#704)
+          - [CHAPITRE UNIQUE (art. L5341-1 à L5341-3)](#705)
+        - [TITRE V : DISPOSITIONS D'APPLICATION (art. L5351-1)](#706)
+          - [CHAPITRE UNIQUE (art. L5351-1)](#707)
+      - [LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE (art. L5411-1 à L5421-6)](#708)
+        - [TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES (art. L5411-1 à L5411-2)](#709)
+          - [CHAPITRE UNIQUE (art. L5411-1 à L5411-2)](#710)
+        - [TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX (art. L5421-1 à L5421-6)](#711)
+          - [CHAPITRE UNIQUE (art. L5421-1 à L5421-6)](#712)
+      - [LIVRE V : AGENCE DÉPARTEMENTALE (art. L5511-1)](#713)
+        - [TITRE UNIQUE (art. L5511-1)](#714)
+          - [CHAPITRE UNIQUE (art. L5511-1)](#715)
+      - [LIVRE VI : COOPÉRATION INTERRÉGIONALE (art. L5611-1 à L5622-4)](#716)
+        - [TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES (art. L5611-1)](#717)
+          - [CHAPITRE UNIQUE (art. L5611-1)](#718)
+        - [TITRE II : ENTENTE INTERRÉGIONALE (art. L5621-1 à L5622-4)](#719)
+          - [CHAPITRE Ier : Organisation et fonctionnement (art. L5621-1 à L5621-9)](#720)
+          - [CHAPITRE II : Dispositions financières (art. L5622-1 à L5622-4)](#721)
+      - [LIVRE VII : SYNDICAT MIXTE (art. L5711-1 à L5722-6)](#722)
+        - [TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE (art. L5711-1)](#723)
+          - [CHAPITRE unique. (art. L5711-1)](#724)
+        - [TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC (art. L5721-1 à L5722-6)](#725)
+          - [CHAPITRE Ier : Organisation et fonctionnement (art. L5721-1 à L5721-7)](#726)
+          - [CHAPITRE II : Dispositions financières (art. L5722-1 à L5722-6)](#727)
+      - [LIVRE VIII : DISPOSITIONS PARTICULIÈRES (art. L5811-1 à L5822-1)](#728)
+        - [TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN (art. L5811-1 à L5816-9)](#729)
+          - [CHAPITRE Ier : Syndicat de communes. (art. L5811-1)](#730)
+          - [CHAPITRE II : Communauté de communes. (art. L5812-1)](#731)
+          - [CHAPITRE III : Communauté urbaine. (art. L5813-1 à L5813-2)](#732)
+          - [CHAPITRE IV : Communauté de villes. (art. L5814-1)](#733)
+          - [CHAPITRE V : Entente, convention et conférence intercommunales. (art. L5815-1 à L5815-2)](#734)
+          - [CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes. (art. L5816-1 à L5816-9)](#735)
+        - [TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION (art. L5821-1 à L5822-1)](#736)
+          - [CHAPITRE Ier : Communauté urbaine. (art. L5821-1)](#737)
+          - [CHAPITRE II : Charte intercommunale de développement et d'aménagement. (art. L5822-1)](#738)
 # Partie législative<a id=1></a>
 
 ## PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES<a id=2></a>
@@ -23730,8 +23729,7 @@ publicité appropriée en mairie et sur les lieux où se pratiquent ces activit�
 
 10° Les dépenses résultant de l'application de l'article L. 521-1 du code de la mutualité ;
 
-11° La participation de la commune aux dépenses d'aide sociale conformément aux dispositions de l'article 93 de la loi n°
-83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat ;
+11° Abrogé ;
 
 12° Les dépenses des services communaux de désinfection et des services communaux d'hygiène et de santé dans les conditions
 prévues par le titre Ier du livre Ier du code de la santé publique ;
@@ -23819,10 +23817,6 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
-
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
 _Cité par_:
 
   - Décret n°96-525 du 13 juin 1996 - art. 2 (Ab)
@@ -23846,6 +23840,10 @@ _Cité par_:
 
   - TXT_SOURCE: Décret n°98-1012 du 9 novembre 1998
   - TXT_SOURCE: Décret n°98-1012 du 9 novembre 1998 - art. 1 ()
+
+_Modifié par_:
+
+  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
 
 
 ###### Article L2321-3
@@ -27829,6 +27827,10 @@ Le montant de la régularisation, auquel est ajouté le reliquat comptable éven
 bénéficiaires de la dotation globale de fonctionnement au prorata des sommes perçues au titre de la dotation initiale de
 l'année au cours de laquelle la régularisation est versée.
 
+A compter de 2000, le montant de la dotation globale de fonctionnement visée au premier alinéa est égal à la différence entre
+le montant de la dotation prévue à l'article L. 1613-3 et le montant de la dotation prévue à l'article L. 3334-1 après
+application de l'article L. 3334-7-1.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -27848,14 +27850,20 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
 
 _Anciens textes_:
 
   - CODE DES COMMUNES. - art. L234-1 (M)
   - CODE DES COMMUNES. - art. L234-1 (Ab)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1613-3 (V)
+  - Code général des collectivités territoriales - art. L3334-1 (M)
+  - Code général des collectivités territoriales - art. L3334-7-1 (M)
 
 
 ###### Article L2334-2
@@ -28418,6 +28426,87 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2334-13 (V)
   - Code général des collectivités territoriales - art. L2334-7 (V)
   - Code général des collectivités territoriales - art. L5211-28-1 (V)
+
+
+###### Article L2334-7-2
+
+I. - La dotation forfaitaire visée à l'article L. 2334-7 est diminuée, à compter de 2000, d'un montant égal à la
+participation de la commune aux dépenses d'aide sociale du département au titre de 1999 et revalorisé comme la dotation
+globale de fonctionnement mise en répartition.
+
+Un abattement est appliqué à la diminution de la dotation forfaitaire telle que définie à l'alinéa précédent pour les
+communes éligibles à la dotation de solidarité urbaine et à la dotation de solidarité rurale en 1999 dont l'écart entre la
+contribution par habitant au titre de 1999 et la moyenne par habitant des contributions communales de l'ensemble des
+départements, à l'exception de Paris, est supérieur à 30 %.
+
+L'abattement prévu au deuxième alinéa est calculé à partir :
+
+1° De l'écart, sous réserve qu'il soit positif, entre la contribution de la commune par habitant au titre de 1999 et la
+moyenne par habitant des contributions communales du département ;
+
+2° De l'écart entre la contribution de la commune par habitant au titre de 1999 et la moyenne par habitant des contributions
+communales de l'ensemble des départements, à l'exception de Paris.
+
+Cet abattement est égal à la somme des produits de 10 % des écarts définis aux 1° et 2° par la population de la commune en
+1999.
+
+II. - Pour le calcul, en 2000, de la diminution de la dotation forfaitaire prévue au premier alinéa du I, la participation de
+la commune aux dépenses d'aide sociale du département au titre de 1999 et appelée au cours de cet exercice est fixée, avant
+le 30 octobre 1999, par arrêté du préfet pris après avis du président du conseil général.
+
+Un ajustement de la diminution de la dotation forfaitaire est opéré en 2001 sur la base d'un arrêté du préfet pris après avis
+du président du conseil général fixant, avant le 30 octobre 2000, le montant définitif de la participation de la commune aux
+dépenses d'aide sociale du département au titre de 1999. L'abattement visé au deuxième alinéa du I est appliqué à la
+diminution de la dotation forfaitaire opérée sur la base de ce montant.
+
+Pour la mise en oeuvre des deux précédents alinéas, le président du conseil général transmet au préfet, avant le 30 septembre
+1999, le montant de la participation appelée pour chaque commune au titre de 1999 et, avant le 30 septembre 2000, le montant
+définitif de cette participation.
+
+III. - Dans le cas où la participation de la commune visée au premier alinéa du I est supérieure à la dotation forfaitaire,
+la différence est prélevée sur le produit des impôts directs locaux visés aux 1°, 2°, 3° et 4° du I de l'article 1379 du code
+général des impôts. Pour les communes membres d'un établissement public de coopération intercommunale soumis aux dispositions
+de l'article 1609 nonies C du code général des impôts et dont le produit des impôts défini ci-dessus est insuffisant, le
+complément est prélevé sur le montant de l'attribution de compensation versée par le groupement à la commune.
+
+A compter de 2001, le montant du prélèvement visé à l'alinéa précédent évolue comme la dotation forfaitaire.
+
+Il est créé, à compter de 2000, un fonds qui dispose en ressources du prélèvement défini au premier alinéa du III. Les
+ressources de ce fonds sont réparties en application de l'article L. 3334-7-1.
+
+Les sommes affectées à ce fonds ne sont pas prises en compte dans le montant de la dotation globale de fonctionnement pour
+l'application des I et II de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
+
+IV. - Pour l'application du I du présent article, la population de la commune à prendre en compte est celle définie à
+l'article R. 114-1 du code des communes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Cite_:
+
+  - Loi n°98-1266 1998-12-30 art. 57 Finances pour 1999
+  - CGI 1379, 1609 nonies C
+  - CODE DES COMMUNES. - art. R114-1 (Ab)
+  - Code général des collectivités territoriales - art. L3334-7-1 (M)
+
+_Créé par_:
+
+  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+_Cité par_:
+
+  - Arrêté du 4 avril 2009 (V)
+  - Arrêté du 3 septembre 2014 - art. (V)
+  - Arrêté du 3 septembre 2014 - art. 1 (V)
+  - Code général des collectivités territoriales - art. L2334-4 (VD)
+  - Code général des collectivités territoriales - art. L2334-7 (V)
+  - Code général des collectivités territoriales - art. L3334-7-2 (Ab)
+  - Code général des collectivités territoriales - art. L3413-2 (V)
+  - Code général des collectivités territoriales - art. L5211-27-1 (V)
 
 
 ###### Article L2334-8
@@ -43882,7 +43971,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3334-2 (M)
 
 
-##### Sous-section 4 : Dotation de fonctionnement minimale.<a id=420></a>
+##### Sous-section 4 : Concours particuliers<a id=420></a>
 
 ###### Article L3334-7
 
@@ -43932,9 +44021,61 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
+_Modifié par_:
+
+  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+
+###### Article L3334-7-1
+
+Il est créé, au sein de la dotation globale de fonctionnement des départements, une dotation dont le montant est égal à la
+diminution de la dotation forfaitaire augmentée, le cas échéant, des ressources du fonds prévu au III de l'article L.
+2334-7-2.
+
+En 2000, cette dotation est répartie entre les départements proportionnellement aux participations communales aux dépenses
+d'aide sociale de chaque département fixées par l'arrêté prévu au premier alinéa du II de l'article L. 2334-7-2.
+
+A compter de 2001, cette dotation évolue, chaque année, comme la dotation globale de fonctionnement mise en répartition.
+
+En 2001, un ajustement de la dotation est opéré sur la base de l'arrêté prévu au deuxième alinéa du II de l'article L.
+2334-7-2.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-1268 du 29 novembre 1985 - art. 34 (M)
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
 _Créé par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+_Cité par_:
+
+  - Loi - art. 49 (V)
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 53 (M)
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 11 (V)
+  - Loi n°2014-58 du 27 janvier 2014 - art. 39 (V)
+  - Code général des collectivités territoriales - art. L1613-1 (V)
+  - Code général des collectivités territoriales - art. L2334-1 (M)
+  - Code général des collectivités territoriales - art. L2334-7-2 (M)
+  - Code général des collectivités territoriales - art. L2513-7 (V)
+  - Code général des collectivités territoriales - art. L3334-1 (V)
+  - Code général des collectivités territoriales - art. L3334-3 (M)
+  - Code général des collectivités territoriales - art. L3334-4 (V)
+  - Code général des collectivités territoriales - art. L3334-6 (V)
+  - Code général des collectivités territoriales - art. L3334-7-1 (M)
+  - Code général des collectivités territoriales - art. L3413-2 (M)
+  - Code général des collectivités territoriales - art. L3662-4 (VD)
+  - Code général des collectivités territoriales - art. L3663-9 (V)
+  - Code général des collectivités territoriales - art. L6173-5 (VT)
+  - Code général des collectivités territoriales - art. L6264-3 (V)
+  - Code général des collectivités territoriales - art. L6364-3 (V)
+  - Code général des collectivités territoriales - art. L6473-5 (V)
 
 
 ##### Sous-section 5 : Solidarité financière entre les départements.<a id=421></a>
@@ -44015,8 +44156,8 @@ _Cite_:
 progresse, d'une année sur l'autre, de 55 p. 100 au moins du taux d'évolution de l'ensemble des ressources affectées à la
 dotation globale de fonctionnement.
 
-Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement des départements après déduction du
-concours particulier prévu à l'article L. 3334-7.
+Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement des départements après déduction des
+concours particuliers prévus à la sous-section 4.
 
 **Liens relatifs à cet article**
 
@@ -44029,9 +44170,13 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+_Abrogé par_:
+
+  - Loi - art. 49 (V) JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -44703,6 +44848,28 @@ _Cite_:
 _Cité par_:
 
   - Code général des collectivités territoriales - art. L3431-1 (VT)
+
+
+###### Article L3413-2
+
+Les dispositions des articles L. 2334-7-2 et L. 3334-7-1 ne sont pas applicables à Paris. Le Conseil de Paris fixe les
+conditions financières de la suppression de la participation de la commune aux dépenses d'aide sociale et de santé du
+département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2334-7-2 (M)
+  - Code général des collectivités territoriales - art. L3334-7-1 (M)
 
 
 #### TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE<a id=434></a>
@@ -56946,6 +57113,35 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-26 (V)
 
 
+###### Article L5211-27-1
+
+Lorsque la participation de la commune aux dépenses d'aide sociale du département au titre de 1999 est acquittée par
+l'établissement public de coopération intercommunale au lieu et place de la commune membre, celui-ci procède, à compter de
+2000, à un reversement au profit de la commune. 
+
+Ce reversement, qui constitue une dépense obligatoire pour l'établissement public de coopération intercommunale, est égal,
+pour les exercices 2000 et 2001, aux prélèvements opérés en application des II et III de l'article L. 2334-7-2. Pour les
+exercices ultérieurs, il évolue comme la dotation forfaitaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2334-7-2 (V)
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. L5722-2-1 (V)
+
+
 ##### Sous-section 2 : Etablissements de coopération intercommunale à fiscalité propre.<a id=631></a>
 
 ###### Article L5211-28
@@ -58901,45 +59097,7 @@ _Cite_:
 
 ##### Section 5 : Modification des conditions initiales de composition et de fonctionnement<a id=646></a>
 
-##### Sous-section 1 : Admission de nouvelles communes.<a id=647></a>
-
-###### Article L5212-26
-
-- Des communes autres que celles primitivement syndiquées peuvent être admises à faire partie du syndicat avec le
-consentement du comité. La délibération du comité doit être notifiée aux maires de chacune des communes syndiquées. Les
-conseils municipaux doivent obligatoirement être consultés dans un délai de quarante jours à compter de cette notification.
-
-La décision d'admission ne peut intervenir si plus d'un tiers des conseils municipaux s'y oppose.
-
-La décision est prise par le représentant de l'Etat dans le département.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°96-142 1996-02-21
-
-_Créé par_:
-
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-_Abrogé par_:
-
-  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-_Anciens textes_:
-
-  - CODE DES COMMUNES. - art. L163-15 (M)
-  - CODE DES COMMUNES. - art. L163-15 (Ab)
-
-_Cité par_:
-
-  - Code général des collectivités territoriales - art. L5212-27 (Ab)
-  - Code général des collectivités territoriales - art. L5212-28 (Ab)
-  - Code général des collectivités territoriales - art. L5332-3 (M)
-
-
-##### Sous-section 3 : Retrait de communes.<a id=648></a>
+##### Sous-section 3 : Retrait de communes.<a id=647></a>
 
 ###### Article L5212-29
 
@@ -59090,7 +59248,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L163-16-2 (Ab)
 
 
-##### Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale.<a id=649></a>
+##### Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale.<a id=648></a>
 
 ###### Article L5212-32
 
@@ -59118,7 +59276,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5212-2 (V)
 
 
-##### Section 6 : Dissolution<a id=650></a>
+##### Section 6 : Dissolution<a id=649></a>
 
 ###### Article L5212-33
 
@@ -59204,9 +59362,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-19 (V)
 
 
-##### CHAPITRE IV : Communauté de communes<a id=651></a>
+##### CHAPITRE IV : Communauté de communes<a id=650></a>
 
-##### Section 1 : Création<a id=652></a>
+##### Section 1 : Création<a id=651></a>
 
 ###### Article L5214-1
 
@@ -59291,9 +59449,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-20 (V)
 
 
-##### Section 2 : Organes<a id=653></a>
+##### Section 2 : Organes<a id=652></a>
 
-##### Sous-section 1 : Le conseil de la communauté de communes.<a id=654></a>
+##### Sous-section 1 : Le conseil de la communauté de communes.<a id=653></a>
 
 ###### Article L5214-7
 
@@ -59364,7 +59522,7 @@ _Cite_:
   - Code général des collectivités territoriales L2123-3 à L2123-5, L2123-7 à L2123-11
 
 
-##### Section 4 : Compétences.<a id=655></a>
+##### Section 4 : Compétences.<a id=654></a>
 
 ###### Article L5214-16
 
@@ -59522,7 +59680,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5214-2 (Ab)
 
 
-##### Section 5 : Dispositions financières.<a id=656></a>
+##### Section 5 : Dispositions financières.<a id=655></a>
 
 ###### Article L5214-23
 
@@ -59632,9 +59790,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5211-2 (Ab)
 
 
-##### Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes<a id=657></a>
+##### Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes<a id=656></a>
 
-##### Sous-section 3 : Retrait de communes.<a id=658></a>
+##### Sous-section 3 : Retrait de communes.<a id=657></a>
 
 ###### Article L5214-26
 
@@ -59679,7 +59837,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-25-1 (M)
 
 
-##### Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale.<a id=659></a>
+##### Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale.<a id=658></a>
 
 ###### Article L5214-27
 
@@ -59707,7 +59865,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5214-2 (Ab)
 
 
-##### Section 7 : Dissolution.<a id=660></a>
+##### Section 7 : Dissolution.<a id=659></a>
 
 ###### Article L5214-28
 
@@ -59791,9 +59949,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-24 (V)
 
 
-##### CHAPITRE V : Communauté urbaine<a id=661></a>
+##### CHAPITRE V : Communauté urbaine<a id=660></a>
 
-##### Section 1 : Création.<a id=662></a>
+##### Section 1 : Création.<a id=661></a>
 
 ###### Article L5215-1
 
@@ -59862,9 +60020,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L165-38 (Ab)
 
 
-##### Section 2 : Organes<a id=663></a>
+##### Section 2 : Organes<a id=662></a>
 
-##### Sous-section 1 : Le conseil de communauté.<a id=664></a>
+##### Sous-section 1 : Le conseil de communauté.<a id=663></a>
 
 ###### Article L5215-6
 
@@ -60013,7 +60171,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5211-7 (V)
 
 
-##### Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté.<a id=665></a>
+##### Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté.<a id=664></a>
 
 ###### Article L5215-16
 
@@ -60117,9 +60275,9 @@ _Cité par_:
   - Loi n°2012-347 du 12 mars 2012 - art. 15 (V)
 
 
-##### Section 3 : Compétences<a id=666></a>
+##### Section 3 : Compétences<a id=665></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=667></a>
+##### Sous-section 1 : Dispositions générales.<a id=666></a>
 
 ###### Article L5215-19
 
@@ -60142,7 +60300,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L165-24 (Ab)
 
 
-##### Sous-section 2 : Compétences obligatoires.<a id=668></a>
+##### Sous-section 2 : Compétences obligatoires.<a id=667></a>
 
 ###### Article L5215-20
 
@@ -60333,7 +60491,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5215-23 (V)
 
 
-##### Sous-section 3 : Transferts de compétences.<a id=669></a>
+##### Sous-section 3 : Transferts de compétences.<a id=668></a>
 
 ###### Article L5215-21
 
@@ -60494,7 +60652,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 4 : Modalités particulières d'intervention.<a id=670></a>
+##### Sous-section 4 : Modalités particulières d'intervention.<a id=669></a>
 
 ###### Article L5215-26
 
@@ -60552,7 +60710,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5216-7-1 (V)
 
 
-##### Sous-section 5 : Transferts de biens, droits et obligations.<a id=671></a>
+##### Sous-section 5 : Transferts de biens, droits et obligations.<a id=670></a>
 
 ###### Article L5215-28
 
@@ -60657,7 +60815,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 4 : Dispositions financières.<a id=672></a>
+##### Section 4 : Dispositions financières.<a id=671></a>
 
 ###### Article L5215-32
 
@@ -60909,9 +61067,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5215-17 (V)
 
 
-##### Section 5 : Modifications<a id=673></a>
+##### Section 5 : Modifications<a id=672></a>
 
-##### Sous-section 1 : Admission de nouvelles communes.<a id=674></a>
+##### Sous-section 1 : Admission de nouvelles communes.<a id=673></a>
 
 ###### Article L5215-40
 
@@ -60947,9 +61105,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5215-1 (Ab)
 
 
-##### Section 3 : Modifications<a id=675></a>
+##### Section 3 : Modifications<a id=674></a>
 
-##### Sous-section 2 : Admission de nouvelles communes<a id=676></a>
+##### Sous-section 2 : Admission de nouvelles communes<a id=675></a>
 
 ###### Article L5215-40-1
 
@@ -61014,7 +61172,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1638 quater (V)
 
 
-##### Section 6 : Dissolution et transformation.<a id=677></a>
+##### Section 6 : Dissolution et transformation.<a id=676></a>
 
 ###### Article L5215-42
 
@@ -61064,7 +61222,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5217-7 (VT)
 
 
-##### CHAPITRE VI : Communauté d'agglomération<a id=678></a>
+##### CHAPITRE VI : Communauté d'agglomération<a id=677></a>
 
 ###### Article L5216-10
 
@@ -61136,7 +61294,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L168-6 (Ab)
 
 
-##### Section 1 : Création.<a id=679></a>
+##### Section 1 : Création.<a id=678></a>
 
 ###### Article L5216-1
 
@@ -61220,7 +61378,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 nonies C (VT)
 
 
-##### Section 2 : Le conseil de la communauté d'agglomération<a id=680></a>
+##### Section 2 : Le conseil de la communauté d'agglomération<a id=679></a>
 
 ###### Article L5216-3
 
@@ -61263,7 +61421,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-26 (V)
 
 
-##### Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération<a id=681></a>
+##### Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération<a id=680></a>
 
 ###### Article L5216-4
 
@@ -61340,7 +61498,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-27 (V)
 
 
-##### Section 4 : Compétences<a id=682></a>
+##### Section 4 : Compétences<a id=681></a>
 
 ###### Article L5216-5
 
@@ -61544,7 +61702,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5711-1 (M)
 
 
-##### Section 5 : Dispositions financières<a id=683></a>
+##### Section 5 : Dispositions financières<a id=682></a>
 
 ###### Article L5216-8
 
@@ -61595,7 +61753,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1640 B (V)
 
 
-##### Section 6 : Dissolution.<a id=684></a>
+##### Section 6 : Dissolution.<a id=683></a>
 
 ###### Article L5216-9
 
@@ -61636,9 +61794,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-30 (V)
 
 
-#### TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE<a id=685></a>
+#### TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE<a id=684></a>
 
-##### CHAPITRE Ier : Entente, convention et conférence intercommunales<a id=686></a>
+##### CHAPITRE Ier : Entente, convention et conférence intercommunales<a id=685></a>
 
 ###### Article L5221-1
 
@@ -61708,9 +61866,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2231-16 (Ab)
 
 
-##### CHAPITRE II : Biens et droits indivis entre plusieurs communes<a id=687></a>
+##### CHAPITRE II : Biens et droits indivis entre plusieurs communes<a id=686></a>
 
-##### Section 1 : Gestion des biens et droits indivis.<a id=688></a>
+##### Section 1 : Gestion des biens et droits indivis.<a id=687></a>
 
 ###### Article L5222-1
 
@@ -61851,7 +62009,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5222-2 (V)
 
 
-##### Section 2 : Fin de l'indivision.<a id=689></a>
+##### Section 2 : Fin de l'indivision.<a id=688></a>
 
 ###### Article L5222-4
 
@@ -61949,7 +62107,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L162-6 (Ab)
 
 
-##### CHAPITRE III : Charte intercommunale de développement et d'aménagement<a id=690></a>
+##### CHAPITRE III : Charte intercommunale de développement et d'aménagement<a id=689></a>
 
 ###### Article L5223-1
 
@@ -62041,11 +62199,11 @@ _Cite_:
   - Code rural - art. L121-2 (V)
 
 
-### LIVRE III : AGGLOMÉRATION NOUVELLE<a id=691></a>
+### LIVRE III : AGGLOMÉRATION NOUVELLE<a id=690></a>
 
-#### TITRE Ier : CRÉATION<a id=692></a>
+#### TITRE Ier : CRÉATION<a id=691></a>
 
-##### CHAPITRE UNIQUE<a id=693></a>
+##### CHAPITRE UNIQUE<a id=692></a>
 
 ###### Article L5311-1
 
@@ -62149,9 +62307,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES<a id=694></a>
+#### TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES<a id=693></a>
 
-##### CHAPITRE UNIQUE<a id=695></a>
+##### CHAPITRE UNIQUE<a id=694></a>
 
 ###### Article L5321-1
 
@@ -62361,9 +62519,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE<a id=696></a>
+#### TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE<a id=695></a>
 
-##### CHAPITRE Ier : Communauté d'agglomération nouvelle<a id=697></a>
+##### CHAPITRE Ier : Communauté d'agglomération nouvelle<a id=696></a>
 
 ###### Article L5331-1
 
@@ -62498,9 +62656,9 @@ _Cité par_:
   - Code de justice administrative. - art. L554-1 (V)
 
 
-##### CHAPITRE II : Syndicat d'agglomération nouvelle<a id=698></a>
+##### CHAPITRE II : Syndicat d'agglomération nouvelle<a id=697></a>
 
-##### Section 1 : Composition du comité du syndicat d'agglomération nouvelle.<a id=699></a>
+##### Section 1 : Composition du comité du syndicat d'agglomération nouvelle.<a id=698></a>
 
 ###### Article L5332-1
 
@@ -62581,7 +62739,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5331-1 (V)
 
 
-##### Section 2 : Admission de nouvelles communes au syndicat d'agglomération nouvelle et retrait.<a id=700></a>
+##### Section 2 : Admission de nouvelles communes au syndicat d'agglomération nouvelle et retrait.<a id=699></a>
 
 ###### Article L5332-3
 
@@ -62673,7 +62831,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-19
 
 
-##### CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle<a id=701></a>
+##### CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle<a id=700></a>
 
 ###### Article L5333-1
 
@@ -63009,9 +63167,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE IV : Dispositions financières<a id=702></a>
+##### CHAPITRE IV : Dispositions financières<a id=701></a>
 
-##### Section 1 : Dispositions générales.<a id=703></a>
+##### Section 1 : Dispositions générales.<a id=702></a>
 
 ###### Article L5334-1
 
@@ -63795,7 +63953,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2334-33 (V)
 
 
-##### Section 2 : Fin du régime particulier applicable aux agglomérations nouvelles.<a id=704></a>
+##### Section 2 : Fin du régime particulier applicable aux agglomérations nouvelles.<a id=703></a>
 
 ###### Article L5334-21
 
@@ -63828,9 +63986,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5341-1
 
 
-#### TITRE IV : FIN DU RÉGIME APPLICABLE AUX AGGLOMÉRATIONS NOUVELLES<a id=705></a>
+#### TITRE IV : FIN DU RÉGIME APPLICABLE AUX AGGLOMÉRATIONS NOUVELLES<a id=704></a>
 
-##### CHAPITRE UNIQUE<a id=706></a>
+##### CHAPITRE UNIQUE<a id=705></a>
 
 ###### Article L5341-1
 
@@ -63968,9 +64126,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5341-2 (M)
 
 
-#### TITRE V : DISPOSITIONS D'APPLICATION<a id=707></a>
+#### TITRE V : DISPOSITIONS D'APPLICATION<a id=706></a>
 
-##### CHAPITRE UNIQUE<a id=708></a>
+##### CHAPITRE UNIQUE<a id=707></a>
 
 ###### Article L5351-1
 
@@ -63995,11 +64153,11 @@ _Abrogé par_:
   - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
 
 
-### LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE<a id=709></a>
+### LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE<a id=708></a>
 
-#### TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES<a id=710></a>
+#### TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES<a id=709></a>
 
-##### CHAPITRE UNIQUE<a id=711></a>
+##### CHAPITRE UNIQUE<a id=710></a>
 
 ###### Article L5411-1
 
@@ -64055,9 +64213,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX<a id=712></a>
+#### TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX<a id=711></a>
 
-##### CHAPITRE UNIQUE<a id=713></a>
+##### CHAPITRE UNIQUE<a id=712></a>
 
 ###### Article L5421-1
 
@@ -64236,11 +64394,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3313-1 (V)
 
 
-### LIVRE V : AGENCE DÉPARTEMENTALE<a id=714></a>
+### LIVRE V : AGENCE DÉPARTEMENTALE<a id=713></a>
 
-#### TITRE UNIQUE<a id=715></a>
+#### TITRE UNIQUE<a id=714></a>
 
-##### CHAPITRE UNIQUE<a id=716></a>
+##### CHAPITRE UNIQUE<a id=715></a>
 
 ###### Article L5511-1
 
@@ -64269,11 +64427,11 @@ _Cité par_:
   - Code de l'urbanisme - art. R*423-15 (VD)
 
 
-### LIVRE VI : COOPÉRATION INTERRÉGIONALE<a id=717></a>
+### LIVRE VI : COOPÉRATION INTERRÉGIONALE<a id=716></a>
 
-#### TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES<a id=718></a>
+#### TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES<a id=717></a>
 
-##### CHAPITRE UNIQUE<a id=719></a>
+##### CHAPITRE UNIQUE<a id=718></a>
 
 ###### Article L5611-1
 
@@ -64299,9 +64457,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5621-4 (V)
 
 
-#### TITRE II : ENTENTE INTERRÉGIONALE<a id=720></a>
+#### TITRE II : ENTENTE INTERRÉGIONALE<a id=719></a>
 
-##### CHAPITRE Ier : Organisation et fonctionnement<a id=721></a>
+##### CHAPITRE Ier : Organisation et fonctionnement<a id=720></a>
 
 ###### Article L5621-1
 
@@ -64579,7 +64737,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE II : Dispositions financières<a id=722></a>
+##### CHAPITRE II : Dispositions financières<a id=721></a>
 
 ###### Article L5622-1
 
@@ -64693,11 +64851,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5622-1 (V)
 
 
-### LIVRE VII : SYNDICAT MIXTE<a id=723></a>
+### LIVRE VII : SYNDICAT MIXTE<a id=722></a>
 
-#### TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE<a id=724></a>
+#### TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE<a id=723></a>
 
-##### CHAPITRE unique.<a id=725></a>
+##### CHAPITRE unique.<a id=724></a>
 
 ###### Article L5711-1
 
@@ -64769,9 +64927,9 @@ _Modifié par_:
   - Loi n°99-586 du 12 juillet 1999 - art. 24 ()
 
 
-#### TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC<a id=726></a>
+#### TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC<a id=725></a>
 
-##### CHAPITRE Ier : Organisation et fonctionnement<a id=727></a>
+##### CHAPITRE Ier : Organisation et fonctionnement<a id=726></a>
 
 ###### Article L5721-1
 
@@ -65171,7 +65329,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-25-1 (M)
 
 
-##### CHAPITRE II : Dispositions financières<a id=728></a>
+##### CHAPITRE II : Dispositions financières<a id=727></a>
 
 ###### Article L5722-1
 
@@ -65235,6 +65393,25 @@ _Créé par_:
 _Cite_:
 
   - Code général des collectivités territoriales - art. L5212-21 (V)
+
+
+###### Article L5722-2-1
+
+Les dispositions de l'article L. 5211-27-1 sont applicables aux syndicats mixtes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°99-641 1999-07-27 art. 13 JORF 28 juillet 1999 rectificatif JORF 20 octobre 1999
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L5211-27-1 (V)
 
 
 ###### Article L5722-3
@@ -65374,11 +65551,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-21 (V)
 
 
-### LIVRE VIII : DISPOSITIONS PARTICULIÈRES<a id=729></a>
+### LIVRE VIII : DISPOSITIONS PARTICULIÈRES<a id=728></a>
 
-#### TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN<a id=730></a>
+#### TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN<a id=729></a>
 
-##### CHAPITRE Ier : Syndicat de communes.<a id=731></a>
+##### CHAPITRE Ier : Syndicat de communes.<a id=730></a>
 
 ###### Article L5811-1
 
@@ -65413,7 +65590,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5212-4 (V)
 
 
-##### CHAPITRE II : Communauté de communes.<a id=732></a>
+##### CHAPITRE II : Communauté de communes.<a id=731></a>
 
 ###### Article L5812-1
 
@@ -65442,7 +65619,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5214-16 (V)
 
 
-##### CHAPITRE III : Communauté urbaine.<a id=733></a>
+##### CHAPITRE III : Communauté urbaine.<a id=732></a>
 
 ###### Article L5813-1
 
@@ -65493,7 +65670,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-1 (V)
 
 
-##### CHAPITRE IV : Communauté de villes.<a id=734></a>
+##### CHAPITRE IV : Communauté de villes.<a id=733></a>
 
 ###### Article L5814-1
 
@@ -65525,7 +65702,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5216-5 (V)
 
 
-##### CHAPITRE V : Entente, convention et conférence intercommunales.<a id=735></a>
+##### CHAPITRE V : Entente, convention et conférence intercommunales.<a id=734></a>
 
 ###### Article L5815-1
 
@@ -65581,7 +65758,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5816-3 (V)
 
 
-##### CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes.<a id=736></a>
+##### CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes.<a id=735></a>
 
 ###### Article L5816-1
 
@@ -65800,9 +65977,9 @@ _Anciens textes_:
   - Loi locale 1897-07-07 art. 11 al. 2 (phr 2)
 
 
-#### TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION<a id=737></a>
+#### TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION<a id=736></a>
 
-##### CHAPITRE Ier : Communauté urbaine.<a id=738></a>
+##### CHAPITRE Ier : Communauté urbaine.<a id=737></a>
 
 ###### Article L5821-1
 
@@ -65824,7 +66001,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L182-1 (Ab)
 
 
-##### CHAPITRE II : Charte intercommunale de développement et d'aménagement.<a id=739></a>
+##### CHAPITRE II : Charte intercommunale de développement et d'aménagement.<a id=738></a>
 
 ###### Article L5822-1
 
