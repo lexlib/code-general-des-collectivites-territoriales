@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1999-07-28
+Version Consolidée au 1999-12-29
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -193,13 +193,13 @@ Version Consolidée au 1999-07-28
             - [Section 2 : Participation à des sociétés de garantie (art. L2253-7)](#190)
       - [LIVRE III : FINANCES COMMUNALES (art. L2311-1 à L2343-2)](#191)
         - [TITRE Ier : BUDGET ET COMPTES (art. L2311-1 à L2313-2)](#192)
-          - [CHAPITRE Ier : Dispositions générales (art. L2311-1 à L2311-3)](#193)
+          - [CHAPITRE Ier : Dispositions générales (art. L2311-1 à L2311-5)](#193)
           - [CHAPITRE II : Adoption du budget (art. L2312-1 à L2312-4)](#194)
           - [CHAPITRE III : Publicité des budgets et des comptes (art. L2313-1 à L2313-2)](#195)
         - [TITRE II : DÉPENSES (art. L2321-1 à L2322-2)](#196)
           - [CHAPITRE Ier : Dépenses obligatoires (art. L2321-1 à L2321-4)](#197)
           - [CHAPITRE II : Dépenses imprévues (art. L2322-1 à L2322-2)](#198)
-        - [TITRE III : RECETTES (art. L2331-1 à L2336-4)](#199)
+        - [TITRE III : RECETTES (art. L2331-1 à L2336-3)](#199)
           - [CHAPITRE Ier : Catégories de recettes (art. L2331-1 à L2331-11)](#200)
             - [Section 1 : Recettes de la section de fonctionnement (art. L2331-1 à L2331-4)](#201)
             - [Section 2 : Recettes de la section d'investissement (art. L2331-5 à L2331-10)](#202)
@@ -250,9 +250,9 @@ Version Consolidée au 1999-07-28
               - [Sous-section 1 : Régime des subventions accordées par l'Etat. (art. L2335-5)](#247)
               - [Sous-section 2 : Majorations de subventions accordées aux communes fusionnées. (art. L2335-6 à L2335-8)](#248)
             - [Section 4 : Fonds national pour le développement des adductions d'eau. (art. L2335-9 à L2335-14)](#249)
-          - [CHAPITRE VI : Avances et emprunts (art. L2336-1 à L2336-4)](#250)
+          - [CHAPITRE VI : Avances et emprunts (art. L2336-1 à L2336-3)](#250)
             - [Section 1 : Avances (art. L2336-1 à L2336-2)](#251)
-            - [Section 2 : Recours à l'emprunt (art. L2336-3 à L2336-4)](#252)
+            - [Section 2 : Recours à l'emprunt (art. L2336-3)](#252)
         - [TITRE IV : COMPTABILITÉ (art. L2341-1 à L2343-2)](#253)
           - [CHAPITRE Ier : Publicité des comptes de la commune (art. L2341-1)](#254)
           - [CHAPITRE II : Engagement des dépenses (art. L2342-1 à L2342-2)](#255)
@@ -4806,6 +4806,11 @@ En cas de partage égal des voix, l'élection est acquise au bénéfice de l'âg
 
 Le conseil d'administration élit un vice-président dans les mêmes conditions.
 
+Les indemnités maximales votées par le conseil d'administration du service d'incendie et de secours pour l'exercice effectif
+des fonctions de président et de vice-président sont déterminées par référence au barème prévu, en fonction de la population
+du département, pour les indemnités des conseillers généraux par l'article L. 3123-16 dans la limite de 50 % pour le
+président et de 25 % pour le vice-président.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -4817,9 +4822,17 @@ _Anciens textes_:
   - Loi n°96-369 du 3 mai 1996 - art. 27 (V)
   - Loi n°96-369 du 3 mai 1996 - art. 55 (V)
 
+_Modifié par_:
+
+  - Loi n°99-1126 du 28 décembre 1999 - art. 6 ()
+
 _Cité par_:
 
   - Code général des collectivités territoriales - art. L1424-30 (M)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L3123-16 (M)
 
 
 ###### Article L1424-28
@@ -14689,32 +14702,36 @@ _Anciens textes_:
 
 ###### Article L2123-20
 
-- I. - Les indemnités maximales pour l'exercice des fonctions de maires et adjoints au maire des communes, de conseillers
+I.-Les indemnités maximales pour l'exercice des fonctions de maires et adjoints au maire des communes, de conseillers
 municipaux des communes de 100 000 habitants et plus, de présidents et membres de délégations spéciales faisant fonction
 d'adjoint sont fixées par référence au montant du traitement correspondant à l'indice brut terminal de l'échelle indiciaire
-de la fonction publique.
+de la fonction publique. 
 
-II. - L'élu municipal titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un
+II.-L'élu municipal titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un
 établissement public local, du centre national de la fonction publique territoriale, au conseil d'administration ou au
 conseil de surveillance d'une société d'économie mixte locale ou qui préside une telle société ne peut percevoir, pour
 l'ensemble de ses fonctions, un montant total de rémunérations et d'indemnités de fonction supérieur à une fois et demie le
 montant de l'indemnité parlementaire telle qu'elle est définie à l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958
 portant loi organique relative à l'indemnité des membres du Parlement. Ce plafond s'entend déduction faite des cotisations
-sociales obligatoires.
+sociales obligatoires. 
+
+III.-Lorsqu'en application des dispositions du II, le montant total de rémunération et d'indemnité de fonction d'un
+conseiller municipal fait l'objet d'un écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
+délibération nominative du conseil municipal ou de l'organisme concerné.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°58-1210 du 13 décembre 1958 - art. 1 (V)
+  - Ordonnance n°58-1210 du 13 décembre 1958 (V)
 
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-1126 du 28 décembre 1999 - art. 6 ()
 
 _Cité par_:
 
@@ -23636,6 +23653,72 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2311-9 (V)
 
 
+###### Article L2311-4
+
+A l'occasion d'un recensement général ou complémentaire de population, les communes et leurs établissements publics
+administratifs disposent d'un exercice budgétaire, à compter de la date de publication des résultats, pour se conformer aux
+dispositions budgétaires et comptables liées à leur appartenance à une strate démographique différente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°99-1126 du 28 décembre 1999 - art. 7 ()
+
+
+###### Article L2311-5
+
+Le résultat excédentaire de la section de fonctionnement dégagé au titre de l'exercice clos, cumulé avec le résultat
+antérieur reporté, est affecté en totalité dès la plus proche décision budgétaire suivant le vote du compte administratif et,
+en tout état de cause, avant la clôture de l'exercice suivant.
+
+La délibération d'affectation prise par l'assemblée délibérante est produite à l'appui de la décision budgétaire de reprise
+de ce résultat.
+
+Le résultat déficitaire de la section de fonctionnement, le besoin de financement ou l'excédent de la section
+d'investissement sont repris en totalité dès la plus proche décision budgétaire suivant le vote du compte administratif et,
+en tout état de cause, avant la fin de l'exercice.
+
+Entre la date limite de mandatement fixée au troisième alinéa de l'article L. 1612-11 et la date limite de vote des taux des
+impositions locales prévue à l'article 1639 A du code général des impôts, le conseil municipal peut, au titre de l'exercice
+clos et avant l'adoption de son compte administratif, reporter de manière anticipée au budget le résultat de la section de
+fonctionnement, le besoin de financement de la section d'investissement, ou le cas échéant l'excédent de la section
+d'investissement, ainsi que la prévision d'affectation.
+
+Si le compte administratif fait apparaître une différence avec les montants reportés par anticipation, l'assemblée
+délibérante procède à leur régularisation et à la reprise du résultat dans la plus proche décision budgétaire suivant le vote
+du compte administratif et, en tout état de cause, avant la fin de l'exercice.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1639 A
+  - Code général des collectivités territoriales - art. L1612-11 (V)
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°99-1126 du 28 décembre 1999 - art. 8 ()
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. L2564-23 (VD)
+  - Code général des collectivités territoriales - art. L2573-38 (V)
+  - Code général des collectivités territoriales - art. R2221-48-1 (V)
+  - Code général des collectivités territoriales - art. R2221-90-1 (V)
+  - Code général des collectivités territoriales - art. R2311-13 (V)
+
+
 ##### CHAPITRE II : Adoption du budget<a id=194></a>
 
 ###### Article L2312-1
@@ -28136,6 +28219,16 @@ d'Etat.
 
 Cette population est la population totale majorée, sauf disposition particulière, d'un habitant par résidence secondaire.
 
+Lorsque le recensement général de population de 1999 fait apparaître une diminution de la population d'une commune telle
+qu'elle est définie à l'alinéa précédent, seule une part de cette diminution est prise en compte, pendant deux ans, pour
+l'application des dispositions de la présente section. En 2000, cette part est égale au tiers de la diminution ; en 2001,
+elle est égale aux deux tiers de la diminution.
+
+Lorsque le recensement de population de 1999 fait apparaître une augmentation de la population d'une commune telle qu'elle
+est définie au deuxième alinéa, seule une part de cette augmentation est prise en compte, pendant deux ans, pour
+l'application des dispositions de la présente section. En 2000, cette part est égale au tiers de l'augmentation ; en 2001,
+elle est égale aux deux tiers de l'augmentation.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -28230,9 +28323,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
 
 _Anciens textes_:
 
@@ -28305,7 +28398,8 @@ _Anciens textes_:
 ###### Article L2334-4
 
 - Le potentiel fiscal d'une commune est déterminé par application aux bases communales des quatre taxes directes locales du
-taux moyen national d'imposition à chacune de ces taxes.
+taux moyen national d'imposition à chacune de ces taxes. Il est majoré du montant, pour la dernière année connue, de la
+compensation prévue au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
 
 Pour l'application de l'alinéa précédent :
 
@@ -28318,18 +28412,53 @@ départemental de péréquation de la taxe professionnelle prévu par l'article 
 Le potentiel fiscal par habitant est égal au potentiel fiscal de la commune divisé par le nombre d'habitants constituant la
 population de cette commune, tel que défini à l'article L. 2334-2.
 
-Pour la détermination du potentiel fiscal des communes membres des communautés d'agglomération, des communautés de communes
-et des communautés urbaines ayant opté pour le régime fiscal prévu à l'article 1609 nonies C du code général des impôts, un
-calcul de bases de taxe professionnelle résultant de la ventilation entre les communes des bases du groupement est opéré. Les
-modalités de ce calcul sont définies par décret en Conseil d'Etat. Elles prennent notamment en compte la répartition des
-bases de taxe professionnelle entre les communes l'année précédant l'application des dispositions de l'article 1609 nonies C
-précité.
+A compter de l'année de promulgation de la loi n° 99-1126 du 28 décembre 1999 modifiant le code général des collectivités
+territoriales et relative à la prise en compte du recensement général de population de 1999 pour la répartition des dotations
+de l'Etat aux collectivités locales, pour la détermination du potentiel fiscal de chaque commune membre d'un établissement de
+coopération intercommunale faisant application du régime fiscal prévu à l'article 1609 nonies C du code général des impôts ou
+du régime fiscal prévu au II de l'article 1609 quinquies C du même code, il est procédé, en ce qui concerne la taxe
+professionnelle, à la ventilation entre les communes des bases de cette taxe selon les modalités suivantes :
+
+- les bases de taxe professionnelle de l'établissement public de coopération intercommunale faisant application du régime
+fiscal prévu à l'article 1609 nonies C du code général des impôts sont réparties entre les communes membres au prorata des
+bases constatées pour chaque commune l'année précédente ;
+
+- les bases de taxe professionnelle situées sur la zone d'activités économiques de l'établissement public de coopération
+intercommunale faisant application du régime fiscal prévu au II de l'article 1609 quinquies C du code général des impôts sont
+réparties entre les communes d'implantation de la zone au prorata des bases constatées pour chaque commune l'année
+précédente ;
+
+Toutefois, en cas d'augmentation ou de diminution des bases de taxe professionnelle par rapport à celles de l'année
+précédente de chaque commune membre d'un établissement ayant opté pour le régime fiscal prévu à l'article 1609 nonies C du
+code général des impôts ou des bases de taxe professionnelle situées dans la zone d'activités économiques d'un établissement
+ayant opté pour le régime fiscal prévu au II de l'article 1609 quinquies C du code général des impôts, la répartition des
+bases correspondant à cette augmentation ou à cette diminution s'effectue entre la totalité des communes membres de
+l'établissement au prorata de leur population.
+
+Cette disposition ne s'applique pas la première année d'application des dispositions de l'article 1609 nonies C ou du II de
+l'article 1609 quinquies C du code général des impôts.
+
+Le potentiel fiscal visé au sixième alinéa est majoré du montant, pour la dernière année connue, de la compensation prévue au
+I du D de l'article 44 de la loi de finances pour 1999 précitée. Ce montant est réparti entre les communes membres de
+l'établissement public de coopération intercommunale au prorata des diminutions de base de taxe professionnelle dans chacune
+de ces communes qui donnent lieu à compensation.
+
+Lorsque, à compter de l'année de promulgation de la loi n° 99-1126 du 28 décembre 1999 modifiant le code général des
+collectivités territoriales et relative à la prise en compte du recensement général de population de 1999 pour la répartition
+des dotations de l'Etat aux collectivités locales, l'institution du régime fiscal prévu à l'article 1609 nonies C du code
+général des impôts entraîne pour des communes membres de l'établissement public de coopération intercommunale faisant
+application de ce régime la cessation de l'application des dispositions de l'article 11 de la loi n° 80-10 du 10 janvier 1980
+portant aménagement de la fiscalité directe locale, les bases retenues pour déterminer leur potentiel fiscal tiennent compte
+de la correction de potentiel fiscal appliquée la dernière année précédant l'institution de ce régime.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1648 A, 1609 nonies C
+  - CGI 1648 A, 1609 nonies C, 1609 quinquies, 1609 quinquies C
+  - Loi n°80-10 du 10 janvier 1980 - art. 11 (M)
+  - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
+  - Loi n°99-1126 1999-12-28
   - Code général des collectivités territoriales L2334-2, 1609 nonies
 
 _Codifié par_:
@@ -28387,7 +28516,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 100 ()
+  - Loi n°99-1126 1999-12-28 art. 1 I, 9 jorf 29 décembre 1999
+  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
 
 _Anciens textes_:
 
@@ -28802,9 +28932,25 @@ _Anciens textes_:
 
 ###### Article L2334-9
 
-- En cas d'augmentation de la population d'une commune constatée à l'occasion d'un recensement général ou complémentaire, la
-dotation forfaitaire revenant à cette commune est calculée en appliquant au montant antérieurement perçu un taux
-d'augmentation égal à 50 p. 100 du taux de croissance de la population telle qu'elle a été constatée.
+En cas d'augmentation de la population d'une commune constatée à l'occasion d'un recensement général ou complémentaire, la
+dotation forfaitaire revenant à cette commune est calculée en appliquant au montant antérieurement perçu indexé dans les
+conditions prévues à l'article L. 2334-7 un taux d'augmentation égal à 50 % du taux de croissance de la population telle
+qu'elle a été constatée.
+
+Par dérogation à l'alinéa précédent, lorsque le recensement général de population de 1999 fait apparaître une augmentation de
+la population d'une commune, seule une part de cette augmentation est prise en compte en 2000 et en 2001 dans les conditions
+prévues au dernier alinéa de l'article L. 2334-2.
+
+Lorsque le recensement général de population de 1999 fait apparaître une diminution de la population d'une commune, la
+dotation forfaitaire revenant à cette commune en 2000, en 2001 et en 2002 est calculée en appliquant au montant
+antérieurement perçu indexé dans les conditions prévues à l'article L. 2334-7 un taux égal à 50 % du taux d'évolution de la
+population résultant des dispositions de l'article L. 2334-2. Toutefois, si le montant de la dotation forfaitaire ainsi
+calculé est inférieur au montant de l'attribution due à la commune au titre de 1999, la dotation forfaitaire lui revenant
+demeure égale à celle due à la commune au titre de 1999. Lorsqu'un recensement complémentaire est organisé en 1999, en 2000
+ou en 2001 dans cette commune, les dispositions du premier alinéa ne sont applicables que si le recensement complémentaire
+fait apparaître une population supérieure à celle qui était prise en compte avant le recensement général de 1999. Dans ce
+cas, seule est retenue l'augmentation entre la population prise en compte avant le recensement général de 1999 et celle
+constatée par le recensement complémentaire.
 
 **Liens relatifs à cet article**
 
@@ -28812,9 +28958,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
 
 _Anciens textes_:
 
@@ -28826,6 +28972,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2334-13 (VT)
   - Code général des collectivités territoriales - art. L5211-35 (M)
   - Code général des collectivités territoriales - art. L5211-39 (M)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2334-2 (M)
+  - Code général des collectivités territoriales - art. L2334-7 (M)
 
 
 ###### Article L2334-10
@@ -29126,7 +29277,8 @@ charge vivant habituellement dans leur foyer, dans le nombre total de logements 
 constatée dans l'ensemble des communes de 10 000 habitants et plus ;
 
 4° Du rapport entre le revenu moyen par habitant des communes de 10 000 habitants et plus et le revenu par habitant de la
-commune, calculé en prenant en compte la population qui résulte des recensements généraux ou complémentaires.
+commune, calculé en prenant en compte la population définie au premier alinéa de l'article L. 2334-2 et, pour 2000 et 2001,
+aux troisième et quatrième alinéas du même article.
 
 Les logements sociaux retenus pour l'application du présent article sont les logements locatifs appartenant aux organismes
 d'habitations à loyer modéré, aux sociétés d'économie mixte locales et aux filiales de la Société centrale immobilière de la
@@ -29143,7 +29295,7 @@ Les aides au logement retenues pour l'application du présent article sont, dans
 d'Etat, les prestations prévues aux articles L. 351-1 du code de la construction et de l'habitation et L. 542-1 et L. 831-1
 du code de la sécurité sociale.
 
-" Le revenu pris en considération pour l'application du 4° est le dernier revenu imposable connu.
+Le revenu pris en considération pour l'application du 4° est le dernier revenu imposable connu.
 
 L'indice synthétique de ressources et de charges est obtenu par addition des rapports visés aux 1°, 2°, 3° et 4°, en
 pondérant le premier par 45 p. 100, le deuxième par 15 p. 100, le troisième par 30 p. 100 et le quatrième par 10 p. 100.
@@ -29186,7 +29338,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-241 du 26 mars 1996 - art. 4 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
 
 _Anciens textes_:
 
@@ -30835,7 +30987,7 @@ _Nouveaux textes_:
 
 ###### Article L2336-3
 
-- Les communes peuvent recourir à l'emprunt sous réserve des dispositions des articles L. 1611-3 et L. 2336-4.
+Les communes peuvent recourir à l'emprunt sous réserve des dispositions des articles L. 1611-3.
 
 **Liens relatifs à cet article**
 
@@ -30843,9 +30995,13 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-1126 du 28 décembre 1999 - art. 11 ()
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2011-1977 du 28 décembre 2011 - art. 144 (V)
 
 _Anciens textes_:
 
@@ -30855,7 +31011,6 @@ _Anciens textes_:
 _Cite_:
 
   - Code général des collectivités territoriales - art. L1611-3 (V)
-  - Code général des collectivités territoriales - art. L2336-4 (Ab)
 
 _Nouveaux textes_:
 
@@ -30867,48 +31022,6 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2336-2 (V)
   - Code général des collectivités territoriales - art. R2336-3 (V)
   - Code général des collectivités territoriales - art. R2336-5 (V)
-
-
-###### Article L2336-4
-
-Les communes peuvent être autorisées à émettre à l'étranger de   s obligations dont la durée ne peut dépasser trente ans.
-
-Chaque acte d'autorisation fixe le maximum des obligations à émettre, le taux d'intérêt et la date de remboursement.
-
-**Nota:**
-
-NOTA : Loi 96-1182 1996-12-30 art. 38 II : Les dispositions du troisième alinéa de l'article L2336-4 du code général des
-collectivités territoriales sont abrogés à compter de l'entrée en vigueur de la loi n° 96-142 du 24 février 1996.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°96-142 1996-02-21
-
-_Créé par_:
-
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-_Modifié par_:
-
-  - Loi n°96-1182 du 30 décembre 1996 - art. 38 (V)
-
-_Abrogé par_:
-
-  - Loi n°99-1126 du 28 décembre 1999 - art. 11 ()
-
-_Cité par_:
-
-  - Décret n°2012-908 du 23 juillet 2012 (V)
-  - Code général des collectivités territoriales - art. L2336-3 (M)
-  - Code général des collectivités territoriales - art. L2336-5 (V)
-  - Code général des collectivités territoriales - art. L2563-1 (M)
-  - Code général des collectivités territoriales - art. R2336-7 (V)
-
-_Anciens textes_:
-
-  - CODE DES COMMUNES. - art. L236-7 (Ab)
 
 
 #### TITRE IV : COMPTABILITÉ<a id=253></a>
@@ -35905,6 +36018,10 @@ mentionnées au premier alinéa de l'article L. 2332-2.
 La population à prendre en compte pour l'application du présent paragraphe est arrêtée dans les conditions prévues à
 l'article L. 2334-2.
 
+Le potentiel fiscal à prendre en compte pour l'application du présent paragraphe est majoré du montant, pour la dernière
+année connue, de la compensation prévue au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
+1998). ;
+
 II. - 1° Sont soumises à un deuxième prélèvement les communes de la région d'Ile-de-France dont les bases totales
 d'imposition à la taxe professionnelle divisées par le nombre d'habitants excèdent 3,5 fois la moyenne des bases de taxe
 professionnelle par habitant constatée au niveau national.
@@ -35941,7 +36058,9 @@ simplification de la coopération intercommunale.
 
 III. - Pour l'application du II :
 
-- la population à prendre en compte est arrêtée dans les conditions prévues à l'article R. 114-1 du code des communes ;
+- la population à prendre en compte est arrêtée dans les conditions prévues à l'article R. 114-1 du code des communes.
+Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'une commune, cette
+variation est prise en compte dans les conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2. ;
 
 - les bases totales d'imposition retenues sont les bases nettes de taxe professionnelle après exonérations, mais avant
 écrêtement au profit du fonds départemental de péréquation de la taxe professionnelle ;
@@ -35966,7 +36085,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 95 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
 
 _Cité par_:
 
@@ -36051,6 +36170,10 @@ I perçoivent 20 % de leur attribution du fonds en 2000, 40 % en 2001, 60 % en 2
 
 A compter de 2004, ces communes perçoivent l'intégralité de leur attribution du fonds.
 
+VII. - Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'une commune,
+cette variation est prise en compte, pour l'application des dispositions du présent article, dans les conditions prévues aux
+troisième et quatrième alinéas de l'article L. 2334-2.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -36059,7 +36182,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 96 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
 
 _Anciens textes_:
 
@@ -36077,6 +36200,7 @@ _Cité par_:
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2334-17 (M)
+  - Code général des collectivités territoriales - art. L2334-2 (M)
   - Code général des collectivités territoriales - art. L2334-4 (M)
   - Code général des collectivités territoriales - art. L2531-12 (V)
 
@@ -38533,9 +38657,9 @@ _Cite_:
 
 ###### Article L2563-1
 
-- Est applicable aux communes des départements d'outre-mer le livre III de la présente partie à l'exception du huitième
-alinéa (7°) de l'article L. 2331-2, du dixième alinéa (9°) de l'article L. 2331-8, des articles L. 2333-58 à L. 2333-63, L.
-2335-6 à L. 2335-8 et L. 2336-4.
+Est applicable aux communes des départements d'outre-mer le livre III de la présente partie à l'exception du huitième alinéa
+(7°) de l'article L. 2331-2, du dixième alinéa (9°) de l'article L. 2331-8, des articles L. 2333-58 à L. 2333-63, L. 2335-6 à
+L. 2335-8.
 
 **Liens relatifs à cet article**
 
@@ -38543,9 +38667,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-1126 du 28 décembre 1999 - art. 11 ()
 
 _Anciens textes_:
 
@@ -38555,9 +38679,9 @@ _Anciens textes_:
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2331-2 (V)
-  - Code général des collectivités territoriales - art. L2331-8 (M)
-  - Code général des collectivités territoriales - art. L2336-4 (Ab)
-  - Code général des collectivités territoriales L2331-2, L2331-8, L2333-58 à L2333-63, L2335-6 à L2335-8, L2336-4
+  - Code général des collectivités territoriales - art. L2331-8 (V)
+  - Code général des collectivités territoriales - art. L2333-58 (V)
+  - Code général des collectivités territoriales - art. L2335-6 (V)
 
 
 ###### Article L2563-3
@@ -40650,13 +40774,21 @@ _Créé par_:
 
 ###### Article L3123-18
 
-- Le conseiller général titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un
+Le conseiller général titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un
 établissement public local, du centre national de la fonction publique territoriale, au conseil d'administration ou au
 conseil de surveillance d'une société d'économie mixte locale ou qui préside une telle société ne peut percevoir, pour
 l'ensemble de ses fonctions, un montant total de rémunérations et d'indemnités de fonction supérieur à une fois et demie le
 montant de l'indemnité parlementaire telle qu'elle est définie à l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958
 portant loi organique relative à l'indemnité des membres du Parlement. Ce plafond s'entend déduction faite des cotisations
-sociales obligatoires.
+sociales obligatoires. 
+
+Lorsqu'en application des dispositions de l'alinéa précédent, le montant total de rémunération et d'indemnité de fonction
+d'un conseiller général fait l'objet d'un écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
+délibération nominative du conseil général ou de l'organisme concerné.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -40667,15 +40799,15 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Ordonnance n°58-1210 du 13 décembre 1958 - art. 1 (V)
+  - Ordonnance n°58-1210 du 13 décembre 1958 (V)
 
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-1126 du 28 décembre 1999 - art. 6 ()
 
 
 ###### Article L3123-19
@@ -43501,6 +43633,8 @@ taxe professionnelle ;
 
 6° La surtaxe sur les eaux minérales.
 
+7° Le produit de la taxe destinée au financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement.
+
 b) Le produit des autres contributions et taxes prévues par la législation en vigueur, en particulier :
 
 1° La taxe additionnelle départementale à la taxe de séjour ;
@@ -43509,20 +43643,13 @@ b) Le produit des autres contributions et taxes prévues par la législation en 
 
 3° La taxe départementale sur les remontées mécaniques des zones de montagne.
 
+4° La taxe départementale des espaces naturels sensibles.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1871-08-10 art. 58 1° à 5°
-  - Loi n°1871-08-10. du 10 août 1871 - art. 58 (Ab)
 
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
-
-_Créé par_:
-
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 _Cité par_:
 
@@ -43532,6 +43659,15 @@ _Cité par_:
   - Code général des collectivités territoriales - art. LO6264-1 (V)
   - Code général des collectivités territoriales - art. LO6364-1 (V)
   - Code général des impôts, CGI. - art. 1640 B (V)
+
+_Anciens textes_:
+
+  - Loi n°1871-08-10 art. 58 1° à 5°
+  - Loi n°1871-08-10. du 10 août 1871 - art. 58 (Ab)
+
+_Modifié par_:
+
+  - Loi n°99-1126 du 28 décembre 1999 - art. 11 ()
 
 
 ###### Article L3332-2
@@ -43592,11 +43728,11 @@ _Anciens textes_:
 
 1° Du produit des emprunts ;
 
-2° De la taxe départementale sur les espaces naturels sensibles ;
+2° abrogé.
 
 3° Du versement pour dépassement du plafond légal de densité ;
 
-4° De la taxe destinée au financement des dépenses des conseils d'architecture, d'urbanisme et d'environnement ;
+4° abrogé.
 
 5° De la dotation globale d'équipement ;
 
@@ -43631,9 +43767,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-1126 1999-12-28 11 IV jorf 29 décembre 1999
 
 _Cité par_:
 
@@ -43980,9 +44116,14 @@ _Cité par_:
 ###### Article L3334-2
 
 La population à prendre en compte pour l'application de la présente section est celle qui résulte des recensements généraux,
-majorée chaque année des accroissements de population communaux constatés dans les conditions prévues à l'article L. 2334-2..
+majorée chaque année des accroissements de population communaux constatés dans les conditions prévues à l'article L.
+2334-2.. 
 
-Cette population est la population totale sans double compte, majorée d'un habitant par résidence secondaire.
+Cette population est la population totale sans double compte, majorée d'un habitant par résidence secondaire. 
+
+Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'un département telle
+qu'elle est définie à l'alinéa précédent, cette variation est prise en compte dans les conditions prévues aux troisième et
+quatrième alinéas de l'article L. 2334-2.
 
 **Liens relatifs à cet article**
 
@@ -43997,7 +44138,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-241 du 26 mars 1996 - art. 10 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 2 ()
 
 _Cité par_:
 
@@ -44038,7 +44179,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2334-2 (M)
+  - Code général des collectivités territoriales - art. L2334-2 (V)
 
 
 ##### Sous-section 2 : Dotation forfaitaire.<a id=418></a>
@@ -44183,7 +44324,8 @@ _Cité par_:
 ###### Article L3334-6
 
 - Le potentiel fiscal d'un département est déterminé par application aux bases départementales des quatre taxes directes
-locales du taux moyen national d'imposition à chacune de ces taxes.
+locales du taux moyen national d'imposition à chacune de ces taxes. Il est majoré du montant, pour la dernière année connue,
+de la compensation prévue au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
 
 Pour l'application de l'alinéa précédent :
 
@@ -44199,16 +44341,21 @@ population de ce département, tel que défini à l'article L. 3334-2.
 
 _Anciens textes_:
 
-  - Loi n°85-1268 du 29 novembre 1985 - art. 33 (Ab)
   - Loi n°85-1268 1985-01-09 art. 33
+  - Loi n°85-1268 du 29 novembre 1985 - art. 33 (Ab)
 
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
+  - Code général des collectivités territoriales - art. L3334-2 (M)
+
+_Modifié par_:
+
+  - Loi n°99-1126 du 28 décembre 1999 - art. 3 ()
 
 _Cité par_:
 
@@ -44216,6 +44363,7 @@ _Cité par_:
   - Décret n°2003-900 du 19 septembre 2003 - art. 2 (V)
   - Loi n°2004-626 du 30 juin 2004 - art. 12 (M)
   - Décret n°2004-1384 du 22 décembre 2004 - art. 3 (Ab)
+  - Loi n°2007-1223 du 21 août 2007 - art. 21 (V)
   - Décret n°2010-497 du 17 mai 2010 - art. 6 (V)
   - Décret n°2011-507 du 10 mai 2011 - art. 1 (V)
   - Arrêté du 26 janvier 2012 - art. 5 (V)
@@ -44243,11 +44391,6 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R3313-2 (V)
   - Code général des collectivités territoriales - art. R3334-0 (V)
   - Code général des collectivités territoriales - art. R3443-2-1 (V)
-  - Loi n°2007-1223 du 21 août 2007 - art. 21 (V)
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L3334-2 (M)
 
 
 ##### Sous-section 4 : Concours particuliers<a id=420></a>
@@ -44838,13 +44981,21 @@ _Cité par_:
 
 ###### Article L3335-1
 
-- Les articles L. 2336-1 à L. 2336-4 sont applicables au département.
+Les articles L. 2336-1 à L. 2336-3 sont applicables au département.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°96-142 1996-02-21
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2010-1657 du 29 décembre 2010 - art. 124
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2336-1 (V)
 
 _Cité par_:
 
@@ -44857,18 +45008,14 @@ _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L3336-1 (V)
 
-_Cite_:
-
-  - Code général des collectivités territoriales L2336-1 à L2336-4
-
 _Anciens textes_:
 
   - Loi n°1930-04-16 art. 131
   - Loi n°46-2921 1946-12-23 art. 12 et 14 ecqc le département
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21
+  - Loi n°99-1126 du 28 décembre 1999 - art. 11 ()
 
 
 #### TITRE IV : COMPTABILITE<a id=426></a>
@@ -47558,19 +47705,30 @@ _Cité par_:
 
 ###### Article L4135-18
 
-- Le conseiller régional titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un
+Le conseiller régional titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un
 établissement public local, du centre national de la fonction publique territoriale, au conseil d'administration ou au
 conseil de surveillance d'une société d'économie mixte locale ou qui préside une telle société ne peut percevoir, pour
 l'ensemble de ses fonctions, un montant total de rémunérations et d'indemnités de fonction supérieur à une fois et demie le
 montant de l'indemnité parlementaire telle qu'elle est définie à l'article premier de l'ordonnance n° 58-1210 du 13 décembre
 1958 portant loi organique relative à l'indemnité des membres du Parlement. Ce plafond s'entend déduction faite des
-cotisations sociales obligatoires.
+cotisations sociales obligatoires. 
+
+Lorsqu'en application des dispositions de l'alinéa précédent, le montant total de rémunération et d'indemnité de fonction
+d'un conseiller régional fait l'objet d'un écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
+délibération nominative du conseil régional ou de l'organisme concerné.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance 58-1210 1958-12-13
+  - Ordonnance n°58-1210 du 13 décembre 1958 (V)
 
 _Anciens textes_:
 
@@ -47581,9 +47739,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°99-1126 du 28 décembre 1999 - art. 6 ()
 
 
 ###### Article L4135-19
@@ -50223,6 +50381,31 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4313-2 (V)
 
 
+###### Article L4332-8-1
+
+Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'une région, cette
+variation est prise en compte, pour l'application des dispositions de la présente section, dans les conditions prévues aux
+troisième et quatrième alinéas de l'article L. 2334-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°99-1126 du 28 décembre 1999 - art. 4 ()
+
+_Abrogé par_:
+
+  - Loi - art. 48 (V) JORF 31 décembre 2003
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2334-2 (M)
+
+
 ###### Article L4332-9
 
 - L'effort fiscal de la région est égal au rapport entre le produit des quatre taxes directes locales et le potentiel fiscal
@@ -50293,7 +50476,7 @@ _Cite_:
 
 ###### Article L4333-1
 
-- Les articles L. 2336-1 à L. 2336-4 sont applicables à la région.
+Les articles L. 2336-1 à L. 2336-3 sont applicables à la région.
 
 **Liens relatifs à cet article**
 
@@ -50301,13 +50484,13 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 du 21 février 1996 - art. 1 (V)
+  - Loi n°99-1126 du 28 décembre 1999 - art. 11 ()
 
 _Cite_:
 
-  - Code général des collectivités territoriales L2336-1 à L2336-4
+  - Code général des collectivités territoriales - art. L2336-1 (V)
 
 
 #### TITRE IV : COMPTABILITÉ<a id=529></a>
@@ -56503,6 +56686,11 @@ d'indemnités de fonction supérieur à une fois et demie le montant de l'indemn
 l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du
 Parlement. Ce plafond s'entend déduction faite des cotisations sociales obligatoires.
 
+Lorsqu'en application des dispositions de l'alinéa précédent, le montant total de rémunération et d'indemnité de fonction
+d'un membre d'un organe délibérant d'établissement public de coopération intercommunale fait l'objet d'un écrêtement, le
+reversement de la part écrêtée ne peut être effectué que sur délibération nominative de l'organe délibérant de
+l'établissement public de coopération intercommunale ou de l'organisme concerné.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -56516,7 +56704,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 37 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 6 ()
 
 **Liens**:
 
@@ -57506,24 +57694,31 @@ _Nouveaux textes_:
 
 ###### Article L5211-29
 
-Le montant total de la dotation d'intercommunalité visé à l'article L. 5211-28 est fixé chaque année par le comité des
-finances locales qui le répartit entre les six catégories de groupements suivants :
+I Le montant total de la dotation d'intercommunalité visé à l'article L. 5211-28 est fixé chaque année par le comité des
+finances locales qui le répartit entre les cinq catégories de groupements suivants :
 
-1° Les communautés urbaines ne faisant pas application des dispositions de l'article 1609 nonies C du code général des
+1° Les communautés urbaines ;
+
+2° Les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des
 impôts ;
 
-2° Les communautés urbaines faisant application des dispositions de l'article 1609 nonies C du code général des impôts ;
+3° Les communautés de communes faisant application des dispositions de l'article 1609 nonies C du code général des impôts ;
 
-3° Les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des
+4° Les syndicats ou communautés d'agglomération nouvelle ;
+
+5° Les communautés d'agglomération créées avant le 1er janvier 2005.
+
+6° Pour la période de 2000 à 2002, la catégorie mentionnée au 1° est divisée en deux catégories distinctes :
+
+-  les communautés urbaines ne faisant pas application des dispositions de l'article 1609 nonies C du code général des
 impôts ;
 
-4° Les communautés de communes faisant application des dispositions de l'article 1609 nonies C du code général des impôts ;
+les communautés urbaines faisant application des dispositions de l'article 1609 nonies C du code général des impôts.
 
-5° Les syndicats ou communautés d'agglomération nouvelle ;
+De 2000 à 2002, la dotation par habitant des communautés urbaines est fixée par le Comité des finances locales et ne prend
+pas en compte les sommes nécessaires au mécanisme de garantie prévu à l'article L. 5211-33.
 
-6° Les communautés d'agglomération créées avant le 1er janvier 2005.
-
-La dotation par habitant de la catégorie des communautés d'agglomération créées, ou issues de la transformation d'un
+II La dotation par habitant de la catégorie des communautés d'agglomération créées, ou issues de la transformation d'un
 établissement public de coopération intercommunale, avant le 1er janvier 2005 est fixée à 250 F au 1er janvier 2000.
 L'évolution de ce montant ne peut être inférieure à l'évolution prévisionnelle des prix à la consommation hors tabac associée
 au projet de loi de finances.
@@ -57535,9 +57730,12 @@ hors tabac associée au projet de loi de finances.
 
 Les modalités de répartition de la majoration prévue au précédent alinéa sont précisées à l'article L. 5211-30.
 
-La dotation par habitant de la catégorie des communautés de communes faisant application des dispositions de l'article 1609
-nonies C du code général des impôts ne peut être inférieure à celle fixée pour la catégorie des communautés de communes ne
-faisant pas application de ces dispositions.
+De 2000 à 2002 la dotation par habitant de la catégorie des communautés de communes faisant application des dispositions de
+l'article 1609 nonies C du code général des impôts ne peut être inférieure à celle fixée pour la catégorie des communautés de
+communes ne faisant pas application de ces dispositions.
+
+A compter du 1er janvier 2003, le montant de la dotation d'intercommunalité affecté aux communautés urbaines est celui qui
+résulte de l'application du troisième alinéa du I de l'article L. 5211-30.
 
 La dotation par habitant de la catégorie des communautés urbaines ayant opté pour les dispositions de l'article 1609 nonies C
 du code général des impôts ne peut être inférieure à celle fixée pour la catégorie des communautés urbaines ne faisant pas
@@ -57556,6 +57754,7 @@ _Cite_:
 
   - CGI 1609 nonies C
   - Code général des collectivités territoriales - art. L5211-28 (T)
+  - Code général des collectivités territoriales - art. L5211-33 (M)
   - Code général des collectivités territoriales - art. L5341-1 (M)
   - Code général des collectivités territoriales - art. L5341-2 (M)
 
@@ -57586,7 +57785,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 105 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 25 ()
 
 _Nouveaux textes_:
 
@@ -57596,12 +57795,26 @@ _Nouveaux textes_:
 
 ###### Article L5211-30
 
-I. - Les sommes affectées à chacune des six catégories d'établissements publics de coopération intercommunale sont réparties
-entre les établissements après prélèvement des sommes nécessaires à l'application des dispositions de l'article L. 5211-33, à
-raison de 15 % pour la dotation de base et de 85 % pour la dotation de péréquation.
+I. - Les sommes affectées à chacune des catégories d'établissements publics de coopération intercommunale mentionnées aux 2°,
+3°, 4°, et 5° du I de l'article L. 5211-29 sont réparties entre les établissements après prélèvement des sommes nécessaires à
+l'application des dispositions de l'article L. 5211-33, à raison de 15 % pour la dotation de base et de 85 % pour la dotation
+de péréquation.
 
-Chaque établissement public de coopération intercommunale doté d'une fiscalité propre perçoit, par prélèvement sur le montant
-total des sommes affectées à la catégorie d'établissement à laquelle il appartient :
+De 2000 à 2002, les sommes affectées aux deux catégories des communautés urbaines mentionnées au 6° du I de l'article L.
+5211-29 sont réparties entre ces établissements à raison de 15 % pour la dotation de base et de 85 % pour la dotation de
+péréquation.
+
+A compter du 1er janvier 2003, les sommes affectées à la catégorie des communautés urbaines sont réparties de sorte que le
+montant de l'attribution par habitant de chacune d'entre elles est égal à l'attribution par habitant perçue l'année
+précédente augmentée comme la dotation forfaitaire prévue à l'article L. 2334-7.
+
+Pour les communautés urbaines créées à compter du 1er janvier 2002 ou issues de la transformation, postérieure à cette date,
+d'un établissement public de coopération intercommunale, le montant de la dotation par habitant est égal, la première année
+d'attribution, à la dotation moyenne par habitant de la catégorie des communautés urbaines.
+
+Chaque établissement public de coopération intercommunale doté d'une fiscalité propre mentionné aux premier et deuxième
+alinéas perçoit, par prélèvement sur le montant total des sommes affectées à la catégorie d'établissement à laquelle il
+appartient :
 
 a) Une dotation de base, calculée en fonction de la population totale des communes regroupées et pondérée, le cas échéant,
 par le coefficient d'intégration fiscale de l'établissement public de coopération intercommunale ;
@@ -57614,22 +57827,23 @@ La majoration prévue au neuvième alinéa de l'article L. 5211-29 est affectée
 L. 5214-23-1. Elle s'ajoute à leur dotation de base et est répartie comme cette dernière entre les communautés de communes
 concernées.
 
-II. - Le potentiel fiscal des communautés urbaines, des communautés de communes ou des communautés d'agglomération est
-déterminé par application à leurs bases brutes d'imposition aux quatre taxes directes locales du taux moyen national à ces
-taxes constaté pour la catégorie d'établissement à laquelle elles appartiennent.
-
-Toutefois, le potentiel fiscal des communautés d'agglomération issues de la transformation de syndicats ou de communautés
-d'agglomération nouvelle est pondéré par le rapport entre les bases brutes par habitant de taxe professionnelle des
-communautés d'agglomération et la somme des bases brutes par habitant des syndicats ou communautés d'agglomération nouvelle
-et de ceux d'entre eux qui se sont transformés en communautés d'agglomération, sous réserve que ce rapport soit inférieur à
-un.
+II. - Le potentiel fiscal des communautés urbaines de 2000 à 2002, des communautés de communes ou des communautés
+d'agglomération est déterminé par application à leurs bases brutes d'imposition aux quatre taxes directes locales du taux
+moyen national à ces taxes constaté pour la catégorie d'établissement à laquelle elles appartiennent. Il est majoré du
+montant, pour la dernière année connue, de la compensation prévue au I du D de l'article 44 de la loi de finances pour 1999
+(n° 98-1266 du 30 décembre 1998).    Toutefois, le potentiel fiscal des communautés d'agglomération issues de la
+transformation de syndicats ou de communautés d'agglomération nouvelle est pondéré par le rapport entre les bases brutes par
+habitant de taxe professionnelle des communautés d'agglomération et la somme des bases brutes par habitant des syndicats ou
+communautés d'agglomération nouvelle et de ceux d'entre eux qui se sont transformés en communautés d'agglomération, sous
+réserve que ce rapport soit inférieur à un.
 
 Le potentiel fiscal des syndicats ou communautés d'agglomération nouvelle est déterminé par application à leurs bases brutes
 de taxe professionnelle du taux moyen national d'imposition à cette taxe constaté pour la catégorie d'établissement à
-laquelle ils appartiennent.
+laquelle ils appartiennent. Il est majoré du montant, pour la dernière année connue, de la compensation prévue au I du D de
+l'article 44 de la loi de finances pour 1999 précitée.
 
-III. - 1° Le coefficient d'intégration fiscale, qui est défini pour les communautés urbaines, les communautés de communes et
-les communautés d'agglomération, est égal, pour chacun de ces établissements publics, au rapport entre :
+III. - 1° Le coefficient d'intégration fiscale, qui est défini pour les communautés urbaines de 2000 à 2002, les communautés
+de communes et les communautés d'agglomération, est égal, pour chacun de ces établissements publics, au rapport entre :
 
 a) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la redevance d'enlèvement des ordures ménagères
 et de la redevance d'assainissement perçues par l'établissement public minorées des dépenses de transfert ;
@@ -57656,13 +57870,21 @@ excède les recettes perçues par l'établissement public de coopération interc
 locales, de la taxe ou de la redevance d'enlèvement des ordures ménagères et de la redevance d'assainissement. Elles ne
 prennent pas en compte les dépenses effectuées par l'établissement public en tant qu'employeur direct de personnel.
 
-Les dépenses de transfert retenues pour déterminer le coefficient d'intégration fiscale des communautés urbaines, communautés
-de communes et communautés d'agglomération sont prises en compte à hauteur d'un seuil fixé à 10 % en 2000. Ce seuil augmente
-de 10 points par an pour atteindre 100 % en 2009.
+Les dépenses de transfert retenues pour déterminer le coefficient d'intégration fiscale des communautés urbaines de 2000 à
+2002 , communautés de communes et communautés d'agglomération sont prises en compte à hauteur d'un seuil fixé à 10 % en 2000.
+Ce seuil augmente de 10 points par an pour atteindre 100 % en 2009.
 
 V. - Le coefficient d'intégration fiscale des communautés de communes ayant opté pour l'application des dispositions de
 l'article 1609 nonies C du code général des impôts est pris en compte, pour le calcul des dotations de base et de
 péréquation, à hauteur de 10 % en 2000. Ce seuil augmente de 10 points par an pour atteindre 100 % en 2009.
+
+VI. - A compter du 1er janvier 2003, la dotation des communautés urbaines est répartie selon les dispositions fixées aux
+troisième et quatrième alinéas du I.
+
+VII. - Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'un établissement
+public de coopération intercommunale doté d'une fiscalité propre, cette variation est prise en compte, pour l'application des
+dispositions de la présente sous-section, dans les conditions prévues aux troisième et quatrième alinéas de l'article L.
+2334-2.
 
 **Liens relatifs à cet article**
 
@@ -57670,6 +57892,8 @@ _Cite_:
 
   - CGI 1609 nonies C
   - Loi n°96-369 1996-05-03
+  - Loi n°98-1266 1998-12-30 art. 44 Finances pour 1999
+  - Code général des collectivités territoriales - art. L2334-2 (M)
   - Code général des collectivités territoriales - art. L5214-23-1 (M)
 
 _Codifié par_:
@@ -57678,7 +57902,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 105 ()
+  - Loi n°99-1126 1999-12-28 art. 5, 25 II jorf 29 décembre 1999
+  - Loi n°99-1126 du 28 décembre 1999 - art. 5 ()
 
 _Cité par_:
 
@@ -57759,14 +57984,14 @@ intercommunale reçoit une attribution calculée dans les conditions prévues à
 communautés de communes et des syndicats ou communautés d'agglomération nouvelle ainsi déterminées font l'objet d'un
 abattement de 50 %.
 
-" Au titre de la première année d'attribution de la dotation dans une catégorie, le coefficient d'intégration fiscale à
-prendre en compte est égal, pour les communautés urbaines, les communautés de communes et les communautés d'agglomération, au
-coefficient d'intégration fiscale moyen de la catégorie d'établissement à laquelle elles appartiennent.
+Au titre de la première année d'attribution de la dotation dans une catégorie, le coefficient d'intégration fiscale à prendre
+en compte est égal, pour les communautés urbaines de 2000 à 2002, les communautés de communes et les communautés
+d'agglomération, au coefficient d'intégration fiscale moyen de la catégorie d'établissement à laquelle elles appartiennent.
 
-" Au titre de la deuxième année d'attribution de la dotation dans la même catégorie, le coefficient d'intégration fiscale non
-corrigé des dépenses de transfert des communautés urbaines, des communautés de communes et des communautés d'agglomération
-est pondéré par le rapport entre le coefficient d'intégration fiscale moyen de leur catégorie tel que défini au 2° du III de
-l'article L. 5211-30 et ce coefficient d'intégration fiscale moyen, non corrigé des dépenses de transfert.
+Au titre de la deuxième année d'attribution de la dotation dans la même catégorie, le coefficient d'intégration fiscale non
+corrigé des dépenses de transfert des communautés urbaines de 2000 à 2002, des communautés de communes et des communautés
+d'agglomération est pondéré par le rapport entre le coefficient d'intégration fiscale moyen de leur catégorie tel que défini
+au 2° du III de l'article L. 5211-30 et ce coefficient d'intégration fiscale moyen, non corrigé des dépenses de transfert.
 
 **Liens relatifs à cet article**
 
@@ -57776,7 +58001,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 107 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 25 ()
 
 _Anciens textes_:
 
@@ -57797,9 +58022,20 @@ _Cite_:
 
 ###### Article L5211-33
 
-Les communautés urbaines, les communautés de communes et les communautés d'agglomération ne peuvent percevoir, à compter de
-la troisième année d'attribution de la dotation dans la même catégorie, une attribution par habitant inférieure à 80 % de la
-dotation par habitant perçue l'année précédente.
+I Les communautés de communes et les communautés d'agglomération ne peuvent percevoir, à compter de la troisième année
+d'attribution de la dotation dans la même catégorie, une attribution par habitant inférieure à 80 % de la dotation par
+habitant perçue l'année précédente.
+
+De 2000 à 2002, les communautés urbaines ne faisant pas application des dispositions de l'article 1609 nonies C du code
+général des impôts ne peuvent percevoir une attribution par habitant inférieure à la dotation par habitant perçue l'année
+précédente.
+
+Les sommes nécessaires à l'application du mécanisme de garantie défini ci-dessus sont prélevées de 2000 à 2002 sur la
+dotation d'aménagement mentionnée à l'article L. 2334-13 après utilisation, à cet effet, des disponibilités dégagées par la
+mise en oeuvre des dispositions du septième alinéa du présent article.
+
+A compter du 1er janvier 2003, les communautés urbaines perçoivent une dotation d'intercommunalité dans les conditions
+prévues au troisième alinéa du I de l'article L. 5211-30.
 
 Les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des impôts
 ne peuvent percevoir, à compter de la troisième année d'attribution de la dotation dans la même catégorie, une attribution
@@ -57809,20 +58045,26 @@ Les disponibilités dégagées par la mise en oeuvre des dispositions de l'alin�
 établissements de la catégorie visée à ce même alinéa, selon les dispositions de l'article L. 5211-30 sans que la dotation de
 base et la dotation de péréquation ne soient pondérées par le coefficient d'intégration fiscale.
 
-Toutefois :
+Les communautés urbaines faisant application des dispositions de l'article 1609 nonies C du code général des impôts et qui
+sont issues de la transformation de communautés urbaines existantes l'année de promulgation de la loi n° 99-586 du 12 juillet
+1999 relative au renforcement et à la simplification de la coopération intercommunale ne peuvent percevoir en 2000 une
+dotation par habitant supérieure à 1,5 fois la dotation par habitant qu'elles percevaient l'année précédant leur
+transformation.
 
-1° Les communautés de communes, les communautés urbaines et les communautés d'agglomération dont le coefficient d'intégration
-fiscale est supérieur au double du coefficient d'intégration fiscale moyen de la catégorie à laquelle elles appartiennent
-perçoivent une dotation par habitant progressant comme la dotation forfaitaire prévue à l'article L. 2334-7 ;
+II Toutefois :
 
-2° Les établissements publics de coopération intercommunale dont la dotation par habitant perçue au titre des dotations de
-base et de péréquation est supérieure à celle perçue l'année précédente ne peuvent percevoir une dotation d'intercommunalité
-par habitant inférieure à celle de l'année précédente ;
+1° Les communautés de communes et les communautés d'agglomération dont le coefficient d'intégration fiscale est supérieur au
+double du coefficient d'intégration fiscale moyen de la catégorie à laquelle elles appartiennent perçoivent une dotation par
+habitant progressant comme la dotation forfaitaire prévue à l'article L. 2334-7 ;
 
-3° Pour les établissements publics de coopération intercommunale dont la dotation par habitant perçue au titre des dotations
-de base et de péréquation est en diminution par rapport à l'année précédente, le pourcentage de diminution de leur
-attribution totale par habitant par rapport à l'année précédente ne peut excéder celui constaté pour la somme des dotations
-de base et de péréquation.
+2° Les établissements publics de coopération intercommunale mentionnés au premier alinéa du I dont la dotation par habitant
+perçue au titre des dotations de base et de péréquation est supérieure à celle perçue l'année précédente ne peuvent percevoir
+une dotation d'intercommunalité par habitant inférieure à celle de l'année précédente ;
+
+3° Pour les établissements publics de coopération intercommunale mentionnés au premier alinéa du I dont la dotation par
+habitant perçue au titre des dotations de base et de péréquation est en diminution par rapport à l'année précédente, le
+pourcentage de diminution de leur attribution totale par habitant par rapport à l'année précédente ne peut excéder celui
+constaté pour la somme des dotations de base et de péréquation.
 
 La garantie calculée au titre des 2° et 3° ne peut représenter plus de 40 % de la dotation totale attribuée.
 
@@ -57850,7 +58092,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 107 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 25 ()
 
 _Anciens textes_:
 
@@ -57869,29 +58111,42 @@ _Cité par_:
 
 ###### Article L5211-34
 
-- En cas de dissolution d'un établissement public de coopération intercommunale doté d'une fiscalité propre, le montant de la
+En cas de dissolution d'un établissement public de coopération intercommunale doté d'une fiscalité propre, le montant de la
 dotation de péréquation qui aurait dû lui revenir l'année suivante augmenté, le cas échéant, de la garantie au titre de cette
 dotation, dont il aurait été bénéficiaire, est partagé entre les communes qui le composaient d'après le montant du produit
 des impôts, taxes et redevances mentionné à l'article L. 2334-6 constaté la dernière année de fonctionnement sur le
-territoire de chacune d'elles pour le compte de l'établissement public.
+territoire de chacune d'elles pour le compte de l'établissement public. 
 
 Aucune attribution n'est versée à ce titre aux communes qui adhèrent, l'année de la dissolution, à un autre établissement
-public de coopération intercommunale à fiscalité propre.
+public de coopération intercommunale à fiscalité propre. 
+
+En cas de dissolution d'une communauté urbaine après le 1er janvier 2003, le montant de la dotation qui aurait dû lui revenir
+l'année suivante est partagé entre les communes qui la composent en fonction du montant du produit des impôts, taxes et
+redevances mentionnés à l'article L. 2334-6 constaté la dernière année de fonctionnement sur le territoire de chacune d'entre
+elles pour le compte de l'établissement public.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°96-142 1996-02-21
+  - Loi n°96-142 du 21 février 1996
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 25 ()
+
+_Abrogé par_:
+
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 111 (V)
 
 _Anciens textes_:
 
   - CODE DES COMMUNES. - art. L234-16 (Ab)
   - Code général des collectivités territoriales l5211-38
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2334-6
 
 _Nouveaux textes_:
 
@@ -63295,17 +63550,16 @@ _Cite_:
 Les communes membres d'un syndicat d'agglomération nouvelle ou d'une communauté d'agglomération nouvelle peuvent à tout
 moment transférer à ce syndicat ou à cette communauté tout ou partie des compétences visées à l'article L. 5216-5 dont le
 transfert n'est pas prévu par les articles L. 5333-1 à L. 5333-4, ainsi que les biens, équipements ou services publics
-nécessaires à l'exercice de ces compétences.
+nécessaires à l'exercice de ces compétences. 
 
 Ces transferts sont décidés par délibérations concordantes du comité du syndicat d'agglomération nouvelle ou du conseil de la
 communauté d'agglomération nouvelle et des conseils municipaux se prononçant à une majorité des deux tiers au moins des
 conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci, ou par la
 moitié au moins des conseils municipaux des communes représentant les deux tiers de la population. Cette majorité doit
-nécessairement comprendre la commune dont la population est supérieure à la moitié de la population totale concernée ou, à
-défaut, la commune dont la population est la plus importante. Le conseil municipal de chaque commune dispose d'un délai de
-trois mois à compter de la notification au maire de la commune de la délibération du comité du syndicat d'agglomération
-nouvelle ou du conseil de la communauté d'agglomération pour se prononcer sur les transferts proposés. A défaut de
-délibération dans ce délai, sa décision est réputée favorable.
+nécessairement comprendre la commune dont la population est supérieure à la moitié de la population totale concernée. Le
+conseil municipal de chaque commune dispose d'un délai de trois mois à compter de la notification au maire de la commune de
+la délibération du comité du syndicat d'agglomération nouvelle ou du conseil de la communauté d'agglomération pour se
+prononcer sur les transferts proposés.A défaut de délibération dans ce délai, sa décision est réputée favorable. 
 
 Les transferts s'effectuent dans les conditions financières et patrimoniales prévues aux trois derniers alinéas de l'article
 L. 5211-17.
@@ -63316,15 +63570,15 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 48 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 19 ()
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L5211-17 (M)
-  - Code général des collectivités territoriales - art. L5216-5 (Ab)
-  - Code général des collectivités territoriales L5216-5, L5333-1 à L5333-4, L5211-17
+  - Code général des collectivités territoriales - art. L5211-17 (V)
+  - Code général des collectivités territoriales - art. L5216-5 (V)
+  - Code général des collectivités territoriales - art. L5333-1 (V)
 
 
 ###### Article L5333-5
@@ -64336,14 +64590,17 @@ Dans les six mois suivant la date de publication du décret prévu à l'article 
 ou une communauté d'agglomération nouvelle qui remplit les conditions fixées à l'article L. 5216-1 peut être transformé en
 communauté d'agglomération par décision prise à la majorité des deux tiers au moins des membres du comité du syndicat
 d'agglomération nouvelle ou du conseil d'agglomération nouvelle lorsque le syndicat ou la communauté exerce les compétences
-prévues à l'article L. 5216-5. Dans le cas contraire, cette transformation peut être décidée à la majorité qualifiée prévue
-au II de l'article L. 5211-5, sur proposition du comité du syndicat d'agglomération nouvelle ou du conseil de la communauté
-d'agglomération nouvelle adressée au représentant de l'Etat dans le département lorsque les communes font partie du même
-département ou aux représentants de l'Etat dans les départements concernés dans le cas contraire. Le conseil municipal de
-chaque commune membre dispose d'un délai de trois mois, à compter de la notification au maire de la commune de la
-délibération du comité du syndicat d'agglomération nouvelle ou du conseil de la communauté d'agglomération nouvelle par le ou
-les représentants de l'Etat dans le ou les départements concernés, pour se prononcer sur cette proposition. A défaut de cette
-délibération dans ce délai, sa décision est réputée favorable.
+prévues à l'article L. 5216-5.. Dans le cas contraire, cette transformation peut être décidée par l'accord des deux tiers au
+moins des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci,
+ou par la moitié au moins des conseils municipaux des communes représentant les deux tiers de la population, cette majorité
+devant en outre nécessairement comprendre le conseil municipal de la commune dont la population est supérieure à la moitié de
+la population totale concernée, cette transformation se faisant sur proposition du comité du syndicat d'agglomération
+nouvelle ou du conseil de la communauté d'agglomération nouvelle adressée au représentant de l'Etat dans le département
+lorsque les communes font partie du même département ou aux représentants de l'Etat dans les départements concernés dans le
+cas contraire. Le conseil municipal de chaque commune membre dispose d'un délai de trois mois, à compter de la notification
+au maire de la commune de la délibération du comité du syndicat d'agglomération nouvelle ou du conseil de la communauté
+d'agglomération nouvelle par le ou les représentants de l'Etat dans le ou les départements concernés, pour se prononcer sur
+cette proposition. A défaut de cette délibération dans ce délai, sa décision est réputée favorable.
 
 La transformation du syndicat d'agglomération nouvelle ou de la communauté d'agglomération nouvelle est prononcée par arrêté
 du représentant de l'Etat dans le département ou par arrêté conjoint des représentants de l'Etat dans les départements
@@ -64380,7 +64637,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 59 ()
+  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
 
 _Cité par_:
 
