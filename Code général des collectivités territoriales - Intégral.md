@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1997-02-15
+Version Consolidée au 1997-03-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -53959,7 +53959,7 @@ _Créé par_:
 
 ###### Article L4433-27
 
-- Les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion définissent les actions qu'elles entendent mener en
+Les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion définissent les actions qu'elles entendent mener en
 matière culturelle, après avis ou, le cas échéant, sur proposition des collectivités territoriales et du conseil de la
 culture, de l'éducation et de l'environnement.
 
@@ -53967,16 +53967,11 @@ A cette fin, le conseil régional élabore un programme culturel régional, nota
 la littérature, des arts plastiques, musicaux et cinématographiques.
 
 Chacune des régions concernées assure la mise en valeur et le développement du patrimoine spécifique de la région. La
-conservation du patrimoine sera définie et programmée dans le cadre des collèges régionaux du patrimoine et des sites mis en
-place par la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les
-régions et l'Etat, et dont la composition, dans les régions d'outre-mer concernées, est définie par un décret en Conseil
-d'Etat.
+conservation du patrimoine sera définie et programmée dans le cadre des commissions régionales du patrimoine et des sites mis
+en place par la loi n° 97-179 du 28 février 1997, et dont la composition, dans les régions d'outre-mer concernées, est
+définie par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°83-8 1983-01-07
 
 _Anciens textes_:
 
@@ -53987,9 +53982,13 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°97-179 1997-02-28
+
+_Modifié par_:
+
+  - Loi n°97-179 du 28 février 1997 - art. 5 ()
 
 _Cité par_:
 
