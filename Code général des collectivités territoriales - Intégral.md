@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1997-04-05
+Version Consolidée au 1997-12-30
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -64,8 +64,8 @@ Version Consolidée au 1997-04-05
           - [CHAPITRE Ier : Principes généraux (art. L1611-1 à L1611-4)](#61)
           - [CHAPITRE II : Adoption et exécution des budgets (art. L1612-3 à L1612-20)](#62)
           - [CHAPITRE III : Dotation globale de fonctionnement. (art. L1613-2 à L1613-5)](#63)
-          - [CHAPITRE IV : Compensation des transferts de compétences (art. L1614-2 à L1614-11)](#64)
-            - [Section 1 : Dispositions générales (art. L1614-2 à L1614-6)](#65)
+          - [CHAPITRE IV : Compensation des transferts de compétences (art. L1614-1 à L1614-11)](#64)
+            - [Section 1 : Dispositions générales (art. L1614-1 à L1614-6)](#65)
             - [Section 2 : Dispositions particulières à certains transferts (art. L1614-9 à L1614-11)](#66)
           - [CHAPITRE V : Fonds de compensation pour la taxe sur la valeur ajoutée (art. L1615-5 à L1615-10)](#67)
           - [CHAPITRE VI : Dispositions particulières aux oeuvres d'art (art. L1616-1)](#68)
@@ -74,8 +74,8 @@ Version Consolidée au 1997-04-05
           - [CHAPITRE Ier : Principes généraux. (art. L1611-5)](#71)
           - [CHAPITRE II : Adoption et exécution des budgets. (art. L1612-1 à L1612-17)](#72)
           - [CHAPITRE III : Dotation globale de fonctionnement. (art. L1613-1 à L1613-4)](#73)
-          - [CHAPITRE IV : Compensation des transferts de compétences (art. L1614-1 à L1614-15)](#74)
-            - [Section 1 : Dispositions générales. (art. L1614-1 à L1614-7)](#75)
+          - [CHAPITRE IV : Compensation des transferts de compétences (art. L1614-3 à L1614-15)](#74)
+            - [Section 1 : Dispositions générales. (art. L1614-3 à L1614-7)](#75)
             - [Section 2 : Dispositions particulières à certains transferts. (art. L1614-8 à L1614-15)](#76)
           - [CHAPITRE V : Fonds de compensation pour la taxe sur la valeur ajoutée. (art. L1615-1 à L1615-7)](#77)
           - [CHAPITRE VII : Dispositions relatives aux comptables des collectivités territoriales. (art. L1617-4 à L1617-5)](#78)
@@ -7624,6 +7624,76 @@ _Anciens textes_:
 
 ##### Section 1 : Dispositions générales<a id=65></a>
 
+###### Article L1614-1
+
+Tout accroissement net de charges résultant des transferts de compétences effectués entre l'Etat et les collectivités
+territoriales est accompagné du transfert concomitant par l'Etat aux communes, aux départements et aux régions des ressources
+nécessaires à l'exercice normal de ces compétences. Ces ressources sont équivalentes aux dépenses effectuées, à la date du
+transfert, par l'Etat au titre des compétences transférées et évoluent chaque année, dès la première année, comme la dotation
+globale de fonctionnement. Elles assurent la compensation intégrale des charges transférées.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 2 (Ab)
+  - Arrêté du 21 août 1996 - art. 2 (V)
+  - Loi n°2004-809 du 13 août 2004 - art. 119 (V)
+  - Décret n°2007-1946 du 26 décembre 2007 (V)
+  - Arrêté du 6 novembre 2008 (V)
+  - Décret n°2008-1552 du 31 décembre 2008 (V)
+  - Arrêté du 24 mars 2009 (V)
+  - Loi n°2014-58 du 27 janvier 2014 - art. 91 (V)
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 25 (V)
+  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 149 (V)
+  - Loi n°2017-257 du 28 février 2017 - art. 37 (V)
+  - Loi n°2018-771 du 5 septembre 2018 - art. 18 (V)
+  - Code de l'action sociale et des familles - art. L531-3 (V)
+  - Code de l'urbanisme - art. L121-7 (VT)
+  - Code de l'urbanisme - art. L132-15 (VD)
+  - Code de l'urbanisme - art. L710-4 (M)
+  - Code de l'éducation - art. L214-15 (VD)
+  - Code de l'éducation - art. L442-9 (V)
+  - Code de l'éducation - art. L722-14 (V)
+  - Code de l'éducation - art. L722-8 (V)
+  - Code des transports - art. L1241-14 (V)
+  - Code des transports - art. L1241-16 (VD)
+  - Code général des collectivités territoriales - art. L1614-1 (V)
+  - Code général des collectivités territoriales - art. L1614-11 (V)
+  - Code général des collectivités territoriales - art. L1614-2 (V)
+  - Code général des collectivités territoriales - art. L1614-3 (V)
+  - Code général des collectivités territoriales - art. L1614-4 (V)
+  - Code général des collectivités territoriales - art. L1614-5 (V)
+  - Code général des collectivités territoriales - art. L1614-7 (V)
+  - Code général des collectivités territoriales - art. L1614-8-1 (VD)
+  - Code général des collectivités territoriales - art. L1773-1 (V)
+  - Code général des collectivités territoriales - art. L3334-16-1 (V)
+  - Code général des collectivités territoriales - art. L4332-1 (VD)
+  - Code général des collectivités territoriales - art. L4332-3-1 (V)
+  - Code général des collectivités territoriales - art. L4425-1-1 (MMN)
+  - Code général des collectivités territoriales - art. L4425-23 (V)
+  - Code général des collectivités territoriales - art. L4433-16 (VD)
+  - Code général des collectivités territoriales - art. L4433-24-1 (M)
+  - Code général des collectivités territoriales - art. L4434-5 (V)
+  - Code général des collectivités territoriales - art. L4434-6 (V)
+  - Code général des collectivités territoriales - art. L6173-9 (VT)
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 art. 102, Loi 83-8 1983-01-07 art. 94 al. 2 (denière phrase)
+  - Loi n°82-213 du 2 mars 1982 - art. 102 (Ab)
+  - Loi n°83-8 du 7 janvier 1983 - art. 94 (Ab)
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Modifié par_:
+
+  - Loi - art. 42 (M)
+
+
 ###### Article L1614-2
 
 Les charges correspondant à l'exercice des compétences transférées font l'objet d'une évaluation préalable au transfert
@@ -7661,6 +7731,124 @@ _Cite_:
 
   - Code général des collectivités territoriales - art. L1614-1 (V)
   - Code général des collectivités territoriales - art. L1614-4 (V)
+
+
+###### Article L1614-4
+
+Les charges visées à l'article L. 1614-1 sont compensées par le transfert d'impôts d'Etat, par les ressources du Fonds de
+compensation de la fiscalité transférée et, pour le solde, par l'attribution d'une dotation générale de décentralisation. Les
+collectivités locales bénéficiaires utilisent librement la dotation générale de décentralisation et les ressources en
+provenance du Fonds de compensation de la fiscalité transférée qui sont inscrites en section de fonctionnement du budget. 
+
+Dans le cas où, l'année d'un transfert de compétences, le produit des impôts affectés à cette compensation, calculé aux taux
+en vigueur à la date du transfert de compétences, est supérieur, pour une collectivité donnée, au montant des charges qui
+résultent du transfert de compétences, tel qu'il est constaté dans l'arrêté interministériel mentionné à l'article L. 1614-3,
+il est procédé l'année même aux ajustements nécessaires.
+
+A cette fin, le produit des impôts revenant à la collectivité concernée est diminué, au profit du fonds de compensation de la
+fiscalité transférée, de la différence entre le produit calculé sur la base des taux en vigueur à la date du transfert et le
+montant des charges visé ci-dessus ainsi que la moitié du supplément de ressources fiscales résultant des dispositions de
+l'article 14 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983). 
+
+Dès l'année du transfert et pour les années ultérieures, le montant de cet ajustement évolue dans les conditions prévues à
+l'article L. 1614-1. Il est modifié, en tant que de besoin, pour tenir compte des accroissements de charges résultant de
+nouveaux transferts de compétences.
+
+A compter de 1997, il est créé un Fonds de compensation de la fiscalité transférée qui dispose en ressources de la diminution
+du produit des impôts définie au troisième alinéa du présent article. 
+
+Sont éligibles à ce fonds les collectivités territoriales pour lesquelles le transfert d'impôt d'Etat a été insuffisant pour
+compenser intégralement l'accroissement net de charges résultant des transferts de compétences entre l'Etat et ces
+collectivités territoriales. 
+
+Ce fonds est réparti entre les collectivités territoriales éligibles au prorata de leur part dans l'accroissement net de
+charge, précité, diminué du produit des impôts d'Etat transférés affecté, en application du premier alinéa, à la compensation
+de ces charges.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 2 (Ab)
+  - Arrêté du 19 mars 1997 - art. 1 (V)
+  - Loi n°97-1239 du 29 décembre 1997 - art. 42 (V)
+  - Arrêté du 24 mars 1998 - art. 1 (V)
+  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
+  - Arrêté du 22 février 1999 - art. 1 (V)
+  - Loi - art. 6 (V)
+  - Loi - art. 24 (V)
+  - Arrêté du 19 mars 2003 - art. 1 (V)
+  - Loi n°2007-1824 du 25 décembre 2007 - art. 104 (V)
+  - Arrêté du 21 décembre 2009 (V)
+  - Arrêté du 21 décembre 2009 - art. (V)
+  - Arrêté du 26 avril 2010 (V)
+  - Arrêté du 26 avril 2010 - art. Annexe (V)
+  - Arrêté du 11 juin 2012 (V)
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 25 (V)
+  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 33 (V)
+  - Arrêté du 2 mai 2019 (V)
+  - Décret n°2019-701 du 3 juillet 2019 - art. 8 (V)
+  - Code de l'action sociale et des familles - art. L531-3 (V)
+  - Code de l'éducation - art. L213-9 (V)
+  - Code de l'éducation - art. L214-11 (M)
+  - Code de l'éducation - art. L442-9 (V)
+  - Code général des collectivités territoriales - art. L1613-1 (V)
+  - Code général des collectivités territoriales - art. L1614-2 (V)
+  - Code général des collectivités territoriales - art. L1773-2 (V)
+  - Code général des collectivités territoriales - art. L3334-16 (V)
+  - Code général des collectivités territoriales - art. L3334-7-1 (V)
+  - Code général des collectivités territoriales - art. L4332-1 (VD)
+  - Code général des collectivités territoriales - art. L4332-3 (V)
+  - Code général des collectivités territoriales - art. L4332-7 (VT)
+  - Code général des collectivités territoriales - art. L4425-1-1 (MMN)
+  - Code général des collectivités territoriales - art. L6173-9 (VT)
+  - Code général des collectivités territoriales - art. R3334-23 (T)
+  - Code général des collectivités territoriales - art. R3335-1 (T)
+  - Code général des collectivités territoriales - art. R3335-2 (V)
+  - Code général des collectivités territoriales - art. R3335-4 (V)
+  - Code général des collectivités territoriales - art. R4433-17 (V)
+
+_Anciens textes_:
+
+  - Loi n°83-8 1983-01-07 art. 98 par. II et art. 95 al. 1 et 3 et 4 et 5
+
+_Cite_:
+
+  - Loi n°83-1179 du 29 décembre 1983 (V)
+  - Code général des collectivités territoriales - art. L1614-1 (V)
+  - Code général des collectivités territoriales - art. L1614-3 (V)
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 10 avril 1996
+  - TXT_SOURCE: Arrêté du 10 avril 1996 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 10 avril 1996 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 19 mars 1997
+  - TXT_SOURCE: Arrêté du 19 mars 1997 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 19 mars 1997 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 24 mars 1998
+  - TXT_SOURCE: Arrêté du 24 mars 1998 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 24 mars 1998 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 22 février 1999
+  - TXT_SOURCE: Arrêté du 22 février 1999 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 22 février 1999 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 22 février 1999 - art. ANNEXE (V)
+  - TXT_SOURCE: Arrêté du 19 mars 2003
+  - TXT_SOURCE: Arrêté du 19 mars 2003 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 19 mars 2003 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 19 mars 2003 - art. ANNEXE (V)
+  - TXT_SOURCE: Arrêté du 6 mai 2004
+  - TXT_SOURCE: Arrêté du 6 mai 2004 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 6 mai 2004 - art. ANNEXE (V)
+
+_Modifié par_:
+
+  - Loi - art. 42 (M)
 
 
 ###### Article L1614-5
@@ -8402,76 +8590,6 @@ _Créé par_:
 
 ##### Section 1 : Dispositions générales.<a id=75></a>
 
-###### Article L1614-1
-
-- Tout accroissement net de charges résultant des transferts de compétences effectués entre l'Etat et les collectivités
-territoriales est accompagné du transfert concomitant par l'Etat aux communes, aux départements et aux régions des ressources
-nécessaires à l'exercice normal de ces compétences. Ces ressources sont équivalentes aux dépenses effectuées, à la date du
-transfert, par l'Etat au titre des compétences transférées et évoluent chaque année comme la dotation globale de
-fonctionnement. Elles assurent la compensation intégrale des charges transférées.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 2 (Ab)
-  - Arrêté du 21 août 1996 - art. 2 (V)
-  - Loi n°2004-809 du 13 août 2004 - art. 119 (V)
-  - Décret n°2007-1946 du 26 décembre 2007 (V)
-  - Arrêté du 6 novembre 2008 (V)
-  - Décret n°2008-1552 du 31 décembre 2008 (V)
-  - Arrêté du 24 mars 2009 (V)
-  - Loi n°2014-58 du 27 janvier 2014 - art. 91 (V)
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 25 (V)
-  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 149 (V)
-  - Loi n°2017-257 du 28 février 2017 - art. 37 (V)
-  - Loi n°2018-771 du 5 septembre 2018 - art. 18 (V)
-  - Code de l'action sociale et des familles - art. L531-3 (V)
-  - Code de l'urbanisme - art. L121-7 (VT)
-  - Code de l'urbanisme - art. L132-15 (VD)
-  - Code de l'urbanisme - art. L710-4 (M)
-  - Code de l'éducation - art. L214-15 (VD)
-  - Code de l'éducation - art. L442-9 (V)
-  - Code de l'éducation - art. L722-14 (V)
-  - Code de l'éducation - art. L722-8 (V)
-  - Code des transports - art. L1241-14 (V)
-  - Code des transports - art. L1241-16 (VD)
-  - Code général des collectivités territoriales - art. L1614-1 (V)
-  - Code général des collectivités territoriales - art. L1614-11 (V)
-  - Code général des collectivités territoriales - art. L1614-2 (V)
-  - Code général des collectivités territoriales - art. L1614-3 (V)
-  - Code général des collectivités territoriales - art. L1614-4 (V)
-  - Code général des collectivités territoriales - art. L1614-5 (V)
-  - Code général des collectivités territoriales - art. L1614-7 (V)
-  - Code général des collectivités territoriales - art. L1614-8-1 (VD)
-  - Code général des collectivités territoriales - art. L1773-1 (V)
-  - Code général des collectivités territoriales - art. L3334-16-1 (V)
-  - Code général des collectivités territoriales - art. L4332-1 (VD)
-  - Code général des collectivités territoriales - art. L4332-3-1 (V)
-  - Code général des collectivités territoriales - art. L4425-1-1 (MMN)
-  - Code général des collectivités territoriales - art. L4425-23 (V)
-  - Code général des collectivités territoriales - art. L4433-16 (VD)
-  - Code général des collectivités territoriales - art. L4433-24-1 (M)
-  - Code général des collectivités territoriales - art. L4434-5 (V)
-  - Code général des collectivités territoriales - art. L4434-6 (V)
-  - Code général des collectivités territoriales - art. L6173-9 (VT)
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 art. 102, Loi 83-8 1983-01-07 art. 94 al. 2 (denière phrase)
-  - Loi n°82-213 du 2 mars 1982 - art. 102 (Ab)
-  - Loi n°83-8 du 7 janvier 1983 - art. 94 (Ab)
-
-_Codifié par_:
-
-  - Loi n°96-142 1996-02-21
-
-_Créé par_:
-
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-
 ###### Article L1614-3
 
 - Le montant des dépenses résultant des accroissements et diminutions de charges est constaté pour chaque collectivité par
@@ -8557,124 +8675,6 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-
-###### Article L1614-4
-
-Les charges visées à l'article L. 1614-1 sont compensées par le transfert d'impôts d'Etat, par les ressources du Fonds de
-compensation de la fiscalité transférée et, pour le solde, par l'attribution d'une dotation générale de décentralisation. Les
-collectivités locales bénéficiaires utilisent librement la dotation générale de décentralisation et les ressources en
-provenance du Fonds de compensation de la fiscalité transférée qui sont inscrites; en section de fonctionnement du budget.
-
-Dans le cas où, l'année d'un transfert de compétences, le produit des impôts affectés à cette compensation, calculé aux taux
-en vigueur à la date du transfert de compétences, est supérieur, pour une collectivité donnée, au montant des charges qui
-résultent du transfert de compétences, tel qu'il est constaté dans l'arrêté interministériel mentionné à l'article L. 1614-3,
-il est procédé l'année même aux ajustements nécessaires.
-
-A cette fin, le produit des impôts revenant à la collectivité concernée est diminué, de la différence entre le produit
-calculé sur la base des taux en vigueur à la date du transfert et le montant des charges visé ci-dessus ainsi que la moitié
-du supplément de ressources fiscales résultant des dispositions de l'article 14 de la loi de finances pour 1984 (n° 83-1179
-du 29 décembre 1983).
-
-Pour les années ultérieures, le montant de cet ajustement évolue dans les conditions prévues à l'article L. 1614-1. Il est
-modifié, en tant que de besoin, pour tenir compte des accroissements de charges résultant de nouveaux transferts de
-compétences.
-
-A compter de 1997, il est créé un Fonds de compensation de la fiscalité transférée qui dispose en ressources de la diminution
-du produit des impôts définie au troisième alinéa du présent article.
-
-Sont éligibles à ce fonds les collectivités territoriales pour lesquelles le transfert d'impôt d'Etat a été insuffisant pour
-compenser intégralement l'accroissement net de charges résultant des transferts de compétences entre l'Etat et ces
-collectivités territoriales.
-
-Ce fonds est réparti entre les collectivités territoriales éligibles au prorata de leur part dans l'accroissement net de
-charge précité, diminué du produit des impôts d'Etat transférés affecté, en application du premier alinéa, à la compensation
-de ces charges.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 2 (Ab)
-  - Arrêté du 19 mars 1997 - art. 1 (V)
-  - Loi n°97-1239 du 29 décembre 1997 - art. 42 (V)
-  - Arrêté du 24 mars 1998 - art. 1 (V)
-  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
-  - Arrêté du 22 février 1999 - art. 1 (V)
-  - Loi - art. 6 (V)
-  - Loi - art. 24 (V)
-  - Arrêté du 19 mars 2003 - art. 1 (V)
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 104 (V)
-  - Arrêté du 21 décembre 2009 (V)
-  - Arrêté du 21 décembre 2009 - art. (V)
-  - Arrêté du 26 avril 2010 (V)
-  - Arrêté du 26 avril 2010 - art. Annexe (V)
-  - Arrêté du 11 juin 2012 (V)
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 25 (V)
-  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 33 (V)
-  - Arrêté du 2 mai 2019 (V)
-  - Décret n°2019-701 du 3 juillet 2019 - art. 8 (V)
-  - Code de l'action sociale et des familles - art. L531-3 (V)
-  - Code de l'éducation - art. L213-9 (V)
-  - Code de l'éducation - art. L214-11 (M)
-  - Code de l'éducation - art. L442-9 (V)
-  - Code général des collectivités territoriales - art. L1613-1 (V)
-  - Code général des collectivités territoriales - art. L1614-2 (V)
-  - Code général des collectivités territoriales - art. L1773-2 (V)
-  - Code général des collectivités territoriales - art. L3334-16 (V)
-  - Code général des collectivités territoriales - art. L3334-7-1 (V)
-  - Code général des collectivités territoriales - art. L4332-1 (VD)
-  - Code général des collectivités territoriales - art. L4332-3 (V)
-  - Code général des collectivités territoriales - art. L4332-7 (VT)
-  - Code général des collectivités territoriales - art. L4425-1-1 (MMN)
-  - Code général des collectivités territoriales - art. L6173-9 (VT)
-  - Code général des collectivités territoriales - art. R3334-23 (T)
-  - Code général des collectivités territoriales - art. R3335-1 (T)
-  - Code général des collectivités territoriales - art. R3335-2 (V)
-  - Code général des collectivités territoriales - art. R3335-4 (V)
-  - Code général des collectivités territoriales - art. R4433-17 (V)
-
-_Anciens textes_:
-
-  - Loi n°83-8 1983-01-07 art. 98 par. II et art. 95 al. 1 et 3 et 4 et 5
-
-_Cite_:
-
-  - Loi n°83-1179 1983-12-29 art. 14 Finances pour 1984
-  - Code général des collectivités territoriales - art. L1614-1 (M)
-  - Code général des collectivités territoriales - art. L1614-3 (M)
-
-_Codifié par_:
-
-  - Loi n°96-142 1996-02-21
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 10 avril 1996
-  - TXT_SOURCE: Arrêté du 10 avril 1996 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 10 avril 1996 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 19 mars 1997
-  - TXT_SOURCE: Arrêté du 19 mars 1997 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 19 mars 1997 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1998
-  - TXT_SOURCE: Arrêté du 24 mars 1998 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1998 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 22 février 1999
-  - TXT_SOURCE: Arrêté du 22 février 1999 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 22 février 1999 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 22 février 1999 - art. ANNEXE (V)
-  - TXT_SOURCE: Arrêté du 19 mars 2003
-  - TXT_SOURCE: Arrêté du 19 mars 2003 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 19 mars 2003 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 19 mars 2003 - art. ANNEXE (V)
-  - TXT_SOURCE: Arrêté du 6 mai 2004
-  - TXT_SOURCE: Arrêté du 6 mai 2004 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 6 mai 2004 - art. ANNEXE (V)
-
-_Modifié par_:
-
-  - Loi n°96-1181 du 30 décembre 1996 - art. 31 ()
 
 
 ###### Article L1614-7
