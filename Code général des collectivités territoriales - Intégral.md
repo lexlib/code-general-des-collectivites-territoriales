@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-06-21
+Version Consolidée au 1996-07-06
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -21100,24 +21100,28 @@ _Créé par_:
 
 ###### Article L2224-18
 
-- Le régime des droits de place et de stationnement sur les halles et les marchés est défini conformément aux dispositions
-d'un cahier des charges ou d'un règlement établi par l'autorité municipale après consultation des organisations
-professionnelles intéressées.
+Les délibérations du conseil municipal relatives à la création, au transfert ou à la suppression de halles ou de marchés
+communaux sont prises après consultation des organisations professionnelles intéressées qui disposent d'un délai d'un mois
+pour émettre un avis.
+
+Le régime des droits de place et de stationnement sur les halles et les marchés est défini conformément aux dispositions d'un
+cahier des charges ou d'un règlement établi par l'autorité municipale après consultation des organisations professionnelles
+intéressées.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°73-1193 1973-12-30 art. 35
   - Loi n°73-1193 du 27 décembre 1973 - art. 35 (Ab)
+  - Loi n°73-1193 1973-12-30 art. 35
 
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°96-603 du 5 juillet 1996 - art. 34 ()
 
 _Cité par_:
 
