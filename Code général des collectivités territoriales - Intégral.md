@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1997-12-30
+Version Consolidée au 1997-12-31
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -8968,16 +8968,16 @@ _Anciens textes_:
 
 ###### Article L1615-2
 
-- Les ressources destinées au Fonds de compensation pour la taxe sur la valeur ajoutée, visé à l'article L. 1615-1, sont
+Les ressources destinées au Fonds de compensation pour la taxe sur la valeur ajoutée, visé à l'article L. 1615-1, sont
 réparties entre les régions, les départements, les communes, leurs groupements, leurs régies, les organismes chargés de la
 gestion des agglomérations nouvelles, les services départementaux d'incendie et de secours, les centres communaux d'action
 sociale, les caisses des écoles, le Centre national de la fonction publique territoriale et les centres de gestion des
 personnels de la fonction publique territoriale au prorata de leurs dépenses réelles d'investissement, telles qu'elles sont
 définies par décret.
 
-" Les établissements de coopération intercommunale bénéficient, en lieu et place des communes membres propriétaires, des
-attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées, à
-compter du 1er janvier 1997, dans l'exercice de leurs compétences relatives à la voirie. "
+Les établissements publics de coopération intercommunale bénéficient, en lieu et place des communes membres propriétaires,
+des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées
+dans l'exercice de leurs compétences.
 
 **Liens relatifs à cet article**
 
@@ -8987,7 +8987,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 33 ()
+  - Loi - art. 30 ()
 
 _Anciens textes_:
 
