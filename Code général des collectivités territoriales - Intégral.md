@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-05-14
+Version Consolidée au 1996-06-21
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -37425,20 +37425,11 @@ _Anciens textes_:
 
 ###### Article L2544-17
 
-- Pour les ventes publiques aux enchères, le maire est assisté de deux conseillers municipaux et avertit le receveur
-municipal.
+Pour les ventes publiques aux enchères, le maire est assisté de deux conseillers municipaux et avertit le receveur municipal.
 
 Le maire peut même ordonner que le receveur municipal soit présent.
 
-La location de la chasse, en application des articles L. 229-1 à L. 229-15 du code rural, a lieu conformément aux conditions
-d'un cahier des charges type arrêté par le représentant de l'Etat dans le département qui fixe notamment les modalités de
-révision des baux à la demande du maire.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L229-1 à L229-15
 
 _Codifié par_:
 
@@ -37446,7 +37437,7 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°96-549 du 20 juin 1996 - art. 3 ()
 
 _Anciens textes_:
 
