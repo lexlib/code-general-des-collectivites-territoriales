@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-02-24
+Version Consolidée au 1996-02-25
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-4)](#2)
@@ -63746,6 +63746,32 @@ _Anciens textes_:
   - Code des communes L311-1 al. 3 et L311-8 par. I al. 2 ecqc les syndicats mixtes
   - CODE DES COMMUNES. - art. L*311-8 (Ab)
   - CODE DES COMMUNES. - art. L311-1 (Ab)
+
+
+###### Article L5722-4
+
+- Les cessions d'immeubles ou de droits réels immobiliers des syndicats mixtes font l'objet d'une inscription sur un tableau
+récapitulatif annexé au compte administratif de l'établissement. Cette inscription précise la nature du bien, sa
+localisation, l'origine de propriété, l'identité du cédant et du cessionnaire ainsi que les conditions de la cession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1027 du 26 août 2005 - art. 26 () JORF 27 août 2005 en vigueur le 1er janvier 2006
+
+_Anciens textes_:
+
+  - Code des communes L311-8 par. II al. 2 ecqc les syndicats mixtes
+  - CODE DES COMMUNES. - art. L*311-8 (Ab)
 
 
 ###### Article L5722-5
