@@ -1,8 +1,8 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 2000-02-11
+Version Consolidée au 2000-04-06
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
-    - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
+    - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1621-1)](#2)
       - [LIVRE Ier : PRINCIPES GÉNÉRAUX DE LA DÉCENTRALISATION (art. L1111-1 à L1112-7)](#3)
         - [TITRE UNIQUE : LIBRE ADMINISTRATION DES COLLECTIVITÉS TERRITORIALES (art. L1111-1 à L1112-7)](#4)
           - [CHAPITRE Ier : Principe de libre administration (art. L1111-1 à L1111-7)](#5)
@@ -63,7 +63,7 @@ Version Consolidée au 2000-02-11
           - [CHAPITRE III : Modalités d'intervention (art. L1523-1 à L1523-4)](#60)
           - [CHAPITRE IV : Administration et contrôle (art. L1524-1 à L1524-7)](#61)
           - [CHAPITRE V : Dispositions particulières (art. L1525-1 à L1525-3)](#62)
-      - [LIVRE VI : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. L1611-1 à L1617-5)](#63)
+      - [LIVRE VI : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. L1611-1 à L1621-1)](#63)
         - [TITRE Ier (art. L1611-1 à L1617-3)](#64)
           - [CHAPITRE Ier : Principes généraux (art. L1611-1 à L1611-4)](#65)
           - [CHAPITRE II : Adoption et exécution des budgets (art. L1612-2 à L1612-20)](#66)
@@ -83,663 +83,665 @@ Version Consolidée au 2000-02-11
             - [Section 2 : Dispositions particulières à certains transferts. (art. L1614-8 à L1614-15)](#80)
           - [CHAPITRE V : Fonds de compensation pour la taxe sur la valeur ajoutée. (art. L1615-1 à L1615-7)](#81)
           - [CHAPITRE VII : Dispositions relatives aux comptables des collectivités territoriales. (art. L1617-4 à L1617-5)](#82)
-    - [DEUXIÈME PARTIE : LA COMMUNE (art. L2111-1 à L2563-7)](#83)
-      - [LIVRE Ier : ORGANISATION DE LA COMMUNE (art. L2111-1 à L2143-4)](#84)
-        - [TITRE Ier : NOM ET TERRITOIRE DE LA COMMUNE (art. L2111-1 à L2114-3)](#85)
-          - [CHAPITRE Ier : Nom. (art. L2111-1)](#86)
-          - [CHAPITRE II : Limites territoriales et chef-lieu (art. L2112-1 à L2112-13)](#87)
-            - [Section 1 : Délimitation (art. L2112-1)](#88)
-            - [Section 2 : Modifications (art. L2112-2 à L2112-13)](#89)
-          - [CHAPITRE III : Fusion de communes (art. L2113-1 à L2113-26)](#90)
-            - [Section 1 : Dispositions communes (art. L2113-1 à L2113-8)](#91)
-            - [Section 2 : Fusions simples (art. L2113-9 à L2113-10)](#92)
-            - [Section 3 : Fusions comportant la création d'une ou plusieurs communes associées (art. L2113-11 à L2113-26)](#93)
-              - [Sous-section 1 : Dispositions communes (art. L2113-11 à L2113-16)](#94)
-              - [Sous-section 2 : Dispositions relatives aux communes issues d'une fusion comptant plus de 100 000 habitants (art. L2113-17 à L2113-20)](#95)
-              - [Sous-section 3 : Dispositions relatives aux communes issues d'une fusion comptant 100 000 habitants ou moins (art. L2113-21 à L2113-26)](#96)
-          - [CHAPITRE IV : Suppression de communes (art. L2114-1 à L2114-3)](#97)
-        - [TITRE II : ORGANES DE LA COMMUNE (art. L2121-1 à L2124-7)](#98)
-          - [CHAPITRE Ier : Le conseil municipal (art. L2121-1 à L2121-39)](#99)
-            - [Section 1 : Composition (art. L2121-1 à L2121-3)](#100)
-            - [Section 2 : Démissions (art. L2121-4 à L2121-5)](#101)
-            - [Section 3 : Dissolution (art. L2121-6)](#102)
-            - [Section 4 : Fonctionnement (art. L2121-7 à L2121-28)](#103)
-            - [Section 5 : Attributions (art. L2121-29 à L2121-34)](#104)
-            - [Section 6 : Délégation spéciale (art. L2121-35 à L2121-39)](#105)
-          - [CHAPITRE II : Le maire et les adjoints (art. L2122-1 à L2122-35)](#106)
-            - [Section 1 : Dispositions générales (art. L2122-1 à LO2122-4-1)](#107)
-            - [Section 2 : Désignation (art. L2122-7 à L2122-17)](#108)
-            - [Section 3 : Attributions (art. L2122-18 à L2122-34)](#109)
-              - [Sous-section 1 : Conditions générales d'exercice. (art. L2122-18 à L2122-20)](#110)
-              - [Sous-section 2 : Attributions exercées au nom de la commune. (art. L2122-21 à L2122-26)](#111)
-              - [Sous-section 3 : Attributions exercées au nom de l'Etat. (art. L2122-27 à L2122-34)](#112)
-            - [Section 4 : Honorariat des maires, maires délégués et adjoints (art. L2122-35)](#113)
-          - [CHAPITRE III : Conditions d'exercice des mandats municipaux (art. L2123-1 à L2123-34)](#114)
-            - [Section 1 : Garanties accordées aux titulaires de mandats municipaux (art. L2123-1 à L2123-11)](#115)
-              - [Sous-section 1 : Garanties accordées dans l'exercice du mandat (art. L2123-1 à L2123-6)](#116)
-              - [Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle (art. L2123-7 à L2123-11)](#117)
-            - [Section 2 : Droit à la formation (art. L2123-12 à L2123-16)](#118)
-            - [Section 3 : Indemnités des titulaires de mandats municipaux (art. L2123-17 à L2123-24)](#119)
-              - [Sous-section 1 : Dispositions générales. (art. L2123-17)](#120)
-              - [Sous-section 2 : Frais de mission et de représentation. (art. L2123-18 à L2123-19)](#121)
-              - [Sous-section 3 : Indemnités de fonction. (art. L2123-20 à L2123-24)](#122)
-            - [Section 4 : Protection sociale (art. L2123-25 à L2123-30)](#123)
-              - [Sous-section 1 : Sécurité sociale. (art. L2123-25)](#124)
-              - [Sous-section 2 : Retraite. (art. L2123-26 à L2123-30)](#125)
-            - [Section 5 : Responsabilité des communes en cas d'accident (art. L2123-31 à L2123-33)](#126)
-            - [Section 6 : Responsabilité des élus. (art. L2123-34)](#127)
-          - [CHAPITRE IV : Dispositions applicables en période de mobilisation générale et en temps de guerre (art. L2124-1 à L2124-7)](#128)
-        - [TITRE III : ACTES DES AUTORITÉS COMMUNALES ET ACTIONS CONTENTIEUSES (art. L2131-1 à L2132-7)](#129)
-          - [CHAPITRE Ier : Régime juridique des actes pris par les autorités communales (art. L2131-1 à L2131-13)](#130)
-          - [CHAPITRE II : Actions contentieuses de la commune (art. L2132-1 à L2132-7)](#131)
-            - [Section 1 : Dispositions générales (art. L2132-1 à L2132-4)](#132)
-            - [Section 2 : Exercice par un contribuable des actions appartenant à la commune (art. L2132-5 à L2132-7)](#133)
-        - [TITRE IV : INFORMATION ET PARTICIPATION DES HABITANTS (art. L2141-1 à L2143-4)](#134)
-          - [CHAPITRE Ier : Dispositions générales (art. L2141-1)](#135)
-          - [CHAPITRE II : Participation des habitants à la vie locale. (art. L2142-1 à L2142-8)](#136)
-          - [CHAPITRE III : Dispositions diverses. (art. L2143-1 à L2143-4)](#137)
-      - [LIVRE II : ADMINISTRATION ET SERVICES COMMUNAUX (art. L2211-1 à L2253-7)](#138)
-        - [TITRE Ier : POLICE (art. L2211-1 à L2216-3)](#139)
-          - [CHAPITRE Ier : Dispositions générales (art. L2211-1)](#140)
-          - [CHAPITRE II : Police municipale (art. L2212-1 à L2212-9)](#141)
-          - [CHAPITRE III : Pouvoirs de police portant sur des objets particuliers (art. L2213-1 à L2213-31)](#142)
-            - [Section 1 : Police de la circulation et du stationnement (art. L2213-1 à L2213-6)](#143)
-            - [Section 2 : Police des funérailles et des lieux de sépulture (art. L2213-7 à L2213-15)](#144)
-            - [Section 3 : Police dans les campagnes (art. L2213-16 à L2213-21)](#145)
-            - [Section 4 : Autres polices (art. L2213-22 à L2213-31)](#146)
-          - [CHAPITRE IV : Dispositions applicables dans les communes où la police est étatisée (art. L2214-1 à L2214-4)](#147)
-          - [CHAPITRE V : Pouvoirs du représentant de l'Etat dans le département (art. L2215-1 à L2215-5)](#148)
-          - [CHAPITRE VI : Responsabilité (art. L2216-1 à L2216-3)](#149)
-        - [TITRE II : SERVICES COMMUNAUX (art. L2221-1 à L2224-34)](#150)
-          - [CHAPITRE Ier : Régies municipales (art. L2221-1 à L2221-20)](#151)
-            - [Section 1 : Dispositions générales (art. L2221-1 à L2221-9)](#152)
-            - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. L2221-10)](#153)
-            - [Section 3 : Régies dotées de la seule autonomie financière (art. L2221-11 à L2221-14)](#154)
-            - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. L2221-15 à L2221-20)](#155)
-          - [CHAPITRE II : Concessions et affermages (art. L2222-1 à L2222-2)](#156)
-          - [CHAPITRE III : Cimetières et opérations funéraires (art. L2223-1 à L2223-46)](#157)
-            - [Section 1 : Cimetières (art. L2223-1 à L2223-18)](#158)
-              - [Sous-section 1 : Dispositions générales (art. L2223-1 à L2223-12)](#159)
-              - [Sous-section 2 : Concessions (art. L2223-13 à L2223-18)](#160)
-            - [Section 2 : Opérations funéraires (art. L2223-19 à L2223-46)](#161)
-              - [Sous-section 1 : Service des pompes funèbres (art. L2223-19 à L2223-30)](#162)
-              - [Sous-section 2 : Réglementation de l'activité des opérateurs participant au service extérieur des pompes funèbres (art. L2223-31 à L2223-34)](#163)
-              - [Sous-section 3 : Sanctions pénales (art. L2223-35 à L2223-37)](#164)
-              - [Sous-section 4 : Equipements funéraires (art. L2223-38 à L2223-43)](#165)
-              - [Sous-section 5 : Dispositions diverses et transitoires (art. L2223-44 à L2223-46)](#166)
-          - [CHAPITRE IV : Services publics industriels et commerciaux (art. L2224-1 à L2224-34)](#167)
-            - [Section 1 : Dispositions générales (art. L2224-1 à L2224-6)](#168)
-            - [Section 2 : Assainissement. (art. L2224-7 à L2224-12)](#169)
-            - [Section 3 : Ordures ménagères et autres déchets (art. L2224-13 à L2224-17)](#170)
-            - [Section 4 : Halles, marchés et poids publics (art. L2224-18 à L2224-29)](#171)
-            - [Section 5 : Abattoirs. (art. L2224-30)](#172)
-            - [Section 6 : Distribution et production d'électricité. (art. L2224-31 à L2224-34)](#173)
-        - [TITRE III : STATIONS CLASSÉES (art. L2231-1 à L2231-18)](#174)
-          - [CHAPITRE unique (art. L2231-1 à L2231-18)](#175)
-            - [Section 1 : Définitions. (art. L2231-1 à L2231-4)](#176)
-            - [Section 2 : Dispositions communes aux stations classées (art. L2231-5 à L2231-16)](#177)
-              - [Sous-section 1 : Classement. (art. L2231-5 à L2231-8)](#178)
-              - [Sous-section 2 : Office du tourisme. (art. L2231-9 à L2231-16)](#179)
-            - [Section 3 : Dispositions particulières aux stations de tourisme. (art. L2231-17)](#180)
-            - [Section 4 : Dispositions générales. (art. L2231-18)](#181)
-        - [TITRE IV : BIENS DE LA COMMUNE (art. L2241-1 à L2243-4)](#182)
-          - [CHAPITRE Ier : Dispositions générales (art. L2241-1 à L2241-7)](#183)
-          - [CHAPITRE II : Dons et legs (art. L2242-1 à L2242-5)](#184)
-          - [CHAPITRE III : Déclaration de parcelle en état d'abandon (art. L2243-1 à L2243-4)](#185)
-        - [TITRE V : INTERVENTIONS EN MATIÈRE ÉCONOMIQUE ET SOCIALE (art. L2251-1 à L2253-7)](#186)
-          - [CHAPITRE Ier : Aides directes et indirectes. (art. L2251-1 à L2251-4)](#187)
-          - [CHAPITRE II : Garanties d'emprunts (art. L2252-1 à L2252-4)](#188)
-          - [CHAPITRE III : Participation au capital de sociétés (art. L2253-1 à L2253-7)](#189)
-            - [Section 1 : Dispositions générales (art. L2253-1 à L2253-6)](#190)
-            - [Section 2 : Participation à des sociétés de garantie (art. L2253-7)](#191)
-      - [LIVRE III : FINANCES COMMUNALES (art. L2311-1 à L2343-2)](#192)
-        - [TITRE Ier : BUDGET ET COMPTES (art. L2311-1 à L2313-2)](#193)
-          - [CHAPITRE Ier : Dispositions générales (art. L2311-1 à L2311-5)](#194)
-          - [CHAPITRE II : Adoption du budget (art. L2312-1 à L2312-4)](#195)
-          - [CHAPITRE III : Publicité des budgets et des comptes (art. L2313-1 à L2313-2)](#196)
-        - [TITRE II : DÉPENSES (art. L2321-1 à L2322-2)](#197)
-          - [CHAPITRE Ier : Dépenses obligatoires (art. L2321-1 à L2321-4)](#198)
-          - [CHAPITRE II : Dépenses imprévues (art. L2322-1 à L2322-2)](#199)
-        - [TITRE III : RECETTES (art. L2331-1 à L2336-3)](#200)
-          - [CHAPITRE Ier : Catégories de recettes (art. L2331-1 à L2331-11)](#201)
-            - [Section 1 : Recettes de la section de fonctionnement (art. L2331-1 à L2331-4)](#202)
-            - [Section 2 : Recettes de la section d'investissement (art. L2331-5 à L2331-10)](#203)
-            - [Section 3 : Répartition et recouvrement de certaines taxes (art. L2331-11)](#204)
-          - [CHAPITRE II : Contributions et taxes prévues par le code général des impôts (art. L2332-1 à L2332-2)](#205)
-          - [CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts (art. L2333-1 à L2333-86)](#206)
-            - [Section 1 : Taxe d'usage des abattoirs publics (art. L2333-1)](#207)
-            - [Section 2 : Taxe communale sur l'électricité (art. L2333-2 à L2333-5)](#208)
-            - [Section 3 : Taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses (art. L2333-6 à L2333-16)](#209)
-              - [Sous-section 1 : Dispositions générales. (art. L2333-6)](#210)
-              - [Sous-section 2 : Assiette de la taxe et exonérations. (art. L2333-7 à L2333-9)](#211)
-              - [Sous-section 3 : Taux de la taxe. (art. L2333-10)](#212)
-              - [Sous-section 4 : Paiement et recouvrement de la taxe. (art. L2333-11 à L2333-12)](#213)
-              - [Sous-section 5 : Sanctions applicables. (art. L2333-13 à L2333-16)](#214)
-            - [Section 4 : Taxe sur les véhicules publicitaires. (art. L2333-17 à L2333-20)](#215)
-            - [Section 5 : Taxe communale sur les emplacements publicitaires fixes. (art. L2333-21 à L2333-25)](#216)
-            - [Section 6 : Taxes particulières aux stations (art. L2333-26 à L2333-57)](#217)
-              - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire (art. L2333-26 à L2333-46)](#218)
-                - [Paragraphe 1 : Dispositions générales. (art. L2333-26 à L2333-28)](#219)
-                - [Paragraphe 2 : Assiette, tarif et exonération de la taxe de séjour. (art. L2333-29 à L2333-36)](#220)
-                - [Paragraphe 3 : Recouvrement de la taxe de séjour et pénalités. (art. L2333-37 à L2333-40)](#221)
-                - [Paragraphe 4 : Assiette et tarif de la taxe de séjour forfaitaire. (art. L2333-41 à L2333-43)](#222)
-                - [Paragraphe 5 : Recouvrement de la taxe de séjour forfaitaire et pénalités. (art. L2333-44 à L2333-46)](#223)
-              - [Sous-section 2 : Taxe communale sur les entreprises spécialement intéressées à la prospérité de la station. (art. L2333-47 à L2333-48)](#224)
-              - [Sous-section 3 : Taxe communale sur les entreprises exploitant des engins de remontées mécaniques. (art. L2333-49 à L2333-53)](#225)
-              - [Sous-section 4 : Prélèvement progressif sur le produit des jeux dans les casinos. (art. L2333-54 à L2333-57)](#226)
-            - [Section 7 : Taxes de trottoirs et de pavage (art. L2333-58 à L2333-63)](#227)
-              - [Sous-section 1 : Taxe de trottoirs. (art. L2333-58 à L2333-61)](#228)
-              - [Sous-section 2 : Taxe de pavage. (art. L2333-62 à L2333-63)](#229)
-            - [Section 8 : Versement destiné aux transports en commun (art. L2333-64 à L2333-75)](#230)
-            - [Section 9 : Redevance  pour  l'enlèvement  des  déchets,  ordures  et résidus, redevance d'enlèvement des ordures ménagères sur les terrains de camping et redevance spéciale (art. L2333-76 à L2333-80)](#231)
-            - [Section 10 : Redevance d'accès aux pistes de ski de fond balisées. (art. L2333-81 à L2333-83)](#232)
-            - [Section 11 : Redevances dues pour le transport et la distribution de l'électricité et de gaz (art. L2333-84 à L2333-86)](#233)
-          - [CHAPITRE IV : Dotations et autres recettes réparties par le comité des finances locales (art. L2334-1 à L2334-39)](#234)
-            - [Section 1 : Dotation globale de fonctionnement (art. L2334-1 à L2334-23)](#235)
-              - [Sous-section 1 : Dispositions générales. (art. L2334-1 à L2334-6)](#236)
-              - [Sous-section 2 : Dotation forfaitaire. (art. L2334-7 à L2334-12)](#237)
-              - [Sous-section 3 : Dotation d'aménagement. (art. L2334-13 à L2334-23)](#238)
-                - [Paragraphe 1 : Dotation de solidarité urbaine. (art. L2334-15 à L2334-19)](#239)
-                - [Paragraphe 2 : Dotation de solidarité rurale. (art. L2334-20 à L2334-23)](#240)
-            - [Section 2 : Répartition du produit des amendes relatives à la circulation routière (art. L2334-24 à L2334-25)](#241)
-            - [Section 3 : Dotation spéciale pour le logement des instituteurs (art. L2334-26 à L2334-31)](#242)
-            - [Section 4 : Dotation globale d'équipement (art. L2334-32 à L2334-39)](#243)
-          - [CHAPITRE V : Dotations, subventions et fonds divers (art. L2335-1 à L2335-14)](#244)
-            - [Section 1 : Dotation particulière relative aux conditions d'exercice des mandats locaux (art. L2335-1)](#245)
-            - [Section 2 : Subventions de fonctionnement sans affectation spéciale (art. L2335-2 à L2335-4)](#246)
-            - [Section 3 : Subventions d'investissement (art. L2335-5 à L2335-8)](#247)
-              - [Sous-section 1 : Régime des subventions accordées par l'Etat. (art. L2335-5)](#248)
-              - [Sous-section 2 : Majorations de subventions accordées aux communes fusionnées. (art. L2335-6 à L2335-8)](#249)
-            - [Section 4 : Fonds national pour le développement des adductions d'eau. (art. L2335-9 à L2335-14)](#250)
-          - [CHAPITRE VI : Avances et emprunts (art. L2336-1 à L2336-3)](#251)
-            - [Section 1 : Avances (art. L2336-1 à L2336-2)](#252)
-            - [Section 2 : Recours à l'emprunt (art. L2336-3)](#253)
-        - [TITRE IV : COMPTABILITÉ (art. L2341-1 à L2343-2)](#254)
-          - [CHAPITRE Ier : Publicité des comptes de la commune (art. L2341-1)](#255)
-          - [CHAPITRE II : Engagement des dépenses (art. L2342-1 à L2342-2)](#256)
-          - [CHAPITRE III : Comptabilité du comptable (art. L2343-1 à L2343-2)](#257)
-      - [LIVRE IV : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. L2411-1 à L2421-20)](#258)
-        - [TITRE Ier : SECTION DE COMMUNE (art. L2411-1 à L2412-1)](#259)
-          - [CHAPITRE Ier : Dispositions générales (art. L2411-1 à LO2411-3-1)](#260)
-          - [CHAPITRE II : Dispositions financières (art. L2412-1)](#261)
-        - [TITRE II : BIENS IMMOBILIERS SOUMIS À UN DROIT DE JOUISSANCE EXCLUSIF (art. L2421-1 à L2421-20)](#262)
-          - [CHAPITRE UNIQUE (art. L2421-1 à L2421-20)](#263)
-      - [LIVRE V : DISPOSITIONS PARTICULIÈRES (art. L2511-1 à L2563-7)](#264)
-        - [TITRE Ier : PARIS, MARSEILLE ET LYON (art. L2511-1 à L2513-5)](#265)
-          - [CHAPITRE Ier : Dispositions communes (art. L2511-1 à L2511-45)](#266)
-            - [Section 1 : Organisation (art. L2511-1 à L2511-35)](#267)
-              - [Sous-section 1 : Le conseil d'arrondissement (art. L2511-3 à L2511-24)](#268)
-              - [Sous-section 2 : Le maire d'arrondissement (art. L2511-25 à L2511-32)](#269)
-              - [Sous-section 3 : Conditions d'exercice des mandats de maires, d'adjoints au maire, de conseillers municipaux et d'arrondissement (art. L2511-33 à L2511-35)](#270)
-            - [Section 2 : Dispositions financières (art. L2511-36 à L2511-45)](#271)
-          - [CHAPITRE II : Dispositions spécifiques à la commune de Paris (art. L2512-1 à L2512-25)](#272)
-            - [Section 1 : Organisation (art. L2512-1 à L2512-12)](#273)
-            - [Section 2 : Attributions (art. L2512-13 à L2512-25)](#274)
-              - [Sous-section 1 : Police. (art. L2512-13 à L2512-16)](#275)
-              - [Sous-section 2 : Secours et défense contre l'incendie. (art. L2512-17 à L2512-19)](#276)
-              - [Sous-section 3 : Dispositions financières. (art. L2512-20 à L2512-25)](#277)
-          - [CHAPITRE III : Dispositions spécifiques aux communes de Marseille et de Lyon (art. L2513-1 à L2513-5)](#278)
-            - [Section 1 : Organisation (art. L2513-1 à L2513-2)](#279)
-            - [Section 2 : Attributions (art. L2513-3)](#280)
-            - [Section 3 : Dispositions financières (art. L2513-4 à L2513-5)](#281)
-        - [TITRE II : COMMUNES DES DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE (art. L2521-1 à L2522-2)](#282)
-          - [CHAPITRE Ier : Attributions (art. L2521-1 à L2521-3)](#283)
-            - [Section 1 : Police (art. L2521-1 à L2521-2)](#284)
-            - [Section 2 : Secours et défense contre l'incendie (art. L2521-3)](#285)
-          - [CHAPITRE II : Dispositions financières (art. L2522-1 à L2522-2)](#286)
-            - [Section 1 : Dotation globale d'équipement (art. L2522-1)](#287)
-            - [Section 2 : Brigade des sapeurs-pompiers de Paris (art. L2522-2)](#288)
-        - [TITRE III : COMMUNES DE LA RÉGION D'ILE-DE-FRANCE (art. L2531-1 à L2531-16)](#289)
-          - [CHAPITRE UNIQUE : Dispositions financières (art. L2531-1 à L2531-16)](#290)
-            - [Section 1 : Versement destiné aux transports en commun (art. L2531-2 à L2531-11)](#291)
-            - [Section 2 : Fonds de solidarité des communes de la région d'Ile-de-France (art. L2531-12 à L2531-16)](#292)
-        - [TITRE IV : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN (art. L2541-1 à L2544-18)](#293)
-          - [CHAPITRE Ier : Organisation (art. L2541-1 à L2541-25)](#294)
-            - [Section 1 : Dispositions générales (art. L2541-1)](#295)
-            - [Section 2 : Le conseil municipal (art. L2541-2 à L2541-18)](#296)
-              - [Sous-section 1 : Fonctionnement. (art. L2541-2 à L2541-8)](#297)
-              - [Sous-section 2 : Les membres du conseil municipal. (art. L2541-9 à L2541-11)](#298)
-              - [Sous-section 3 : Attributions. (art. L2541-12 à L2541-16)](#299)
-              - [Sous-section 4 : Régime des délibérations. (art. L2541-17 à L2541-18)](#300)
-            - [Section 3 : Le maire (art. L2541-19 à L2541-21)](#301)
-            - [Section 4 : Régime juridique des actes pris par les autorités communales et actions contentieuses (art. L2541-22 à L2541-25)](#302)
-          - [CHAPITRE II : Administration et services communaux (art. L2542-1 à L2542-30)](#303)
-            - [Section 1 : Police (art. L2542-1 à L2542-13)](#304)
-            - [Section 2 : Opérations funéraires (art. L2542-14 à L2542-25)](#305)
-            - [Section 3 : Biens de la commune (art. L2542-26 à L2542-27)](#306)
-            - [Section 4 : Interventions en matière économique et sociale (art. L2542-28 à L2542-30)](#307)
-          - [CHAPITRE III : Dispositions financières (art. L2543-1 à L2543-10)](#308)
-            - [Section 1 : Dispositions générales (art. L2543-1)](#309)
-            - [Section 2 : Budget (art. L2543-2)](#310)
-            - [Section 3 : Dépenses (art. L2543-3)](#311)
-            - [Section 4 : Recettes (art. L2543-4 à L2543-7)](#312)
-            - [Section 5 : Comptabilité (art. L2543-8 à L2543-10)](#313)
-          - [CHAPITRE IV : Intérêts propres à certaines catégories d'habitants (art. L2544-1 à L2544-18)](#314)
-            - [Section 1 : Dispositions générales (art. L2544-1)](#315)
-            - [Section 2 : Section de commune possédant un patrimoine séparé (art. L2544-2 à L2544-9)](#316)
-            - [Section 3 : Biens communaux et établissements communaux (art. L2544-10 à L2544-16)](#317)
-            - [Section 4 : Adjudications publiques en matière de biens communaux (art. L2544-17 à L2544-18)](#318)
-        - [TITRE V : COMMUNES DES DEPARTEMENTS DE LA HAUTE-CORSE ET DE LA CORSE-DU-SUD (art. L2551-1)](#319)
-          - [CHAPITRE UNIQUE (art. L2551-1)](#320)
-        - [TITRE VI : COMMUNES DES DÉPARTEMENTS D'OUTRE-MER (art. L2561-1 à L2563-7)](#321)
-          - [CHAPITRE Ier : Organisation (art. L2561-1)](#322)
-          - [CHAPITRE II : Attributions. (art. L2562-1)](#323)
-          - [CHAPITRE III : Dispositions financières (art. L2563-1 à L2563-7)](#324)
-            - [Section 1 : Dispositions applicables aux communes des départements de Guadeloupe, de Guyane, de Martinique et de la Réunion (art. L2563-1 à L2563-7)](#325)
-    - [TROISIEME PARTIE : LE DÉPARTEMENT (art. L3111-1 à L3443-2)](#326)
-      - [LIVRE Ier : ORGANISATION DU DÉPARTEMENT (art. L3111-1 à L3143-1)](#327)
-        - [TITRE Ier : NOM ET TERRITOIRE DU DÉPARTEMENT (art. L3111-1 à L3113-2)](#328)
-          - [CHAPITRE Ier : Nom (art. L3111-1)](#329)
-          - [CHAPITRE II : Limites territoriales et chef-lieu (art. L3112-1 à L3112-2)](#330)
-          - [CHAPITRE III : Subdivisions du département (art. L3113-1 à L3113-2)](#331)
-        - [TITRE II : ORGANES DU DÉPARTEMENT (art. L3121-1 à L3123-28)](#332)
-          - [CHAPITRE Ier : Le conseil général (art. L3121-1 à L3121-26)](#333)
-            - [Section 1 : Dispositions générales (art. L3121-1)](#334)
-            - [Section 2 : Composition (art. L3121-2)](#335)
-            - [Section 3 : Démission et dissolution (art. L3121-3 à L3121-6)](#336)
-            - [Section 4 : Fonctionnement (art. L3121-7 à L3121-26)](#337)
-              - [Sous-section 1 : Siège et règlement intérieur. (art. L3121-7 à L3121-8)](#338)
-              - [Sous-section 2 : Réunion. (art. L3121-9 à L3121-10)](#339)
-              - [Sous-section 3 : Séances. (art. L3121-11 à L3121-13)](#340)
-              - [Sous-section 4 : Délibérations. (art. L3121-14 à L3121-17)](#341)
-              - [Sous-section 5 : Information. (art. L3121-18 à L3121-21)](#342)
-              - [Sous-section 6 : Commissions - Représentation au sein d'organismes extérieurs. (art. L3121-22 à L3121-23)](#343)
-              - [Sous-section 7 : Fonctionnement des groupes d'élus. (art. L3121-24)](#344)
-              - [Sous-section 8 : Relations avec le représentant de l'Etat. (art. L3121-25 à L3121-26)](#345)
-          - [CHAPITRE II : Le président, la commission permanente et le bureau du conseil général (art. L3122-1 à L3122-8)](#346)
-            - [Section 1 : Le président (art. L3122-1 à L3122-3)](#347)
-              - [Sous-section 1 : Désignation. (art. L3122-1)](#348)
-              - [Sous-section 2 : Remplacement. (art. L3122-2)](#349)
-              - [Sous-section 3 : Incompatibilités. (art. L3122-3)](#350)
-            - [Section 2 : La commission permanente (art. L3122-4 à L3122-7)](#351)
-            - [Section 3 : Le bureau (art. L3122-8)](#352)
-          - [CHAPITRE III : Conditions d'exercice des mandats départementaux (art. L3123-1 à L3123-28)](#353)
-            - [Section 1 : Garanties accordées aux titulaires de mandats départementaux (art. L3123-1 à L3123-9)](#354)
-              - [Sous-section 1 : Garanties accordées dans l'exercice du mandat. (art. L3123-1 à L3123-4)](#355)
-              - [Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle. (art. L3123-5 à L3123-9)](#356)
-            - [Section 2 : Droit à la formation (art. L3123-10 à L3123-14)](#357)
-            - [Section 3 : Indemnités des titulaires de mandats départementaux (art. L3123-15 à L3123-19)](#358)
-            - [Section 4 : Protection sociale (art. L3123-20 à L3123-25)](#359)
-              - [Sous-section 1 : Sécurité sociale. (art. L3123-20)](#360)
-              - [Sous-section 2 : Retraite. (art. L3123-21 à L3123-25)](#361)
-            - [Section 5 : Responsabilité du département en cas d'accident (art. L3123-26 à L3123-27)](#362)
-            - [Section 6 : Responsabilité des élus. (art. L3123-28)](#363)
-        - [TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DÉPARTEMENTALES (art. L3131-1 à L3132-4)](#364)
-          - [CHAPITRE Ier : Publicité et entrée en vigueur (art. L3131-1 à L3131-6)](#365)
-          - [CHAPITRE II : Contrôle de légalité (art. L3132-1 à L3132-4)](#366)
-        - [TITRE IV : RELATIONS ENTRE LE DÉPARTEMENT ET LES SERVICES DE L'ÉTAT (art. L3141-1 à L3143-1)](#367)
-          - [CHAPITRE Ier : Services de l'Etat mis à disposition (art. L3141-1)](#368)
-          - [CHAPITRE II : Coordination entre les services de l'Etat et les services du département (art. L3142-1)](#369)
-          - [CHAPITRE III : Responsabilité (art. L3143-1)](#370)
-      - [LIVRE II : ADMINISTRATION ET SERVICES DÉPARTEMENTAUX (art. L3211-1 à L3241-6)](#371)
-        - [TITRE Ier : COMPÉTENCES DU CONSEIL GÉNÉRAL (art. L3211-1 à L3216-1)](#372)
-          - [CHAPITRE Ier : Dispositions générales (art. L3211-1 à L3211-2)](#373)
-          - [CHAPITRE II : Budget, contributions et emprunts (art. L3212-1 à L3212-4)](#374)
-            - [Section 1 : Budget et contributions (art. L3212-1 à L3212-3)](#375)
-            - [Section 2 : Emprunts (art. L3212-4)](#376)
-          - [CHAPITRE III : Gestion du patrimoine (art. L3213-1 à L3213-6)](#377)
-            - [Section 1 : Domaine (art. L3213-1 à L3213-2)](#378)
-            - [Section 2 : Voirie (art. L3213-3 à L3213-4)](#379)
-            - [Section 3 : Transactions (art. L3213-5)](#380)
-            - [Section 4 : Dons et legs (art. L3213-6)](#381)
-          - [CHAPITRE IV : Action sociale (art. L3214-1 à L3214-2)](#382)
-          - [CHAPITRE V : Travaux (art. L3215-1 à L3215-2)](#383)
-          - [CHAPITRE VI : Elections. (art. L3216-1)](#384)
-        - [TITRE II : COMPÉTENCES DU PRÉSIDENT DU CONSEIL GÉNÉRAL (art. L3221-1 à L3221-10)](#385)
-          - [CHAPITRE UNIQUE (art. L3221-1 à L3221-10)](#386)
-        - [TITRE III : INTERVENTIONS ET AIDES DU DÉPARTEMENT (art. L3231-1 à L3233-1)](#387)
-          - [CHAPITRE Ier : Interventions en matière économique et sociale (art. L3231-1 à L3231-8)](#388)
-            - [Section 1 : Aides directes et indirectes. (art. L3231-1 à L3231-3)](#389)
-            - [Section 2 : Garanties d'emprunts (art. L3231-4 à L3231-5)](#390)
-            - [Section 3 : Participation au capital de sociétés (art. L3231-6 à L3231-8)](#391)
-          - [CHAPITRE II : Aides à objet spécifique (art. L3232-1 à L3232-4)](#392)
-            - [Section 1 : Aide à l'équipement rural (art. L3232-1)](#393)
-            - [Section 2 : Adductions d'eau, assainissement et électrification. (art. L3232-2 à L3232-3)](#394)
-            - [Section 3 : Aides aux entreprises de spectacle cinématographique (art. L3232-4)](#395)
-          - [CHAPITRE III : Dispositions diverses (art. L3233-1)](#396)
-        - [TITRE IV : GESTION DES SERVICES PUBLICS (art. L3241-1 à L3241-6)](#397)
-          - [CHAPITRE UNIQUE (art. L3241-1 à L3241-6)](#398)
-      - [LIVRE III : FINANCES DU DÉPARTEMENT (art. L3311-1 à L3342-2)](#399)
-        - [TITRE Ier : BUDGETS ET COMPTES (art. L3311-1 à L3313-1)](#400)
-          - [CHAPITRE Ier : Dispositions générales (art. L3311-1)](#401)
-          - [CHAPITRE II : Adoption du budget et règlement des comptes (art. L3312-1 à L3312-3)](#402)
-          - [CHAPITRE III : Publicité des budgets et des comptes (art. L3313-1)](#403)
-        - [TITRE II : DÉPENSES (art. L3321-1 à L3322-1)](#404)
-          - [CHAPITRE Ier : Dépenses obligatoires (art. L3321-1)](#405)
-          - [CHAPITRE II : Dépenses imprévues (art. L3322-1)](#406)
-        - [TITRE III : RECETTES (art. L3331-1 à L3335-1)](#407)
-          - [CHAPITRE Ier : Dispositions générales. (art. L3331-1)](#408)
-          - [CHAPITRE II : Catégories de recettes (art. L3332-1 à L3332-3)](#409)
-            - [Section 1 : Recettes de la section de fonctionnement (art. L3332-1 à L3332-2)](#410)
-            - [Section 2 : Recettes de la section d'investissement (art. L3332-3)](#411)
-          - [CHAPITRE III : Contributions et taxes autres que celles prévues par le code général des impôts (art. L3333-1 à L3333-7)](#412)
-            - [Section 1 : Taxe additionnelle départementale à la taxe de séjour (art. L3333-1)](#413)
-            - [Section 2 : Taxe départementale sur l'électricité (art. L3333-2 à L3333-3)](#414)
-            - [Section 3 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique (art. L3333-4 à L3333-7)](#415)
-          - [CHAPITRE IV : Concours financiers de l'Etat (art. L3334-1 à L3334-16)](#416)
-            - [Section 1 : Dotation globale de fonctionnement (art. L3334-1 à L3334-9)](#417)
-              - [Sous-section 1 : Dispositions générales. (art. L3334-1 à L3334-2)](#418)
-              - [Sous-section 2 : Dotation forfaitaire. (art. L3334-3)](#419)
-              - [Sous-section 3 : Dotation de péréquation. (art. L3334-4 à L3334-6)](#420)
-              - [Sous-section 4 : Concours particuliers (art. L3334-7 à L3334-7-1)](#421)
-              - [Sous-section 5 : Solidarité financière entre les départements. (art. L3334-8)](#422)
-              - [Sous-section 6 : Garantie d'évolution. (art. L3334-9)](#423)
-            - [Section 2 : Dotation globale d'équipement (art. L3334-10 à L3334-15)](#424)
-            - [Section 3 : Dotation départementale d'équipement des collèges (art. L3334-16)](#425)
-          - [CHAPITRE V : Avances et emprunts (art. L3335-1)](#426)
-        - [TITRE IV : COMPTABILITE (art. L3341-1 à L3342-2)](#427)
-          - [CHAPITRE Ier : Engagement des dépenses (art. L3341-1)](#428)
-          - [CHAPITRE II : Comptable du département (art. L3342-1 à L3342-2)](#429)
-      - [LIVRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINS DÉPARTEMENTS (art. L3411-1 à L3443-2)](#430)
-        - [TITRE Ier : DÉPARTEMENT DE PARIS (art. L3411-1 à L3413-2)](#431)
-          - [CHAPITRE Ier : Dispositions générales (art. L3411-1 à L3411-2)](#432)
-          - [CHAPITRE II : Organisation (art. L3412-1 à L3412-2)](#433)
-          - [CHAPITRE III : Dispositions financières (art. L3413-1 à L3413-2)](#434)
-        - [TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE (art. L3421-1 à L3421-2)](#435)
-          - [CHAPITRE UNIQUE (art. L3421-1 à L3421-2)](#436)
-        - [TITRE III : DÉPARTEMENTS DE LA CORSE-DU-SUD ET DE LA HAUTE-CORSE (art. L3431-1 à L3431-2)](#437)
-          - [CHAPITRE UNIQUE (art. L3431-1 à L3431-2)](#438)
-        - [TITRE IV : DÉPARTEMENTS D'OUTRE-MER (art. L3441-1 à L3443-2)](#439)
-          - [CHAPITRE Ier : Dispositions générales (art. L3441-1)](#440)
-          - [CHAPITRE II : Organisation (art. L3442-1)](#441)
-          - [CHAPITRE III : Dispositions financières (art. L3443-1 à L3443-2)](#442)
-    - [QUATRIÈME PARTIE : LA RÉGION (art. L4111-1 à L4435-1)](#443)
-      - [LIVRE Ier : ORGANISATION DE LA RÉGION (art. L4111-1 à L4152-1)](#444)
-        - [TITRE Ier : CRÉATION (art. L4111-1 à L4111-3)](#445)
-          - [CHAPITRE UNIQUE (art. L4111-1 à L4111-3)](#446)
-        - [TITRE II : NOM ET TERRITOIRE DE LA RÉGION (art. L4121-1 à L4123-1)](#447)
-          - [CHAPITRE Ier : Nom (art. L4121-1)](#448)
-          - [CHAPITRE II : Limites territoriales et chef-lieu (art. L4122-1 à L4122-2)](#449)
-            - [Section 1 : Limites territoriales. (art. L4122-1)](#450)
-            - [Section 2 : Chef-lieu. (art. L4122-2)](#451)
-          - [CHAPITRE III : Regroupement de régions (art. L4123-1)](#452)
-        - [TITRE III : ORGANES DE LA RÉGION (art. L4131-1 à L4135-28)](#453)
-          - [CHAPITRE Ier : Dispositions générales (art. L4131-1 à L4131-3)](#454)
-          - [CHAPITRE II : Le conseil régional (art. L4132-1 à L4132-27)](#455)
-            - [Section 1 : Composition. (art. L4132-1)](#456)
-            - [Section 2 : Démission et dissolution. (art. L4132-2 à L4132-4)](#457)
-            - [Section 3 : Fonctionnement (art. L4132-5 à L4132-27)](#458)
-              - [Sous-section 1 : Siège et règlement intérieur. (art. L4132-5 à L4132-6)](#459)
-              - [Sous-section 2 : Réunions. (art. L4132-7 à L4132-9)](#460)
-              - [Sous-section 3 : Séances. (art. L4132-10 à L4132-12)](#461)
-              - [Sous-section 4 : Délibérations. (art. L4132-13 à L4132-16)](#462)
-              - [Sous-section 5 : Information. (art. L4132-17 à L4132-20)](#463)
-              - [Sous-section 6 : Commissions - Représentation au sein d'organismes extérieurs (art. L4132-21 à L4132-22)](#464)
-              - [Sous-section 7 : Fonctionnement des groupes d'élus. (art. L4132-23)](#465)
-              - [Sous-section 8 : Relations avec le représentant de l'Etat. (art. L4132-24 à L4132-27)](#466)
-          - [CHAPITRE III : LE PRÉSIDENT, LA COMMISSION PERMANENTE ET LE BUREAU DU CONSEIL RÉGIONAL (art. L4133-1 à L4133-8)](#467)
-            - [Section 1 : Le président (art. L4133-1 à L4133-3)](#468)
-              - [Sous-section 1 : Désignation. (art. L4133-1)](#469)
-              - [Sous-section 2 : Remplacement. (art. L4133-2)](#470)
-              - [Sous-section 3 : Incompatibilités. (art. L4133-3)](#471)
-            - [Section 2 : La commission permanente (art. L4133-4 à L4133-7)](#472)
-            - [Section 3 : Le bureau (art. L4133-8)](#473)
-          - [CHAPITRE IV : Le conseil économique et social régional (art. L4134-1 à L4134-7)](#474)
-            - [Section 1 : Dispositions générales. (art. L4134-1)](#475)
-            - [Section 2 : Composition. (art. L4134-2)](#476)
-            - [Section 3 : Fonctionnement (art. L4134-3 à L4134-5)](#477)
-              - [Sous-section 1 : Sections du conseil économique et social régional. (art. L4134-3)](#478)
-              - [Sous-section 2 : Règlement intérieur. (art. L4134-4)](#479)
-              - [Sous-section 3 : Moyens de fonctionnement. (art. L4134-5)](#480)
-            - [Section 4 : Garanties et indemnités accordées aux membres du conseil économique et social régional. (art. L4134-6 à L4134-7)](#481)
-          - [CHAPITRE V : Conditions d'exercice des mandats régionaux (art. L4135-1 à L4135-28)](#482)
-            - [Section 1 : Garanties accordées aux titulaires de mandats régionaux (art. L4135-1 à L4135-9)](#483)
-              - [Sous-section 1 : Garanties accordées dans l'exercice du mandat. (art. L4135-1 à L4135-4)](#484)
-              - [Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle. (art. L4135-5 à L4135-9)](#485)
-            - [Section 2 : Droit à la formation. (art. L4135-10 à L4135-14)](#486)
-            - [Section 3 : Indemnités des titulaires de mandats régionaux. (art. L4135-15 à L4135-19)](#487)
-            - [Section 4 : Protection sociale (art. L4135-20 à L4135-25)](#488)
-              - [Sous-section 1 : Sécurité sociale. (art. L4135-20)](#489)
-              - [Sous-section 2 : Retraite. (art. L4135-21 à L4135-25)](#490)
-            - [Section 5 : Responsabilité de la région en cas d'accident. (art. L4135-26 à L4135-27)](#491)
-            - [Section 6 : Responsabilité des élus. (art. L4135-28)](#492)
-        - [TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS RÉGIONALES (art. L4141-1 à L4142-4)](#493)
-          - [CHAPITRE Ier : Publicité et entrée en vigueur (art. L4141-1 à L4141-6)](#494)
-          - [CHAPITRE II : Contrôle de légalité (art. L4142-1 à L4142-4)](#495)
-        - [TITRE V : RELATIONS ENTRE LA RÉGION ET LES SERVICES DE L'ÉTAT (art. L4151-1 à L4152-1)](#496)
-          - [CHAPITRE Ier : Services de l'Etat mis à disposition (art. L4151-1)](#497)
-          - [CHAPITRE II : Coordination (art. L4152-1)](#498)
-      - [LIVRE II : ATTRIBUTIONS DE LA RÉGION (art. L4211-1 à L4261-1)](#499)
-        - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L4211-1)](#500)
-          - [CHAPITRE UNIQUE (art. L4211-1)](#501)
-        - [TITRE II : COMPÉTENCES DU CONSEIL RÉGIONAL (art. L4221-1 à L4221-5)](#502)
-          - [CHAPITRE UNIQUE : Dispositions générales (art. L4221-1 à L4221-5)](#503)
-        - [TITRE III : COMPÉTENCES DU PRÉSIDENT DU CONSEIL RÉGIONAL (art. L4231-1 à L4231-7)](#504)
-          - [CHAPITRE UNIQUE (art. L4231-1 à L4231-7)](#505)
-        - [TITRE IV : COMPÉTENCES DU CONSEIL ÉCONOMIQUE ET SOCIAL RÉGIONAL (art. L4241-1 à L4241-2)](#506)
-          - [CHAPITRE UNIQUE (art. L4241-1 à L4241-2)](#507)
-        - [TITRE V : ATTRIBUTIONS DE LA RÉGION EN MATIÈRE DE PLANIFICATION ET D'INTERVENTION ÉCONOMIQUE (art. L4251-1 à L4253-4)](#508)
-          - [CHAPITRE Ier : Le plan de la région (art. L4251-1 à L4251-3)](#509)
-          - [CHAPITRE II : Recherche et développement technologique (art. L4252-1 à L4252-3)](#510)
-          - [CHAPITRE III : Interventions en matière économique et sociale (art. L4253-1 à L4253-4)](#511)
-            - [Section 1 : Garanties d'emprunts. (art. L4253-1 à L4253-2)](#512)
-            - [Section 2 : Participation au capital de sociétés. (art. L4253-3 à L4253-4)](#513)
-        - [TITRE VI : GESTION DES SERVICES PUBLICS DE LA RÉGION (art. L4261-1)](#514)
-          - [CHAPITRE UNIQUE (art. L4261-1)](#515)
-      - [LIVRE III : FINANCES DE LA RÉGION (art. L4311-1 à L4341-1)](#516)
-        - [TITRE Ier : BUDGETS ET COMPTES (art. L4311-1 à L4312-1)](#517)
-          - [CHAPITRE Ier : Adoption du budget et règlement des comptes (art. L4311-1 à L4311-4)](#518)
-          - [CHAPITRE II : Publicité des budgets et des comptes (art. L4312-1)](#519)
-        - [TITRE II : DÉPENSES (art. L4321-1 à L4322-1)](#520)
-          - [CHAPITRE Ier : Dépenses obligatoires (art. L4321-1)](#521)
-          - [CHAPITRE II : Dépenses imprévues (art. L4322-1)](#522)
-        - [TITRE III : RECETTES (art. L4331-1 à L4333-1)](#523)
-          - [CHAPITRE Ier : Dispositions générales (art. L4331-1 à L4331-3)](#524)
-          - [CHAPITRE II : Modalités particulières de financement (art. L4332-1 à L4332-10)](#525)
-            - [Section 1 : Fonds régional de l'apprentissage et de la formation professionnelle continue. (art. L4332-1 à L4332-2)](#526)
-            - [Section 2 : Dotation régionale d'équipement scolaire. (art. L4332-3)](#527)
-            - [Section 3 : Fonds de correction des déséquilibres régionaux. (art. L4332-4 à L4332-10)](#528)
-          - [CHAPITRE III : Avances et emprunts (art. L4333-1)](#529)
-        - [TITRE IV : COMPTABILITÉ (art. L4341-1)](#530)
-          - [CHAPITRE UNIQUE  : Engagement des dépenses (art. L4341-1)](#531)
-      - [LIVRE IV : RÉGIONS À STATUT PARTICULIER ET COLLECTIVITÉ TERRITORIALE DE CORSE (art. L4411-1 à L4435-1)](#532)
-        - [TITRE Ier : LA RÉGION D'ILE-DE-FRANCE (art. L4411-1 à L4414-8)](#533)
-          - [CHAPITRE Ier : Dispositions générales (art. L4411-1)](#534)
-          - [CHAPITRE II : Organes (art. L4412-1)](#535)
-          - [CHAPITRE III : Attributions (art. L4413-1 à L4413-3)](#536)
-            - [Section 1 : Equipements collectifs. (art. L4413-1)](#537)
-            - [Section 2 : Espaces verts. (art. L4413-2)](#538)
-            - [Section 3 : Transports. (art. L4413-3)](#539)
-          - [CHAPITRE IV : Dispositions financières (art. L4414-1 à L4414-8)](#540)
-            - [Section 1 : Recettes fiscales. (art. L4414-1 à L4414-2)](#541)
-            - [Section 2 : Autres ressources. (art. L4414-3 à L4414-7)](#542)
-            - [Section 3 : Dispositions diverses. (art. L4414-8)](#543)
-        - [TITRE II : LA COLLECTIVITÉ TERRITORIALE DE CORSE (art. L4421-1 à L4426-1)](#544)
-          - [CHAPITRE Ier : Dispositions générales (art. L4421-1 à L4421-2)](#545)
-          - [CHAPITRE II : Organisation (art. L4422-1 à L4422-31)](#546)
-            - [Section 1 : L'Assemblée de Corse (art. L4422-2 à L4422-13)](#547)
-              - [Sous-section 1 : Composition. (art. L4422-2)](#548)
-              - [Sous-section 2 : Fonctionnement. (art. L4422-3 à L4422-13)](#549)
-            - [Section 2 : Le conseil exécutif et le président du conseil exécutif (art. L4422-14 à L4422-18)](#550)
-              - [Sous-section 1 : Election et composition. (art. L4422-14 à L4422-17)](#551)
-              - [Sous-section 2 : Dispositions relatives aux membres du conseil exécutif. (art. L4422-18)](#552)
-            - [Section 3 : Rapports entre l'Assemblée et le conseil exécutif (art. L4422-19 à L4422-30)](#553)
-            - [Section 4 : Le conseil économique, social et culturel de Corse (art. L4422-23 à L4422-24)](#554)
-            - [Section 5 : Le représentant de l'Etat (art. L4422-25 à L4422-29)](#555)
-            - [Section 6 : Services et biens de l'Etat mis à disposition de la collectivité territoriale de Corse (art. L4422-31)](#556)
-          - [CHAPITRE III : Régime juridique des actes (art. L4423-1)](#557)
-          - [CHAPITRE IV : Attributions (art. L4424-1 à L4424-33)](#558)
-            - [Section 1 : Compétences de l'Assemblée de Corse. (art. L4424-1 à L4424-2)](#559)
-            - [Section 2 : Compétences du conseil exécutif. (art. L4424-3)](#560)
-            - [Section 3 : Compétences du président du conseil exécutif. (art. L4424-4 à L4424-8)](#561)
-            - [Section 4 : Compétences du conseil économique, social et culturel. (art. L4424-9 à L4424-10)](#562)
-            - [Section 5 : Attributions de la collectivité territoriale de Corse en matière d'identité culturelle (art. L4424-11 à L4424-18)](#563)
-              - [Sous-section 1 : Education. (art. L4424-11 à L4424-15)](#564)
-              - [Sous-section 2 : Communication, culture et environnement. (art. L4424-16 à L4424-18)](#565)
-            - [Section 6 : Attributions de la collectivité territoriale de Corse en matière de développement économique (art. L4424-19 à L4424-33)](#566)
-              - [Sous-section 1 : Plan et aides. (art. L4424-19 à L4424-21)](#567)
-              - [Sous-section 2 : Agriculture. (art. L4424-22)](#568)
-              - [Sous-section 3 : Tourisme. (art. L4424-23)](#569)
-              - [Sous-section 4 : Logement. (art. L4424-24)](#570)
-              - [Sous-section 5 : Transports. (art. L4424-25 à L4424-31)](#571)
-              - [Sous-section 6 : Formation professionnelle. (art. L4424-32)](#572)
-              - [Sous-section 7 : Energie. (art. L4424-33)](#573)
-          - [CHAPITRE V : Dispositions financières (art. L4425-1 à L4425-7)](#574)
-          - [CHAPITRE VI : Dispositions d'application (art. L4426-1)](#575)
-        - [TITRE III : LES RÉGIONS D'OUTRE-MER (art. L4431-1 à L4435-1)](#576)
-          - [CHAPITRE Ier : Dispositions générales (art. L4431-1)](#577)
-          - [CHAPITRE II : Organes (art. L4432-1 à L4432-12)](#578)
-            - [Section 1 : Le conseil régional (art. L4432-1 à L4432-8)](#579)
-              - [Sous-section 1 : Composition. (art. L4432-1)](#580)
-              - [Sous-section 2 : Election. (art. L4432-2)](#581)
-              - [Sous-section 3 : Incompatibilités. (art. L4432-4 à L4432-5)](#582)
-              - [Sous-section 4 : Indemnités. (art. L4432-6)](#583)
-              - [Sous-section 5 : Démission. (art. L4432-7 à L4432-8)](#584)
-            - [Section 2 : Le conseil économique et social régional et le conseil de la culture, de l'éducation et de l'environnement (art. L4432-9 à L4432-10)](#585)
-              - [Sous-section 1 : Composition. (art. L4432-9)](#586)
-              - [Sous-section 2 : Fonctionnement. (art. L4432-10)](#587)
-            - [Section 3 : Autres organismes (art. L4432-11 à L4432-12)](#588)
-              - [Sous-section 1 : Le centre régional de promotion de la santé. (art. L4432-11)](#589)
-              - [Sous-section 2 : Le conseil régional de l'habitat. (art. L4432-12)](#590)
-          - [CHAPITRE III : Attributions (art. L4433-1 à L4433-32)](#591)
-            - [Section 1 : Compétences du conseil régional (art. L4433-1 à L4433-4)](#592)
-            - [Section 2 : Compétences du conseil économique et social régional et du conseil de la culture, de l'éducation et de l'environnement (art. L4433-5 à L4433-6)](#593)
-              - [Sous-section 1 : Le conseil économique et social régional. (art. L4433-5)](#594)
-              - [Sous-section 2 : Le conseil de la culture, de l'éducation et de l'environnement. (art. L4433-6)](#595)
-            - [Section 3 : Attributions des régions d'outre-mer en matière de développement économique et d'aménagement du territoire (art. L4433-7 à L4433-24)](#596)
-              - [Sous-section 1 : Schéma d'aménagement régional. (art. L4433-7 à L4433-11)](#597)
-              - [Sous-section 2 : Agriculture et forêt. (art. L4433-12 à L4433-13)](#598)
-              - [Sous-section 3 : Emploi et formation professionnelle. (art. L4433-14)](#599)
-              - [Sous-section 4 : Mise en valeur des ressources de la mer. (art. L4433-15 à L4433-16)](#600)
-              - [Sous-section 5 : Energie, ressources minières et développement industriel. (art. L4433-17 à L4433-19)](#601)
-              - [Sous-section 6 : Transports. (art. L4433-20 à L4433-21)](#602)
-              - [Sous-section 7 : Logement. (art. L4433-22 à L4433-24)](#603)
-            - [Section 4 : Actions culturelles (art. L4433-25 à L4433-32)](#604)
-              - [Sous-section 1 : Education et recherche. (art. L4433-25 à L4433-26)](#605)
-              - [Sous-section 2 : Développement culturel. (art. L4433-27)](#606)
-              - [Sous-section 3 : Communication audiovisuelle. (art. L4433-28 à L4433-30)](#607)
-              - [Sous-section 4 : Environnement et tourisme. (art. L4433-31 à L4433-32)](#608)
-          - [CHAPITRE IV : Dispositions financières et fiscales (art. L4434-1 à L4434-9)](#609)
-          - [CHAPITRE V : Dispositions d'application. (art. L4435-1)](#610)
-    - [CINQUIÈME PARTIE : LA COOPÉRATION LOCALE (art. L5111-1 à L5822-1)](#611)
-      - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L5111-1 à L5111-3)](#612)
-        - [TITRE UNIQUE (art. L5111-1 à L5111-3)](#613)
-          - [CHAPITRE UNIQUE (art. L5111-1 à L5111-3)](#614)
-      - [LIVRE II : LA COOPÉRATION INTERCOMMUNALE (art. L5210-1 à L5223-3)](#615)
-        - [TITRE Ier : ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE (art. L5210-1 à L5216-9)](#616)
-          - [CHAPITRE Ier : Dispositions communes (art. L5211-1 à L5211-58)](#617)
-            - [Section 1 : Règles générales (art. L5211-1 à L5211-4)](#618)
-            - [Section 2 : Création (art. L5211-5)](#619)
-            - [Section 3 : Organes et fonctionnement (art. L5211-6 à L5211-11)](#620)
-              - [Sous-section 1 : Organes (art. L5211-6 à L5211-10)](#621)
-                - [Paragraphe 1 : Organe délibérant. (art. L5211-6 à L5211-8)](#622)
-                - [Paragraphe 2 : Le président. (art. L5211-9)](#623)
-                - [Paragraphe 10 : Le bureau. (art. L5211-10)](#624)
-              - [Sous-section 2 : Fonctionnement. (art. L5211-11)](#625)
-            - [Section 4 : Conditions d'exercice des mandats des membres des conseils ou comités. (art. L5211-12 à L5211-15)](#626)
-            - [Section 5 : Modifications statutaires (art. L5211-16 à L5211-20)](#627)
-              - [Sous-section 1 : Modifications relatives aux compétences. (art. L5211-16 à L5211-17)](#628)
-              - [Sous-section 2 : Modifications relatives au périmètre et à l'organisation. (art. L5211-18 à L5211-20)](#629)
-            - [Section 6 : Dispositions financières (art. L5211-21 à L5211-40)](#630)
-              - [Sous-section 1 : Dispositions communes. (art. L5211-21 à L5211-27-1)](#631)
-              - [Sous-section 2 : Etablissements de coopération intercommunale à fiscalité propre. (art. L5211-28 à L5211-30)](#632)
-              - [Sous-section 2 : Etablissements publics de coopération intercommunale dotés d'une fiscalité propre. (art. L5211-31 à L5211-35)](#633)
-              - [Sous-section 3 : Démocratisation et transparence. (art. L5211-36 à L5211-40)](#634)
-            - [Section 7 : Transformation. (art. L5211-41 à L5211-41-1)](#635)
-            - [Section 8 : Commission départementale de la coopération intercommunale (art. L5211-42 à L5211-45)](#636)
-              - [Sous-section 1 : Composition. (art. L5211-42 à L5211-44)](#637)
-              - [Sous-section 2 : Attributions. (art. L5211-45)](#638)
-            - [Section 9 : Information et participation des habitants. (art. L5211-46 à L5211-54)](#639)
-            - [Section 10 : Dispositions diverses. (art. L5211-56 à L5211-58)](#640)
-          - [CHAPITRE II : Syndicat de communes (art. L5212-1 à L5212-34)](#641)
-            - [Section 1 : Création (art. L5212-1 à L5212-5)](#642)
-            - [Section 2 : Organes (art. L5212-6 à L5212-7)](#643)
-              - [Sous-section 1 : Le comité du syndicat. (art. L5212-6 à L5212-7)](#644)
-            - [Section 3 : Fonctionnement. (art. L5212-15 à L5212-17)](#645)
-            - [Section 4 : Dispositions financières. (art. L5212-18 à L5212-25)](#646)
-            - [Section 5 : Modification des conditions initiales de composition et de fonctionnement (art. L5212-29 à L5212-32)](#647)
-              - [Sous-section 3 : Retrait de communes. (art. L5212-29 à L5212-30)](#648)
-              - [Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale. (art. L5212-32)](#649)
-            - [Section 6 : Dissolution (art. L5212-33 à L5212-34)](#650)
-          - [CHAPITRE IV : Communauté de communes (art. L5214-1 à L5214-29)](#651)
-            - [Section 1 : Création (art. L5214-1 à L5214-4)](#652)
-            - [Section 2 : Organes (art. L5214-7 à L5214-10-1)](#653)
-              - [Sous-section 1 : Le conseil de la communauté de communes. (art. L5214-7 à L5214-10-1)](#654)
-            - [Section 4 : Compétences. (art. L5214-16 à L5214-22)](#655)
-            - [Section 5 : Dispositions financières. (art. L5214-23 à L5214-23-2)](#656)
-            - [Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes (art. L5214-26 à L5214-27)](#657)
-              - [Sous-section 3 : Retrait de communes. (art. L5214-26)](#658)
-              - [Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale. (art. L5214-27)](#659)
-            - [Section 7 : Dissolution. (art. L5214-28 à L5214-29)](#660)
-          - [CHAPITRE V : Communauté urbaine (art. L5215-1 à L5215-42)](#661)
-            - [Section 1 : Création. (art. L5215-1 à L5215-4)](#662)
-            - [Section 2 : Organes (art. L5215-6 à L5215-18)](#663)
-              - [Sous-section 1 : Le conseil de communauté. (art. L5215-6 à L5215-10)](#664)
-              - [Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté. (art. L5215-16 à L5215-18)](#665)
-            - [Section 3 : Compétences (art. L5215-19 à L5215-31)](#666)
-              - [Sous-section 1 : Dispositions générales. (art. L5215-19)](#667)
-              - [Sous-section 2 : Compétences obligatoires. (art. L5215-20 à L5215-20-1)](#668)
-              - [Sous-section 3 : Transferts de compétences. (art. L5215-21 à L5215-24)](#669)
-              - [Sous-section 4 : Modalités particulières d'intervention. (art. L5215-26 à L5215-27)](#670)
-              - [Sous-section 5 : Transferts de biens, droits et obligations. (art. L5215-28 à L5215-31)](#671)
-            - [Section 4 : Dispositions financières. (art. L5215-32 à L5215-39)](#672)
-            - [Section 5 : Modifications (art. L5215-40)](#673)
-              - [Sous-section 1 : Admission de nouvelles communes. (art. L5215-40)](#674)
-            - [Section 3 : Modifications (art. L5215-40-1)](#675)
-              - [Sous-section 2 : Admission de nouvelles communes (art. L5215-40-1)](#676)
-            - [Section 6 : Dissolution et transformation. (art. L5215-42)](#677)
-          - [CHAPITRE VI : Communauté d'agglomération (art. L5216-10 à L5216-9)](#678)
-            - [Section 1 : Création. (art. L5216-1 à L5216-2)](#679)
-            - [Section 2 : Le conseil de la communauté d'agglomération (art. L5216-3)](#680)
-            - [Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération (art. L5216-4 à L5216-4-2)](#681)
-            - [Section 4 : Compétences (art. L5216-5 à L5216-7)](#682)
-            - [Section 5 : Dispositions financières (art. L5216-8)](#683)
-            - [Section 6 : Dissolution. (art. L5216-9)](#684)
-        - [TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE (art. L5221-1 à L5223-3)](#685)
-          - [CHAPITRE Ier : Entente, convention et conférence intercommunales (art. L5221-1 à L5221-2)](#686)
-          - [CHAPITRE II : Biens et droits indivis entre plusieurs communes (art. L5222-1 à L5222-6)](#687)
-            - [Section 1 : Gestion des biens et droits indivis. (art. L5222-1 à L5222-3)](#688)
-            - [Section 2 : Fin de l'indivision. (art. L5222-4 à L5222-6)](#689)
-          - [CHAPITRE III : Charte intercommunale de développement et d'aménagement (art. L5223-1 à L5223-3)](#690)
-      - [LIVRE III : AGGLOMÉRATION NOUVELLE (art. L5311-1 à L5351-1)](#691)
-        - [TITRE Ier : CRÉATION (art. L5311-1 à L5311-3)](#692)
-          - [CHAPITRE UNIQUE (art. L5311-1 à L5311-3)](#693)
-        - [TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES (art. L5321-1 à L5321-5)](#694)
-          - [CHAPITRE UNIQUE (art. L5321-1 à L5321-5)](#695)
-        - [TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE (art. L5331-1 à L5334-21)](#696)
-          - [CHAPITRE Ier : Communauté d'agglomération nouvelle (art. L5331-1 à L5331-3)](#697)
-          - [CHAPITRE II : Syndicat d'agglomération nouvelle (art. L5332-1 à L5332-5)](#698)
-            - [Section 1 : Composition du comité du syndicat d'agglomération nouvelle. (art. L5332-1 à L5332-2)](#699)
-            - [Section 2 : Admission de nouvelles communes au syndicat d'agglomération nouvelle et retrait. (art. L5332-3 à L5332-5)](#700)
-          - [CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle (art. L5333-1 à L5333-9)](#701)
-          - [CHAPITRE IV : Dispositions financières (art. L5334-1 à L5334-21)](#702)
-            - [Section 1 : Dispositions générales. (art. L5334-1 à L5334-20)](#703)
-            - [Section 2 : Fin du régime particulier applicable aux agglomérations nouvelles. (art. L5334-21)](#704)
-        - [TITRE IV : FIN DU RÉGIME APPLICABLE AUX AGGLOMÉRATIONS NOUVELLES (art. L5341-1 à L5341-3)](#705)
-          - [CHAPITRE UNIQUE (art. L5341-1 à L5341-3)](#706)
-        - [TITRE V : DISPOSITIONS D'APPLICATION (art. L5351-1)](#707)
-          - [CHAPITRE UNIQUE (art. L5351-1)](#708)
-      - [LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE (art. L5411-1 à L5421-6)](#709)
-        - [TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES (art. L5411-1 à L5411-2)](#710)
-          - [CHAPITRE UNIQUE (art. L5411-1 à L5411-2)](#711)
-        - [TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX (art. L5421-1 à L5421-6)](#712)
-          - [CHAPITRE UNIQUE (art. L5421-1 à L5421-6)](#713)
-      - [LIVRE V : AGENCE DÉPARTEMENTALE (art. L5511-1)](#714)
-        - [TITRE UNIQUE (art. L5511-1)](#715)
-          - [CHAPITRE UNIQUE (art. L5511-1)](#716)
-      - [LIVRE VI : COOPÉRATION INTERRÉGIONALE (art. L5611-1 à L5622-4)](#717)
-        - [TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES (art. L5611-1)](#718)
-          - [CHAPITRE UNIQUE (art. L5611-1)](#719)
-        - [TITRE II : ENTENTE INTERRÉGIONALE (art. L5621-1 à L5622-4)](#720)
-          - [CHAPITRE Ier : Organisation et fonctionnement (art. L5621-1 à L5621-9)](#721)
-          - [CHAPITRE II : Dispositions financières (art. L5622-1 à L5622-4)](#722)
-      - [LIVRE VII : SYNDICAT MIXTE (art. L5711-1 à L5722-6)](#723)
-        - [TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE (art. L5711-1)](#724)
-          - [CHAPITRE unique. (art. L5711-1)](#725)
-        - [TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC (art. L5721-1 à L5722-6)](#726)
-          - [CHAPITRE Ier : Organisation et fonctionnement (art. L5721-1 à L5721-7)](#727)
-          - [CHAPITRE II : Dispositions financières (art. L5722-1 à L5722-6)](#728)
-      - [LIVRE VIII : DISPOSITIONS PARTICULIÈRES (art. L5811-1 à L5822-1)](#729)
-        - [TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN (art. L5811-1 à L5816-9)](#730)
-          - [CHAPITRE Ier : Syndicat de communes. (art. L5811-1)](#731)
-          - [CHAPITRE II : Communauté de communes. (art. L5812-1)](#732)
-          - [CHAPITRE III : Communauté urbaine. (art. L5813-1 à L5813-2)](#733)
-          - [CHAPITRE IV : Communauté de villes. (art. L5814-1)](#734)
-          - [CHAPITRE V : Entente, convention et conférence intercommunales. (art. L5815-1 à L5815-2)](#735)
-          - [CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes. (art. L5816-1 à L5816-9)](#736)
-        - [TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION (art. L5821-1 à L5822-1)](#737)
-          - [CHAPITRE Ier : Communauté urbaine. (art. L5821-1)](#738)
-          - [CHAPITRE II : Charte intercommunale de développement et d'aménagement. (art. L5822-1)](#739)
+        - [TITRE II : INDEMNITES DE FONCTION DES ELUS LOCAUX (art. L1621-1)](#83)
+          - [CHAPITRE UNIQUE (art. L1621-1)](#84)
+    - [DEUXIÈME PARTIE : LA COMMUNE (art. L2111-1 à L2563-7)](#85)
+      - [LIVRE Ier : ORGANISATION DE LA COMMUNE (art. L2111-1 à L2143-4)](#86)
+        - [TITRE Ier : NOM ET TERRITOIRE DE LA COMMUNE (art. L2111-1 à L2114-3)](#87)
+          - [CHAPITRE Ier : Nom. (art. L2111-1)](#88)
+          - [CHAPITRE II : Limites territoriales et chef-lieu (art. L2112-1 à L2112-13)](#89)
+            - [Section 1 : Délimitation (art. L2112-1)](#90)
+            - [Section 2 : Modifications (art. L2112-2 à L2112-13)](#91)
+          - [CHAPITRE III : Fusion de communes (art. L2113-1 à L2113-26)](#92)
+            - [Section 1 : Dispositions communes (art. L2113-1 à L2113-8)](#93)
+            - [Section 2 : Fusions simples (art. L2113-9 à L2113-10)](#94)
+            - [Section 3 : Fusions comportant la création d'une ou plusieurs communes associées (art. L2113-11 à L2113-26)](#95)
+              - [Sous-section 1 : Dispositions communes (art. L2113-11 à L2113-16)](#96)
+              - [Sous-section 2 : Dispositions relatives aux communes issues d'une fusion comptant plus de 100 000 habitants (art. L2113-17 à L2113-20)](#97)
+              - [Sous-section 3 : Dispositions relatives aux communes issues d'une fusion comptant 100 000 habitants ou moins (art. L2113-21 à L2113-26)](#98)
+          - [CHAPITRE IV : Suppression de communes (art. L2114-1 à L2114-3)](#99)
+        - [TITRE II : ORGANES DE LA COMMUNE (art. L2121-1 à L2124-7)](#100)
+          - [CHAPITRE Ier : Le conseil municipal (art. L2121-1 à L2121-39)](#101)
+            - [Section 1 : Composition (art. L2121-1 à L2121-3)](#102)
+            - [Section 2 : Démissions (art. L2121-4 à L2121-5)](#103)
+            - [Section 3 : Dissolution (art. L2121-6)](#104)
+            - [Section 4 : Fonctionnement (art. L2121-7 à L2121-28)](#105)
+            - [Section 5 : Attributions (art. L2121-29 à L2121-34)](#106)
+            - [Section 6 : Délégation spéciale (art. L2121-35 à L2121-39)](#107)
+          - [CHAPITRE II : Le maire et les adjoints (art. L2122-1 à L2122-35)](#108)
+            - [Section 1 : Dispositions générales (art. L2122-1 à LO2122-4-1)](#109)
+            - [Section 2 : Désignation (art. L2122-7 à L2122-17)](#110)
+            - [Section 3 : Attributions (art. L2122-18 à L2122-34)](#111)
+              - [Sous-section 1 : Conditions générales d'exercice. (art. L2122-18 à L2122-20)](#112)
+              - [Sous-section 2 : Attributions exercées au nom de la commune. (art. L2122-21 à L2122-26)](#113)
+              - [Sous-section 3 : Attributions exercées au nom de l'Etat. (art. L2122-27 à L2122-34)](#114)
+            - [Section 4 : Honorariat des maires, maires délégués et adjoints (art. L2122-35)](#115)
+          - [CHAPITRE III : Conditions d'exercice des mandats municipaux (art. L2123-1 à L2123-34)](#116)
+            - [Section 1 : Garanties accordées aux titulaires de mandats municipaux (art. L2123-1 à L2123-11)](#117)
+              - [Sous-section 1 : Garanties accordées dans l'exercice du mandat (art. L2123-1 à L2123-6)](#118)
+              - [Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle (art. L2123-7 à L2123-11)](#119)
+            - [Section 2 : Droit à la formation (art. L2123-12 à L2123-16)](#120)
+            - [Section 3 : Indemnités des titulaires de mandats municipaux (art. L2123-17 à L2123-24)](#121)
+              - [Sous-section 1 : Dispositions générales. (art. L2123-17)](#122)
+              - [Sous-section 2 : Frais de mission et de représentation. (art. L2123-18 à L2123-19)](#123)
+              - [Sous-section 3 : Indemnités de fonction. (art. L2123-20 à L2123-24)](#124)
+            - [Section 4 : Protection sociale (art. L2123-25 à L2123-30)](#125)
+              - [Sous-section 1 : Sécurité sociale. (art. L2123-25)](#126)
+              - [Sous-section 2 : Retraite. (art. L2123-26 à L2123-30)](#127)
+            - [Section 5 : Responsabilité des communes en cas d'accident (art. L2123-31 à L2123-33)](#128)
+            - [Section 6 : Responsabilité des élus. (art. L2123-34)](#129)
+          - [CHAPITRE IV : Dispositions applicables en période de mobilisation générale et en temps de guerre (art. L2124-1 à L2124-7)](#130)
+        - [TITRE III : ACTES DES AUTORITÉS COMMUNALES ET ACTIONS CONTENTIEUSES (art. L2131-1 à L2132-7)](#131)
+          - [CHAPITRE Ier : Régime juridique des actes pris par les autorités communales (art. L2131-1 à L2131-13)](#132)
+          - [CHAPITRE II : Actions contentieuses de la commune (art. L2132-1 à L2132-7)](#133)
+            - [Section 1 : Dispositions générales (art. L2132-1 à L2132-4)](#134)
+            - [Section 2 : Exercice par un contribuable des actions appartenant à la commune (art. L2132-5 à L2132-7)](#135)
+        - [TITRE IV : INFORMATION ET PARTICIPATION DES HABITANTS (art. L2141-1 à L2143-4)](#136)
+          - [CHAPITRE Ier : Dispositions générales (art. L2141-1)](#137)
+          - [CHAPITRE II : Participation des habitants à la vie locale. (art. L2142-1 à L2142-8)](#138)
+          - [CHAPITRE III : Dispositions diverses. (art. L2143-1 à L2143-4)](#139)
+      - [LIVRE II : ADMINISTRATION ET SERVICES COMMUNAUX (art. L2211-1 à L2253-7)](#140)
+        - [TITRE Ier : POLICE (art. L2211-1 à L2216-3)](#141)
+          - [CHAPITRE Ier : Dispositions générales (art. L2211-1)](#142)
+          - [CHAPITRE II : Police municipale (art. L2212-1 à L2212-9)](#143)
+          - [CHAPITRE III : Pouvoirs de police portant sur des objets particuliers (art. L2213-1 à L2213-31)](#144)
+            - [Section 1 : Police de la circulation et du stationnement (art. L2213-1 à L2213-6)](#145)
+            - [Section 2 : Police des funérailles et des lieux de sépulture (art. L2213-7 à L2213-15)](#146)
+            - [Section 3 : Police dans les campagnes (art. L2213-16 à L2213-21)](#147)
+            - [Section 4 : Autres polices (art. L2213-22 à L2213-31)](#148)
+          - [CHAPITRE IV : Dispositions applicables dans les communes où la police est étatisée (art. L2214-1 à L2214-4)](#149)
+          - [CHAPITRE V : Pouvoirs du représentant de l'Etat dans le département (art. L2215-1 à L2215-5)](#150)
+          - [CHAPITRE VI : Responsabilité (art. L2216-1 à L2216-3)](#151)
+        - [TITRE II : SERVICES COMMUNAUX (art. L2221-1 à L2224-34)](#152)
+          - [CHAPITRE Ier : Régies municipales (art. L2221-1 à L2221-20)](#153)
+            - [Section 1 : Dispositions générales (art. L2221-1 à L2221-9)](#154)
+            - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. L2221-10)](#155)
+            - [Section 3 : Régies dotées de la seule autonomie financière (art. L2221-11 à L2221-14)](#156)
+            - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. L2221-15 à L2221-20)](#157)
+          - [CHAPITRE II : Concessions et affermages (art. L2222-1 à L2222-2)](#158)
+          - [CHAPITRE III : Cimetières et opérations funéraires (art. L2223-1 à L2223-46)](#159)
+            - [Section 1 : Cimetières (art. L2223-1 à L2223-18)](#160)
+              - [Sous-section 1 : Dispositions générales (art. L2223-1 à L2223-12)](#161)
+              - [Sous-section 2 : Concessions (art. L2223-13 à L2223-18)](#162)
+            - [Section 2 : Opérations funéraires (art. L2223-19 à L2223-46)](#163)
+              - [Sous-section 1 : Service des pompes funèbres (art. L2223-19 à L2223-30)](#164)
+              - [Sous-section 2 : Réglementation de l'activité des opérateurs participant au service extérieur des pompes funèbres (art. L2223-31 à L2223-34)](#165)
+              - [Sous-section 3 : Sanctions pénales (art. L2223-35 à L2223-37)](#166)
+              - [Sous-section 4 : Equipements funéraires (art. L2223-38 à L2223-43)](#167)
+              - [Sous-section 5 : Dispositions diverses et transitoires (art. L2223-44 à L2223-46)](#168)
+          - [CHAPITRE IV : Services publics industriels et commerciaux (art. L2224-1 à L2224-34)](#169)
+            - [Section 1 : Dispositions générales (art. L2224-1 à L2224-6)](#170)
+            - [Section 2 : Assainissement. (art. L2224-7 à L2224-12)](#171)
+            - [Section 3 : Ordures ménagères et autres déchets (art. L2224-13 à L2224-17)](#172)
+            - [Section 4 : Halles, marchés et poids publics (art. L2224-18 à L2224-29)](#173)
+            - [Section 5 : Abattoirs. (art. L2224-30)](#174)
+            - [Section 6 : Distribution et production d'électricité. (art. L2224-31 à L2224-34)](#175)
+        - [TITRE III : STATIONS CLASSÉES (art. L2231-1 à L2231-18)](#176)
+          - [CHAPITRE unique (art. L2231-1 à L2231-18)](#177)
+            - [Section 1 : Définitions. (art. L2231-1 à L2231-4)](#178)
+            - [Section 2 : Dispositions communes aux stations classées (art. L2231-5 à L2231-16)](#179)
+              - [Sous-section 1 : Classement. (art. L2231-5 à L2231-8)](#180)
+              - [Sous-section 2 : Office du tourisme. (art. L2231-9 à L2231-16)](#181)
+            - [Section 3 : Dispositions particulières aux stations de tourisme. (art. L2231-17)](#182)
+            - [Section 4 : Dispositions générales. (art. L2231-18)](#183)
+        - [TITRE IV : BIENS DE LA COMMUNE (art. L2241-1 à L2243-4)](#184)
+          - [CHAPITRE Ier : Dispositions générales (art. L2241-1 à L2241-7)](#185)
+          - [CHAPITRE II : Dons et legs (art. L2242-1 à L2242-5)](#186)
+          - [CHAPITRE III : Déclaration de parcelle en état d'abandon (art. L2243-1 à L2243-4)](#187)
+        - [TITRE V : INTERVENTIONS EN MATIÈRE ÉCONOMIQUE ET SOCIALE (art. L2251-1 à L2253-7)](#188)
+          - [CHAPITRE Ier : Aides directes et indirectes. (art. L2251-1 à L2251-4)](#189)
+          - [CHAPITRE II : Garanties d'emprunts (art. L2252-1 à L2252-4)](#190)
+          - [CHAPITRE III : Participation au capital de sociétés (art. L2253-1 à L2253-7)](#191)
+            - [Section 1 : Dispositions générales (art. L2253-1 à L2253-6)](#192)
+            - [Section 2 : Participation à des sociétés de garantie (art. L2253-7)](#193)
+      - [LIVRE III : FINANCES COMMUNALES (art. L2311-1 à L2343-2)](#194)
+        - [TITRE Ier : BUDGET ET COMPTES (art. L2311-1 à L2313-2)](#195)
+          - [CHAPITRE Ier : Dispositions générales (art. L2311-1 à L2311-5)](#196)
+          - [CHAPITRE II : Adoption du budget (art. L2312-1 à L2312-4)](#197)
+          - [CHAPITRE III : Publicité des budgets et des comptes (art. L2313-1 à L2313-2)](#198)
+        - [TITRE II : DÉPENSES (art. L2321-1 à L2322-2)](#199)
+          - [CHAPITRE Ier : Dépenses obligatoires (art. L2321-1 à L2321-4)](#200)
+          - [CHAPITRE II : Dépenses imprévues (art. L2322-1 à L2322-2)](#201)
+        - [TITRE III : RECETTES (art. L2331-1 à L2336-3)](#202)
+          - [CHAPITRE Ier : Catégories de recettes (art. L2331-1 à L2331-11)](#203)
+            - [Section 1 : Recettes de la section de fonctionnement (art. L2331-1 à L2331-4)](#204)
+            - [Section 2 : Recettes de la section d'investissement (art. L2331-5 à L2331-10)](#205)
+            - [Section 3 : Répartition et recouvrement de certaines taxes (art. L2331-11)](#206)
+          - [CHAPITRE II : Contributions et taxes prévues par le code général des impôts (art. L2332-1 à L2332-2)](#207)
+          - [CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts (art. L2333-1 à L2333-86)](#208)
+            - [Section 1 : Taxe d'usage des abattoirs publics (art. L2333-1)](#209)
+            - [Section 2 : Taxe communale sur l'électricité (art. L2333-2 à L2333-5)](#210)
+            - [Section 3 : Taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses (art. L2333-6 à L2333-16)](#211)
+              - [Sous-section 1 : Dispositions générales. (art. L2333-6)](#212)
+              - [Sous-section 2 : Assiette de la taxe et exonérations. (art. L2333-7 à L2333-9)](#213)
+              - [Sous-section 3 : Taux de la taxe. (art. L2333-10)](#214)
+              - [Sous-section 4 : Paiement et recouvrement de la taxe. (art. L2333-11 à L2333-12)](#215)
+              - [Sous-section 5 : Sanctions applicables. (art. L2333-13 à L2333-16)](#216)
+            - [Section 4 : Taxe sur les véhicules publicitaires. (art. L2333-17 à L2333-20)](#217)
+            - [Section 5 : Taxe communale sur les emplacements publicitaires fixes. (art. L2333-21 à L2333-25)](#218)
+            - [Section 6 : Taxes particulières aux stations (art. L2333-26 à L2333-57)](#219)
+              - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire (art. L2333-26 à L2333-46)](#220)
+                - [Paragraphe 1 : Dispositions générales. (art. L2333-26 à L2333-28)](#221)
+                - [Paragraphe 2 : Assiette, tarif et exonération de la taxe de séjour. (art. L2333-29 à L2333-36)](#222)
+                - [Paragraphe 3 : Recouvrement de la taxe de séjour et pénalités. (art. L2333-37 à L2333-40)](#223)
+                - [Paragraphe 4 : Assiette et tarif de la taxe de séjour forfaitaire. (art. L2333-41 à L2333-43)](#224)
+                - [Paragraphe 5 : Recouvrement de la taxe de séjour forfaitaire et pénalités. (art. L2333-44 à L2333-46)](#225)
+              - [Sous-section 2 : Taxe communale sur les entreprises spécialement intéressées à la prospérité de la station. (art. L2333-47 à L2333-48)](#226)
+              - [Sous-section 3 : Taxe communale sur les entreprises exploitant des engins de remontées mécaniques. (art. L2333-49 à L2333-53)](#227)
+              - [Sous-section 4 : Prélèvement progressif sur le produit des jeux dans les casinos. (art. L2333-54 à L2333-57)](#228)
+            - [Section 7 : Taxes de trottoirs et de pavage (art. L2333-58 à L2333-63)](#229)
+              - [Sous-section 1 : Taxe de trottoirs. (art. L2333-58 à L2333-61)](#230)
+              - [Sous-section 2 : Taxe de pavage. (art. L2333-62 à L2333-63)](#231)
+            - [Section 8 : Versement destiné aux transports en commun (art. L2333-64 à L2333-75)](#232)
+            - [Section 9 : Redevance  pour  l'enlèvement  des  déchets,  ordures  et résidus, redevance d'enlèvement des ordures ménagères sur les terrains de camping et redevance spéciale (art. L2333-76 à L2333-80)](#233)
+            - [Section 10 : Redevance d'accès aux pistes de ski de fond balisées. (art. L2333-81 à L2333-83)](#234)
+            - [Section 11 : Redevances dues pour le transport et la distribution de l'électricité et de gaz (art. L2333-84 à L2333-86)](#235)
+          - [CHAPITRE IV : Dotations et autres recettes réparties par le comité des finances locales (art. L2334-1 à L2334-39)](#236)
+            - [Section 1 : Dotation globale de fonctionnement (art. L2334-1 à L2334-23)](#237)
+              - [Sous-section 1 : Dispositions générales. (art. L2334-1 à L2334-6)](#238)
+              - [Sous-section 2 : Dotation forfaitaire. (art. L2334-7 à L2334-12)](#239)
+              - [Sous-section 3 : Dotation d'aménagement. (art. L2334-13 à L2334-23)](#240)
+                - [Paragraphe 1 : Dotation de solidarité urbaine. (art. L2334-15 à L2334-19)](#241)
+                - [Paragraphe 2 : Dotation de solidarité rurale. (art. L2334-20 à L2334-23)](#242)
+            - [Section 2 : Répartition du produit des amendes relatives à la circulation routière (art. L2334-24 à L2334-25)](#243)
+            - [Section 3 : Dotation spéciale pour le logement des instituteurs (art. L2334-26 à L2334-31)](#244)
+            - [Section 4 : Dotation globale d'équipement (art. L2334-32 à L2334-39)](#245)
+          - [CHAPITRE V : Dotations, subventions et fonds divers (art. L2335-1 à L2335-14)](#246)
+            - [Section 1 : Dotation particulière relative aux conditions d'exercice des mandats locaux (art. L2335-1)](#247)
+            - [Section 2 : Subventions de fonctionnement sans affectation spéciale (art. L2335-2 à L2335-4)](#248)
+            - [Section 3 : Subventions d'investissement (art. L2335-5 à L2335-8)](#249)
+              - [Sous-section 1 : Régime des subventions accordées par l'Etat. (art. L2335-5)](#250)
+              - [Sous-section 2 : Majorations de subventions accordées aux communes fusionnées. (art. L2335-6 à L2335-8)](#251)
+            - [Section 4 : Fonds national pour le développement des adductions d'eau. (art. L2335-9 à L2335-14)](#252)
+          - [CHAPITRE VI : Avances et emprunts (art. L2336-1 à L2336-3)](#253)
+            - [Section 1 : Avances (art. L2336-1 à L2336-2)](#254)
+            - [Section 2 : Recours à l'emprunt (art. L2336-3)](#255)
+        - [TITRE IV : COMPTABILITÉ (art. L2341-1 à L2343-2)](#256)
+          - [CHAPITRE Ier : Publicité des comptes de la commune (art. L2341-1)](#257)
+          - [CHAPITRE II : Engagement des dépenses (art. L2342-1 à L2342-2)](#258)
+          - [CHAPITRE III : Comptabilité du comptable (art. L2343-1 à L2343-2)](#259)
+      - [LIVRE IV : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. L2411-1 à L2421-20)](#260)
+        - [TITRE Ier : SECTION DE COMMUNE (art. L2411-1 à L2412-1)](#261)
+          - [CHAPITRE Ier : Dispositions générales (art. L2411-1 à LO2411-3-1)](#262)
+          - [CHAPITRE II : Dispositions financières (art. L2412-1)](#263)
+        - [TITRE II : BIENS IMMOBILIERS SOUMIS À UN DROIT DE JOUISSANCE EXCLUSIF (art. L2421-1 à L2421-20)](#264)
+          - [CHAPITRE UNIQUE (art. L2421-1 à L2421-20)](#265)
+      - [LIVRE V : DISPOSITIONS PARTICULIÈRES (art. L2511-1 à L2563-7)](#266)
+        - [TITRE Ier : PARIS, MARSEILLE ET LYON (art. L2511-1 à L2513-5)](#267)
+          - [CHAPITRE Ier : Dispositions communes (art. L2511-1 à L2511-45)](#268)
+            - [Section 1 : Organisation (art. L2511-1 à L2511-35)](#269)
+              - [Sous-section 1 : Le conseil d'arrondissement (art. L2511-3 à L2511-24)](#270)
+              - [Sous-section 2 : Le maire d'arrondissement (art. L2511-25 à L2511-32)](#271)
+              - [Sous-section 3 : Conditions d'exercice des mandats de maires, d'adjoints au maire, de conseillers municipaux et d'arrondissement (art. L2511-33 à L2511-35)](#272)
+            - [Section 2 : Dispositions financières (art. L2511-36 à L2511-45)](#273)
+          - [CHAPITRE II : Dispositions spécifiques à la commune de Paris (art. L2512-1 à L2512-25)](#274)
+            - [Section 1 : Organisation (art. L2512-1 à L2512-12)](#275)
+            - [Section 2 : Attributions (art. L2512-13 à L2512-25)](#276)
+              - [Sous-section 1 : Police. (art. L2512-13 à L2512-16)](#277)
+              - [Sous-section 2 : Secours et défense contre l'incendie. (art. L2512-17 à L2512-19)](#278)
+              - [Sous-section 3 : Dispositions financières. (art. L2512-20 à L2512-25)](#279)
+          - [CHAPITRE III : Dispositions spécifiques aux communes de Marseille et de Lyon (art. L2513-1 à L2513-5)](#280)
+            - [Section 1 : Organisation (art. L2513-1 à L2513-2)](#281)
+            - [Section 2 : Attributions (art. L2513-3)](#282)
+            - [Section 3 : Dispositions financières (art. L2513-4 à L2513-5)](#283)
+        - [TITRE II : COMMUNES DES DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE (art. L2521-1 à L2522-2)](#284)
+          - [CHAPITRE Ier : Attributions (art. L2521-1 à L2521-3)](#285)
+            - [Section 1 : Police (art. L2521-1 à L2521-2)](#286)
+            - [Section 2 : Secours et défense contre l'incendie (art. L2521-3)](#287)
+          - [CHAPITRE II : Dispositions financières (art. L2522-1 à L2522-2)](#288)
+            - [Section 1 : Dotation globale d'équipement (art. L2522-1)](#289)
+            - [Section 2 : Brigade des sapeurs-pompiers de Paris (art. L2522-2)](#290)
+        - [TITRE III : COMMUNES DE LA RÉGION D'ILE-DE-FRANCE (art. L2531-1 à L2531-16)](#291)
+          - [CHAPITRE UNIQUE : Dispositions financières (art. L2531-1 à L2531-16)](#292)
+            - [Section 1 : Versement destiné aux transports en commun (art. L2531-2 à L2531-11)](#293)
+            - [Section 2 : Fonds de solidarité des communes de la région d'Ile-de-France (art. L2531-12 à L2531-16)](#294)
+        - [TITRE IV : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN (art. L2541-1 à L2544-18)](#295)
+          - [CHAPITRE Ier : Organisation (art. L2541-1 à L2541-25)](#296)
+            - [Section 1 : Dispositions générales (art. L2541-1)](#297)
+            - [Section 2 : Le conseil municipal (art. L2541-2 à L2541-18)](#298)
+              - [Sous-section 1 : Fonctionnement. (art. L2541-2 à L2541-8)](#299)
+              - [Sous-section 2 : Les membres du conseil municipal. (art. L2541-9 à L2541-11)](#300)
+              - [Sous-section 3 : Attributions. (art. L2541-12 à L2541-16)](#301)
+              - [Sous-section 4 : Régime des délibérations. (art. L2541-17 à L2541-18)](#302)
+            - [Section 3 : Le maire (art. L2541-19 à L2541-21)](#303)
+            - [Section 4 : Régime juridique des actes pris par les autorités communales et actions contentieuses (art. L2541-22 à L2541-25)](#304)
+          - [CHAPITRE II : Administration et services communaux (art. L2542-1 à L2542-30)](#305)
+            - [Section 1 : Police (art. L2542-1 à L2542-13)](#306)
+            - [Section 2 : Opérations funéraires (art. L2542-14 à L2542-25)](#307)
+            - [Section 3 : Biens de la commune (art. L2542-26 à L2542-27)](#308)
+            - [Section 4 : Interventions en matière économique et sociale (art. L2542-28 à L2542-30)](#309)
+          - [CHAPITRE III : Dispositions financières (art. L2543-1 à L2543-10)](#310)
+            - [Section 1 : Dispositions générales (art. L2543-1)](#311)
+            - [Section 2 : Budget (art. L2543-2)](#312)
+            - [Section 3 : Dépenses (art. L2543-3)](#313)
+            - [Section 4 : Recettes (art. L2543-4 à L2543-7)](#314)
+            - [Section 5 : Comptabilité (art. L2543-8 à L2543-10)](#315)
+          - [CHAPITRE IV : Intérêts propres à certaines catégories d'habitants (art. L2544-1 à L2544-18)](#316)
+            - [Section 1 : Dispositions générales (art. L2544-1)](#317)
+            - [Section 2 : Section de commune possédant un patrimoine séparé (art. L2544-2 à L2544-9)](#318)
+            - [Section 3 : Biens communaux et établissements communaux (art. L2544-10 à L2544-16)](#319)
+            - [Section 4 : Adjudications publiques en matière de biens communaux (art. L2544-17 à L2544-18)](#320)
+        - [TITRE V : COMMUNES DES DEPARTEMENTS DE LA HAUTE-CORSE ET DE LA CORSE-DU-SUD (art. L2551-1)](#321)
+          - [CHAPITRE UNIQUE (art. L2551-1)](#322)
+        - [TITRE VI : COMMUNES DES DÉPARTEMENTS D'OUTRE-MER (art. L2561-1 à L2563-7)](#323)
+          - [CHAPITRE Ier : Organisation (art. L2561-1)](#324)
+          - [CHAPITRE II : Attributions. (art. L2562-1)](#325)
+          - [CHAPITRE III : Dispositions financières (art. L2563-1 à L2563-7)](#326)
+            - [Section 1 : Dispositions applicables aux communes des départements de Guadeloupe, de Guyane, de Martinique et de la Réunion (art. L2563-1 à L2563-7)](#327)
+    - [TROISIEME PARTIE : LE DÉPARTEMENT (art. L3111-1 à L3443-2)](#328)
+      - [LIVRE Ier : ORGANISATION DU DÉPARTEMENT (art. L3111-1 à L3143-1)](#329)
+        - [TITRE Ier : NOM ET TERRITOIRE DU DÉPARTEMENT (art. L3111-1 à L3113-2)](#330)
+          - [CHAPITRE Ier : Nom (art. L3111-1)](#331)
+          - [CHAPITRE II : Limites territoriales et chef-lieu (art. L3112-1 à L3112-2)](#332)
+          - [CHAPITRE III : Subdivisions du département (art. L3113-1 à L3113-2)](#333)
+        - [TITRE II : ORGANES DU DÉPARTEMENT (art. L3121-1 à L3123-28)](#334)
+          - [CHAPITRE Ier : Le conseil général (art. L3121-1 à L3121-26)](#335)
+            - [Section 1 : Dispositions générales (art. L3121-1)](#336)
+            - [Section 2 : Composition (art. L3121-2)](#337)
+            - [Section 3 : Démission et dissolution (art. L3121-3 à L3121-6)](#338)
+            - [Section 4 : Fonctionnement (art. L3121-7 à L3121-26)](#339)
+              - [Sous-section 1 : Siège et règlement intérieur. (art. L3121-7 à L3121-8)](#340)
+              - [Sous-section 2 : Réunion. (art. L3121-9 à L3121-10)](#341)
+              - [Sous-section 3 : Séances. (art. L3121-11 à L3121-13)](#342)
+              - [Sous-section 4 : Délibérations. (art. L3121-14 à L3121-17)](#343)
+              - [Sous-section 5 : Information. (art. L3121-18 à L3121-21)](#344)
+              - [Sous-section 6 : Commissions - Représentation au sein d'organismes extérieurs. (art. L3121-22 à L3121-23)](#345)
+              - [Sous-section 7 : Fonctionnement des groupes d'élus. (art. L3121-24)](#346)
+              - [Sous-section 8 : Relations avec le représentant de l'Etat. (art. L3121-25 à L3121-26)](#347)
+          - [CHAPITRE II : Le président, la commission permanente et le bureau du conseil général (art. L3122-1 à L3122-8)](#348)
+            - [Section 1 : Le président (art. L3122-1 à L3122-3)](#349)
+              - [Sous-section 1 : Désignation. (art. L3122-1)](#350)
+              - [Sous-section 2 : Remplacement. (art. L3122-2)](#351)
+              - [Sous-section 3 : Incompatibilités. (art. L3122-3)](#352)
+            - [Section 2 : La commission permanente (art. L3122-4 à L3122-7)](#353)
+            - [Section 3 : Le bureau (art. L3122-8)](#354)
+          - [CHAPITRE III : Conditions d'exercice des mandats départementaux (art. L3123-1 à L3123-28)](#355)
+            - [Section 1 : Garanties accordées aux titulaires de mandats départementaux (art. L3123-1 à L3123-9)](#356)
+              - [Sous-section 1 : Garanties accordées dans l'exercice du mandat. (art. L3123-1 à L3123-4)](#357)
+              - [Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle. (art. L3123-5 à L3123-9)](#358)
+            - [Section 2 : Droit à la formation (art. L3123-10 à L3123-14)](#359)
+            - [Section 3 : Indemnités des titulaires de mandats départementaux (art. L3123-15 à L3123-19)](#360)
+            - [Section 4 : Protection sociale (art. L3123-20 à L3123-25)](#361)
+              - [Sous-section 1 : Sécurité sociale. (art. L3123-20)](#362)
+              - [Sous-section 2 : Retraite. (art. L3123-21 à L3123-25)](#363)
+            - [Section 5 : Responsabilité du département en cas d'accident (art. L3123-26 à L3123-27)](#364)
+            - [Section 6 : Responsabilité des élus. (art. L3123-28)](#365)
+        - [TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DÉPARTEMENTALES (art. L3131-1 à L3132-4)](#366)
+          - [CHAPITRE Ier : Publicité et entrée en vigueur (art. L3131-1 à L3131-6)](#367)
+          - [CHAPITRE II : Contrôle de légalité (art. L3132-1 à L3132-4)](#368)
+        - [TITRE IV : RELATIONS ENTRE LE DÉPARTEMENT ET LES SERVICES DE L'ÉTAT (art. L3141-1 à L3143-1)](#369)
+          - [CHAPITRE Ier : Services de l'Etat mis à disposition (art. L3141-1)](#370)
+          - [CHAPITRE II : Coordination entre les services de l'Etat et les services du département (art. L3142-1)](#371)
+          - [CHAPITRE III : Responsabilité (art. L3143-1)](#372)
+      - [LIVRE II : ADMINISTRATION ET SERVICES DÉPARTEMENTAUX (art. L3211-1 à L3241-6)](#373)
+        - [TITRE Ier : COMPÉTENCES DU CONSEIL GÉNÉRAL (art. L3211-1 à L3216-1)](#374)
+          - [CHAPITRE Ier : Dispositions générales (art. L3211-1 à L3211-2)](#375)
+          - [CHAPITRE II : Budget, contributions et emprunts (art. L3212-1 à L3212-4)](#376)
+            - [Section 1 : Budget et contributions (art. L3212-1 à L3212-3)](#377)
+            - [Section 2 : Emprunts (art. L3212-4)](#378)
+          - [CHAPITRE III : Gestion du patrimoine (art. L3213-1 à L3213-6)](#379)
+            - [Section 1 : Domaine (art. L3213-1 à L3213-2)](#380)
+            - [Section 2 : Voirie (art. L3213-3 à L3213-4)](#381)
+            - [Section 3 : Transactions (art. L3213-5)](#382)
+            - [Section 4 : Dons et legs (art. L3213-6)](#383)
+          - [CHAPITRE IV : Action sociale (art. L3214-1 à L3214-2)](#384)
+          - [CHAPITRE V : Travaux (art. L3215-1 à L3215-2)](#385)
+          - [CHAPITRE VI : Elections. (art. L3216-1)](#386)
+        - [TITRE II : COMPÉTENCES DU PRÉSIDENT DU CONSEIL GÉNÉRAL (art. L3221-1 à L3221-10)](#387)
+          - [CHAPITRE UNIQUE (art. L3221-1 à L3221-10)](#388)
+        - [TITRE III : INTERVENTIONS ET AIDES DU DÉPARTEMENT (art. L3231-1 à L3233-1)](#389)
+          - [CHAPITRE Ier : Interventions en matière économique et sociale (art. L3231-1 à L3231-8)](#390)
+            - [Section 1 : Aides directes et indirectes. (art. L3231-1 à L3231-3)](#391)
+            - [Section 2 : Garanties d'emprunts (art. L3231-4 à L3231-5)](#392)
+            - [Section 3 : Participation au capital de sociétés (art. L3231-6 à L3231-8)](#393)
+          - [CHAPITRE II : Aides à objet spécifique (art. L3232-1 à L3232-4)](#394)
+            - [Section 1 : Aide à l'équipement rural (art. L3232-1)](#395)
+            - [Section 2 : Adductions d'eau, assainissement et électrification. (art. L3232-2 à L3232-3)](#396)
+            - [Section 3 : Aides aux entreprises de spectacle cinématographique (art. L3232-4)](#397)
+          - [CHAPITRE III : Dispositions diverses (art. L3233-1)](#398)
+        - [TITRE IV : GESTION DES SERVICES PUBLICS (art. L3241-1 à L3241-6)](#399)
+          - [CHAPITRE UNIQUE (art. L3241-1 à L3241-6)](#400)
+      - [LIVRE III : FINANCES DU DÉPARTEMENT (art. L3311-1 à L3342-2)](#401)
+        - [TITRE Ier : BUDGETS ET COMPTES (art. L3311-1 à L3313-1)](#402)
+          - [CHAPITRE Ier : Dispositions générales (art. L3311-1)](#403)
+          - [CHAPITRE II : Adoption du budget et règlement des comptes (art. L3312-1 à L3312-3)](#404)
+          - [CHAPITRE III : Publicité des budgets et des comptes (art. L3313-1)](#405)
+        - [TITRE II : DÉPENSES (art. L3321-1 à L3322-1)](#406)
+          - [CHAPITRE Ier : Dépenses obligatoires (art. L3321-1)](#407)
+          - [CHAPITRE II : Dépenses imprévues (art. L3322-1)](#408)
+        - [TITRE III : RECETTES (art. L3331-1 à L3335-1)](#409)
+          - [CHAPITRE Ier : Dispositions générales. (art. L3331-1)](#410)
+          - [CHAPITRE II : Catégories de recettes (art. L3332-1 à L3332-3)](#411)
+            - [Section 1 : Recettes de la section de fonctionnement (art. L3332-1 à L3332-2)](#412)
+            - [Section 2 : Recettes de la section d'investissement (art. L3332-3)](#413)
+          - [CHAPITRE III : Contributions et taxes autres que celles prévues par le code général des impôts (art. L3333-1 à L3333-7)](#414)
+            - [Section 1 : Taxe additionnelle départementale à la taxe de séjour (art. L3333-1)](#415)
+            - [Section 2 : Taxe départementale sur l'électricité (art. L3333-2 à L3333-3)](#416)
+            - [Section 3 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique (art. L3333-4 à L3333-7)](#417)
+          - [CHAPITRE IV : Concours financiers de l'Etat (art. L3334-1 à L3334-16)](#418)
+            - [Section 1 : Dotation globale de fonctionnement (art. L3334-1 à L3334-9)](#419)
+              - [Sous-section 1 : Dispositions générales. (art. L3334-1 à L3334-2)](#420)
+              - [Sous-section 2 : Dotation forfaitaire. (art. L3334-3)](#421)
+              - [Sous-section 3 : Dotation de péréquation. (art. L3334-4 à L3334-6)](#422)
+              - [Sous-section 4 : Concours particuliers (art. L3334-7 à L3334-7-1)](#423)
+              - [Sous-section 5 : Solidarité financière entre les départements. (art. L3334-8)](#424)
+              - [Sous-section 6 : Garantie d'évolution. (art. L3334-9)](#425)
+            - [Section 2 : Dotation globale d'équipement (art. L3334-10 à L3334-15)](#426)
+            - [Section 3 : Dotation départementale d'équipement des collèges (art. L3334-16)](#427)
+          - [CHAPITRE V : Avances et emprunts (art. L3335-1)](#428)
+        - [TITRE IV : COMPTABILITE (art. L3341-1 à L3342-2)](#429)
+          - [CHAPITRE Ier : Engagement des dépenses (art. L3341-1)](#430)
+          - [CHAPITRE II : Comptable du département (art. L3342-1 à L3342-2)](#431)
+      - [LIVRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINS DÉPARTEMENTS (art. L3411-1 à L3443-2)](#432)
+        - [TITRE Ier : DÉPARTEMENT DE PARIS (art. L3411-1 à L3413-2)](#433)
+          - [CHAPITRE Ier : Dispositions générales (art. L3411-1 à L3411-2)](#434)
+          - [CHAPITRE II : Organisation (art. L3412-1 à L3412-2)](#435)
+          - [CHAPITRE III : Dispositions financières (art. L3413-1 à L3413-2)](#436)
+        - [TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE (art. L3421-1 à L3421-2)](#437)
+          - [CHAPITRE UNIQUE (art. L3421-1 à L3421-2)](#438)
+        - [TITRE III : DÉPARTEMENTS DE LA CORSE-DU-SUD ET DE LA HAUTE-CORSE (art. L3431-1 à L3431-2)](#439)
+          - [CHAPITRE UNIQUE (art. L3431-1 à L3431-2)](#440)
+        - [TITRE IV : DÉPARTEMENTS D'OUTRE-MER (art. L3441-1 à L3443-2)](#441)
+          - [CHAPITRE Ier : Dispositions générales (art. L3441-1)](#442)
+          - [CHAPITRE II : Organisation (art. L3442-1)](#443)
+          - [CHAPITRE III : Dispositions financières (art. L3443-1 à L3443-2)](#444)
+    - [QUATRIÈME PARTIE : LA RÉGION (art. L4111-1 à L4435-1)](#445)
+      - [LIVRE Ier : ORGANISATION DE LA RÉGION (art. L4111-1 à L4152-1)](#446)
+        - [TITRE Ier : CRÉATION (art. L4111-1 à L4111-3)](#447)
+          - [CHAPITRE UNIQUE (art. L4111-1 à L4111-3)](#448)
+        - [TITRE II : NOM ET TERRITOIRE DE LA RÉGION (art. L4121-1 à L4123-1)](#449)
+          - [CHAPITRE Ier : Nom (art. L4121-1)](#450)
+          - [CHAPITRE II : Limites territoriales et chef-lieu (art. L4122-1 à L4122-2)](#451)
+            - [Section 1 : Limites territoriales. (art. L4122-1)](#452)
+            - [Section 2 : Chef-lieu. (art. L4122-2)](#453)
+          - [CHAPITRE III : Regroupement de régions (art. L4123-1)](#454)
+        - [TITRE III : ORGANES DE LA RÉGION (art. L4131-1 à L4135-28)](#455)
+          - [CHAPITRE Ier : Dispositions générales (art. L4131-1 à L4131-3)](#456)
+          - [CHAPITRE II : Le conseil régional (art. L4132-1 à L4132-27)](#457)
+            - [Section 1 : Composition. (art. L4132-1)](#458)
+            - [Section 2 : Démission et dissolution. (art. L4132-2 à L4132-4)](#459)
+            - [Section 3 : Fonctionnement (art. L4132-5 à L4132-27)](#460)
+              - [Sous-section 1 : Siège et règlement intérieur. (art. L4132-5 à L4132-6)](#461)
+              - [Sous-section 2 : Réunions. (art. L4132-7 à L4132-9)](#462)
+              - [Sous-section 3 : Séances. (art. L4132-10 à L4132-12)](#463)
+              - [Sous-section 4 : Délibérations. (art. L4132-13 à L4132-16)](#464)
+              - [Sous-section 5 : Information. (art. L4132-17 à L4132-20)](#465)
+              - [Sous-section 6 : Commissions - Représentation au sein d'organismes extérieurs (art. L4132-21 à L4132-22)](#466)
+              - [Sous-section 7 : Fonctionnement des groupes d'élus. (art. L4132-23)](#467)
+              - [Sous-section 8 : Relations avec le représentant de l'Etat. (art. L4132-24 à L4132-27)](#468)
+          - [CHAPITRE III : LE PRÉSIDENT, LA COMMISSION PERMANENTE ET LE BUREAU DU CONSEIL RÉGIONAL (art. L4133-1 à L4133-8)](#469)
+            - [Section 1 : Le président (art. L4133-1 à L4133-3)](#470)
+              - [Sous-section 1 : Désignation. (art. L4133-1)](#471)
+              - [Sous-section 2 : Remplacement. (art. L4133-2)](#472)
+              - [Sous-section 3 : Incompatibilités. (art. L4133-3)](#473)
+            - [Section 2 : La commission permanente (art. L4133-4 à L4133-7)](#474)
+            - [Section 3 : Le bureau (art. L4133-8)](#475)
+          - [CHAPITRE IV : Le conseil économique et social régional (art. L4134-1 à L4134-7)](#476)
+            - [Section 1 : Dispositions générales. (art. L4134-1)](#477)
+            - [Section 2 : Composition. (art. L4134-2)](#478)
+            - [Section 3 : Fonctionnement (art. L4134-3 à L4134-5)](#479)
+              - [Sous-section 1 : Sections du conseil économique et social régional. (art. L4134-3)](#480)
+              - [Sous-section 2 : Règlement intérieur. (art. L4134-4)](#481)
+              - [Sous-section 3 : Moyens de fonctionnement. (art. L4134-5)](#482)
+            - [Section 4 : Garanties et indemnités accordées aux membres du conseil économique et social régional. (art. L4134-6 à L4134-7)](#483)
+          - [CHAPITRE V : Conditions d'exercice des mandats régionaux (art. L4135-1 à L4135-28)](#484)
+            - [Section 1 : Garanties accordées aux titulaires de mandats régionaux (art. L4135-1 à L4135-9)](#485)
+              - [Sous-section 1 : Garanties accordées dans l'exercice du mandat. (art. L4135-1 à L4135-4)](#486)
+              - [Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle. (art. L4135-5 à L4135-9)](#487)
+            - [Section 2 : Droit à la formation. (art. L4135-10 à L4135-14)](#488)
+            - [Section 3 : Indemnités des titulaires de mandats régionaux. (art. L4135-15 à L4135-19)](#489)
+            - [Section 4 : Protection sociale (art. L4135-20 à L4135-25)](#490)
+              - [Sous-section 1 : Sécurité sociale. (art. L4135-20)](#491)
+              - [Sous-section 2 : Retraite. (art. L4135-21 à L4135-25)](#492)
+            - [Section 5 : Responsabilité de la région en cas d'accident. (art. L4135-26 à L4135-27)](#493)
+            - [Section 6 : Responsabilité des élus. (art. L4135-28)](#494)
+        - [TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS RÉGIONALES (art. L4141-1 à L4142-4)](#495)
+          - [CHAPITRE Ier : Publicité et entrée en vigueur (art. L4141-1 à L4141-6)](#496)
+          - [CHAPITRE II : Contrôle de légalité (art. L4142-1 à L4142-4)](#497)
+        - [TITRE V : RELATIONS ENTRE LA RÉGION ET LES SERVICES DE L'ÉTAT (art. L4151-1 à L4152-1)](#498)
+          - [CHAPITRE Ier : Services de l'Etat mis à disposition (art. L4151-1)](#499)
+          - [CHAPITRE II : Coordination (art. L4152-1)](#500)
+      - [LIVRE II : ATTRIBUTIONS DE LA RÉGION (art. L4211-1 à L4261-1)](#501)
+        - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L4211-1)](#502)
+          - [CHAPITRE UNIQUE (art. L4211-1)](#503)
+        - [TITRE II : COMPÉTENCES DU CONSEIL RÉGIONAL (art. L4221-1 à L4221-5)](#504)
+          - [CHAPITRE UNIQUE : Dispositions générales (art. L4221-1 à L4221-5)](#505)
+        - [TITRE III : COMPÉTENCES DU PRÉSIDENT DU CONSEIL RÉGIONAL (art. L4231-1 à L4231-7)](#506)
+          - [CHAPITRE UNIQUE (art. L4231-1 à L4231-7)](#507)
+        - [TITRE IV : COMPÉTENCES DU CONSEIL ÉCONOMIQUE ET SOCIAL RÉGIONAL (art. L4241-1 à L4241-2)](#508)
+          - [CHAPITRE UNIQUE (art. L4241-1 à L4241-2)](#509)
+        - [TITRE V : ATTRIBUTIONS DE LA RÉGION EN MATIÈRE DE PLANIFICATION ET D'INTERVENTION ÉCONOMIQUE (art. L4251-1 à L4253-4)](#510)
+          - [CHAPITRE Ier : Le plan de la région (art. L4251-1 à L4251-3)](#511)
+          - [CHAPITRE II : Recherche et développement technologique (art. L4252-1 à L4252-3)](#512)
+          - [CHAPITRE III : Interventions en matière économique et sociale (art. L4253-1 à L4253-4)](#513)
+            - [Section 1 : Garanties d'emprunts. (art. L4253-1 à L4253-2)](#514)
+            - [Section 2 : Participation au capital de sociétés. (art. L4253-3 à L4253-4)](#515)
+        - [TITRE VI : GESTION DES SERVICES PUBLICS DE LA RÉGION (art. L4261-1)](#516)
+          - [CHAPITRE UNIQUE (art. L4261-1)](#517)
+      - [LIVRE III : FINANCES DE LA RÉGION (art. L4311-1 à L4341-1)](#518)
+        - [TITRE Ier : BUDGETS ET COMPTES (art. L4311-1 à L4312-1)](#519)
+          - [CHAPITRE Ier : Adoption du budget et règlement des comptes (art. L4311-1 à L4311-4)](#520)
+          - [CHAPITRE II : Publicité des budgets et des comptes (art. L4312-1)](#521)
+        - [TITRE II : DÉPENSES (art. L4321-1 à L4322-1)](#522)
+          - [CHAPITRE Ier : Dépenses obligatoires (art. L4321-1)](#523)
+          - [CHAPITRE II : Dépenses imprévues (art. L4322-1)](#524)
+        - [TITRE III : RECETTES (art. L4331-1 à L4333-1)](#525)
+          - [CHAPITRE Ier : Dispositions générales (art. L4331-1 à L4331-3)](#526)
+          - [CHAPITRE II : Modalités particulières de financement (art. L4332-1 à L4332-10)](#527)
+            - [Section 1 : Fonds régional de l'apprentissage et de la formation professionnelle continue. (art. L4332-1 à L4332-2)](#528)
+            - [Section 2 : Dotation régionale d'équipement scolaire. (art. L4332-3)](#529)
+            - [Section 3 : Fonds de correction des déséquilibres régionaux. (art. L4332-4 à L4332-10)](#530)
+          - [CHAPITRE III : Avances et emprunts (art. L4333-1)](#531)
+        - [TITRE IV : COMPTABILITÉ (art. L4341-1)](#532)
+          - [CHAPITRE UNIQUE  : Engagement des dépenses (art. L4341-1)](#533)
+      - [LIVRE IV : RÉGIONS À STATUT PARTICULIER ET COLLECTIVITÉ TERRITORIALE DE CORSE (art. L4411-1 à L4435-1)](#534)
+        - [TITRE Ier : LA RÉGION D'ILE-DE-FRANCE (art. L4411-1 à L4414-8)](#535)
+          - [CHAPITRE Ier : Dispositions générales (art. L4411-1)](#536)
+          - [CHAPITRE II : Organes (art. L4412-1)](#537)
+          - [CHAPITRE III : Attributions (art. L4413-1 à L4413-3)](#538)
+            - [Section 1 : Equipements collectifs. (art. L4413-1)](#539)
+            - [Section 2 : Espaces verts. (art. L4413-2)](#540)
+            - [Section 3 : Transports. (art. L4413-3)](#541)
+          - [CHAPITRE IV : Dispositions financières (art. L4414-1 à L4414-8)](#542)
+            - [Section 1 : Recettes fiscales. (art. L4414-1 à L4414-2)](#543)
+            - [Section 2 : Autres ressources. (art. L4414-3 à L4414-7)](#544)
+            - [Section 3 : Dispositions diverses. (art. L4414-8)](#545)
+        - [TITRE II : LA COLLECTIVITÉ TERRITORIALE DE CORSE (art. L4421-1 à L4426-1)](#546)
+          - [CHAPITRE Ier : Dispositions générales (art. L4421-1 à L4421-2)](#547)
+          - [CHAPITRE II : Organisation (art. L4422-1 à L4422-31)](#548)
+            - [Section 1 : L'Assemblée de Corse (art. L4422-2 à L4422-13)](#549)
+              - [Sous-section 1 : Composition. (art. L4422-2)](#550)
+              - [Sous-section 2 : Fonctionnement. (art. L4422-3 à L4422-13)](#551)
+            - [Section 2 : Le conseil exécutif et le président du conseil exécutif (art. L4422-14 à L4422-18-1)](#552)
+              - [Sous-section 1 : Election et composition. (art. L4422-14 à L4422-17)](#553)
+              - [Sous-section 2 : Dispositions relatives aux membres du conseil exécutif. (art. L4422-18 à L4422-18-1)](#554)
+            - [Section 3 : Rapports entre l'Assemblée et le conseil exécutif (art. L4422-19 à L4422-30)](#555)
+            - [Section 4 : Le conseil économique, social et culturel de Corse (art. L4422-23 à L4422-24)](#556)
+            - [Section 5 : Le représentant de l'Etat (art. L4422-25 à L4422-29)](#557)
+            - [Section 6 : Services et biens de l'Etat mis à disposition de la collectivité territoriale de Corse (art. L4422-31)](#558)
+          - [CHAPITRE III : Régime juridique des actes (art. L4423-1)](#559)
+          - [CHAPITRE IV : Attributions (art. L4424-1 à L4424-33)](#560)
+            - [Section 1 : Compétences de l'Assemblée de Corse. (art. L4424-1 à L4424-2)](#561)
+            - [Section 2 : Compétences du conseil exécutif. (art. L4424-3)](#562)
+            - [Section 3 : Compétences du président du conseil exécutif. (art. L4424-4 à L4424-8)](#563)
+            - [Section 4 : Compétences du conseil économique, social et culturel. (art. L4424-9 à L4424-10)](#564)
+            - [Section 5 : Attributions de la collectivité territoriale de Corse en matière d'identité culturelle (art. L4424-11 à L4424-18)](#565)
+              - [Sous-section 1 : Education. (art. L4424-11 à L4424-15)](#566)
+              - [Sous-section 2 : Communication, culture et environnement. (art. L4424-16 à L4424-18)](#567)
+            - [Section 6 : Attributions de la collectivité territoriale de Corse en matière de développement économique (art. L4424-19 à L4424-33)](#568)
+              - [Sous-section 1 : Plan et aides. (art. L4424-19 à L4424-21)](#569)
+              - [Sous-section 2 : Agriculture. (art. L4424-22)](#570)
+              - [Sous-section 3 : Tourisme. (art. L4424-23)](#571)
+              - [Sous-section 4 : Logement. (art. L4424-24)](#572)
+              - [Sous-section 5 : Transports. (art. L4424-25 à L4424-31)](#573)
+              - [Sous-section 6 : Formation professionnelle. (art. L4424-32)](#574)
+              - [Sous-section 7 : Energie. (art. L4424-33)](#575)
+          - [CHAPITRE V : Dispositions financières (art. L4425-1 à L4425-7)](#576)
+          - [CHAPITRE VI : Dispositions d'application (art. L4426-1)](#577)
+        - [TITRE III : LES RÉGIONS D'OUTRE-MER (art. L4431-1 à L4435-1)](#578)
+          - [CHAPITRE Ier : Dispositions générales (art. L4431-1)](#579)
+          - [CHAPITRE II : Organes (art. L4432-1 à L4432-12)](#580)
+            - [Section 1 : Le conseil régional (art. L4432-1 à L4432-8)](#581)
+              - [Sous-section 1 : Composition. (art. L4432-1)](#582)
+              - [Sous-section 2 : Election. (art. L4432-2)](#583)
+              - [Sous-section 3 : Incompatibilités. (art. L4432-4 à L4432-5)](#584)
+              - [Sous-section 4 : Indemnités. (art. L4432-6)](#585)
+              - [Sous-section 5 : Démission. (art. L4432-7 à L4432-8)](#586)
+            - [Section 2 : Le conseil économique et social régional et le conseil de la culture, de l'éducation et de l'environnement (art. L4432-9 à L4432-10)](#587)
+              - [Sous-section 1 : Composition. (art. L4432-9)](#588)
+              - [Sous-section 2 : Fonctionnement. (art. L4432-10)](#589)
+            - [Section 3 : Autres organismes (art. L4432-11 à L4432-12)](#590)
+              - [Sous-section 1 : Le centre régional de promotion de la santé. (art. L4432-11)](#591)
+              - [Sous-section 2 : Le conseil régional de l'habitat. (art. L4432-12)](#592)
+          - [CHAPITRE III : Attributions (art. L4433-1 à L4433-32)](#593)
+            - [Section 1 : Compétences du conseil régional (art. L4433-1 à L4433-4)](#594)
+            - [Section 2 : Compétences du conseil économique et social régional et du conseil de la culture, de l'éducation et de l'environnement (art. L4433-5 à L4433-6)](#595)
+              - [Sous-section 1 : Le conseil économique et social régional. (art. L4433-5)](#596)
+              - [Sous-section 2 : Le conseil de la culture, de l'éducation et de l'environnement. (art. L4433-6)](#597)
+            - [Section 3 : Attributions des régions d'outre-mer en matière de développement économique et d'aménagement du territoire (art. L4433-7 à L4433-24)](#598)
+              - [Sous-section 1 : Schéma d'aménagement régional. (art. L4433-7 à L4433-11)](#599)
+              - [Sous-section 2 : Agriculture et forêt. (art. L4433-12 à L4433-13)](#600)
+              - [Sous-section 3 : Emploi et formation professionnelle. (art. L4433-14)](#601)
+              - [Sous-section 4 : Mise en valeur des ressources de la mer. (art. L4433-15 à L4433-16)](#602)
+              - [Sous-section 5 : Energie, ressources minières et développement industriel. (art. L4433-17 à L4433-19)](#603)
+              - [Sous-section 6 : Transports. (art. L4433-20 à L4433-21)](#604)
+              - [Sous-section 7 : Logement. (art. L4433-22 à L4433-24)](#605)
+            - [Section 4 : Actions culturelles (art. L4433-25 à L4433-32)](#606)
+              - [Sous-section 1 : Education et recherche. (art. L4433-25 à L4433-26)](#607)
+              - [Sous-section 2 : Développement culturel. (art. L4433-27)](#608)
+              - [Sous-section 3 : Communication audiovisuelle. (art. L4433-28 à L4433-30)](#609)
+              - [Sous-section 4 : Environnement et tourisme. (art. L4433-31 à L4433-32)](#610)
+          - [CHAPITRE IV : Dispositions financières et fiscales (art. L4434-1 à L4434-9)](#611)
+          - [CHAPITRE V : Dispositions d'application. (art. L4435-1)](#612)
+    - [CINQUIÈME PARTIE : LA COOPÉRATION LOCALE (art. L5111-1 à L5822-1)](#613)
+      - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L5111-1 à L5111-3)](#614)
+        - [TITRE UNIQUE (art. L5111-1 à L5111-3)](#615)
+          - [CHAPITRE UNIQUE (art. L5111-1 à L5111-3)](#616)
+      - [LIVRE II : LA COOPÉRATION INTERCOMMUNALE (art. L5210-1 à L5223-3)](#617)
+        - [TITRE Ier : ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE (art. L5210-1 à L5216-9)](#618)
+          - [CHAPITRE Ier : Dispositions communes (art. L5211-1 à L5211-58)](#619)
+            - [Section 1 : Règles générales (art. L5211-1 à L5211-4)](#620)
+            - [Section 2 : Création (art. L5211-5)](#621)
+            - [Section 3 : Organes et fonctionnement (art. L5211-6 à L5211-11)](#622)
+              - [Sous-section 1 : Organes (art. L5211-6 à L5211-10)](#623)
+                - [Paragraphe 1 : Organe délibérant. (art. L5211-6 à L5211-8)](#624)
+                - [Paragraphe 2 : Le président. (art. L5211-9)](#625)
+                - [Paragraphe 10 : Le bureau. (art. L5211-10)](#626)
+              - [Sous-section 2 : Fonctionnement. (art. L5211-11)](#627)
+            - [Section 4 : Conditions d'exercice des mandats des membres des conseils ou comités. (art. L5211-12 à L5211-15)](#628)
+            - [Section 5 : Modifications statutaires (art. L5211-16 à L5211-20)](#629)
+              - [Sous-section 1 : Modifications relatives aux compétences. (art. L5211-16 à L5211-17)](#630)
+              - [Sous-section 2 : Modifications relatives au périmètre et à l'organisation. (art. L5211-18 à L5211-20)](#631)
+            - [Section 6 : Dispositions financières (art. L5211-21 à L5211-40)](#632)
+              - [Sous-section 1 : Dispositions communes. (art. L5211-21 à L5211-27-1)](#633)
+              - [Sous-section 2 : Etablissements de coopération intercommunale à fiscalité propre. (art. L5211-28 à L5211-30)](#634)
+              - [Sous-section 2 : Etablissements publics de coopération intercommunale dotés d'une fiscalité propre. (art. L5211-31 à L5211-35)](#635)
+              - [Sous-section 3 : Démocratisation et transparence. (art. L5211-36 à L5211-40)](#636)
+            - [Section 7 : Transformation. (art. L5211-41 à L5211-41-1)](#637)
+            - [Section 8 : Commission départementale de la coopération intercommunale (art. L5211-42 à L5211-45)](#638)
+              - [Sous-section 1 : Composition. (art. L5211-42 à L5211-44)](#639)
+              - [Sous-section 2 : Attributions. (art. L5211-45)](#640)
+            - [Section 9 : Information et participation des habitants. (art. L5211-46 à L5211-54)](#641)
+            - [Section 10 : Dispositions diverses. (art. L5211-56 à L5211-58)](#642)
+          - [CHAPITRE II : Syndicat de communes (art. L5212-1 à L5212-34)](#643)
+            - [Section 1 : Création (art. L5212-1 à L5212-5)](#644)
+            - [Section 2 : Organes (art. L5212-6 à L5212-7)](#645)
+              - [Sous-section 1 : Le comité du syndicat. (art. L5212-6 à L5212-7)](#646)
+            - [Section 3 : Fonctionnement. (art. L5212-15 à L5212-17)](#647)
+            - [Section 4 : Dispositions financières. (art. L5212-18 à L5212-25)](#648)
+            - [Section 5 : Modification des conditions initiales de composition et de fonctionnement (art. L5212-29 à L5212-32)](#649)
+              - [Sous-section 3 : Retrait de communes. (art. L5212-29 à L5212-30)](#650)
+              - [Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale. (art. L5212-32)](#651)
+            - [Section 6 : Dissolution (art. L5212-33 à L5212-34)](#652)
+          - [CHAPITRE IV : Communauté de communes (art. L5214-1 à L5214-29)](#653)
+            - [Section 1 : Création (art. L5214-1 à L5214-4)](#654)
+            - [Section 2 : Organes (art. L5214-7 à L5214-10-1)](#655)
+              - [Sous-section 1 : Le conseil de la communauté de communes. (art. L5214-7 à L5214-10-1)](#656)
+            - [Section 4 : Compétences. (art. L5214-16 à L5214-22)](#657)
+            - [Section 5 : Dispositions financières. (art. L5214-23 à L5214-23-2)](#658)
+            - [Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes (art. L5214-26 à L5214-27)](#659)
+              - [Sous-section 3 : Retrait de communes. (art. L5214-26)](#660)
+              - [Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale. (art. L5214-27)](#661)
+            - [Section 7 : Dissolution. (art. L5214-28 à L5214-29)](#662)
+          - [CHAPITRE V : Communauté urbaine (art. L5215-1 à L5215-42)](#663)
+            - [Section 1 : Création. (art. L5215-1 à L5215-4)](#664)
+            - [Section 2 : Organes (art. L5215-6 à L5215-18)](#665)
+              - [Sous-section 1 : Le conseil de communauté. (art. L5215-6 à L5215-10)](#666)
+              - [Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté. (art. L5215-16 à L5215-18)](#667)
+            - [Section 3 : Compétences (art. L5215-19 à L5215-31)](#668)
+              - [Sous-section 1 : Dispositions générales. (art. L5215-19)](#669)
+              - [Sous-section 2 : Compétences obligatoires. (art. L5215-20 à L5215-20-1)](#670)
+              - [Sous-section 3 : Transferts de compétences. (art. L5215-21 à L5215-24)](#671)
+              - [Sous-section 4 : Modalités particulières d'intervention. (art. L5215-26 à L5215-27)](#672)
+              - [Sous-section 5 : Transferts de biens, droits et obligations. (art. L5215-28 à L5215-31)](#673)
+            - [Section 4 : Dispositions financières. (art. L5215-32 à L5215-39)](#674)
+            - [Section 5 : Modifications (art. L5215-40)](#675)
+              - [Sous-section 1 : Admission de nouvelles communes. (art. L5215-40)](#676)
+            - [Section 3 : Modifications (art. L5215-40-1)](#677)
+              - [Sous-section 2 : Admission de nouvelles communes (art. L5215-40-1)](#678)
+            - [Section 6 : Dissolution et transformation. (art. L5215-42)](#679)
+          - [CHAPITRE VI : Communauté d'agglomération (art. L5216-10 à L5216-9)](#680)
+            - [Section 1 : Création. (art. L5216-1 à L5216-2)](#681)
+            - [Section 2 : Le conseil de la communauté d'agglomération (art. L5216-3)](#682)
+            - [Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération (art. L5216-4 à L5216-4-2)](#683)
+            - [Section 4 : Compétences (art. L5216-5 à L5216-7)](#684)
+            - [Section 5 : Dispositions financières (art. L5216-8)](#685)
+            - [Section 6 : Dissolution. (art. L5216-9)](#686)
+        - [TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE (art. L5221-1 à L5223-3)](#687)
+          - [CHAPITRE Ier : Entente, convention et conférence intercommunales (art. L5221-1 à L5221-2)](#688)
+          - [CHAPITRE II : Biens et droits indivis entre plusieurs communes (art. L5222-1 à L5222-6)](#689)
+            - [Section 1 : Gestion des biens et droits indivis. (art. L5222-1 à L5222-3)](#690)
+            - [Section 2 : Fin de l'indivision. (art. L5222-4 à L5222-6)](#691)
+          - [CHAPITRE III : Charte intercommunale de développement et d'aménagement (art. L5223-1 à L5223-3)](#692)
+      - [LIVRE III : AGGLOMÉRATION NOUVELLE (art. L5311-1 à L5351-1)](#693)
+        - [TITRE Ier : CRÉATION (art. L5311-1 à L5311-3)](#694)
+          - [CHAPITRE UNIQUE (art. L5311-1 à L5311-3)](#695)
+        - [TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES (art. L5321-1 à L5321-5)](#696)
+          - [CHAPITRE UNIQUE (art. L5321-1 à L5321-5)](#697)
+        - [TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE (art. L5331-1 à L5334-21)](#698)
+          - [CHAPITRE Ier : Communauté d'agglomération nouvelle (art. L5331-1 à L5331-3)](#699)
+          - [CHAPITRE II : Syndicat d'agglomération nouvelle (art. L5332-1 à L5332-5)](#700)
+            - [Section 1 : Composition du comité du syndicat d'agglomération nouvelle. (art. L5332-1 à L5332-2)](#701)
+            - [Section 2 : Admission de nouvelles communes au syndicat d'agglomération nouvelle et retrait. (art. L5332-3 à L5332-5)](#702)
+          - [CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle (art. L5333-1 à L5333-9)](#703)
+          - [CHAPITRE IV : Dispositions financières (art. L5334-1 à L5334-21)](#704)
+            - [Section 1 : Dispositions générales. (art. L5334-1 à L5334-20)](#705)
+            - [Section 2 : Fin du régime particulier applicable aux agglomérations nouvelles. (art. L5334-21)](#706)
+        - [TITRE IV : FIN DU RÉGIME APPLICABLE AUX AGGLOMÉRATIONS NOUVELLES (art. L5341-1 à L5341-3)](#707)
+          - [CHAPITRE UNIQUE (art. L5341-1 à L5341-3)](#708)
+        - [TITRE V : DISPOSITIONS D'APPLICATION (art. L5351-1)](#709)
+          - [CHAPITRE UNIQUE (art. L5351-1)](#710)
+      - [LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE (art. L5411-1 à L5421-6)](#711)
+        - [TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES (art. L5411-1 à L5411-2)](#712)
+          - [CHAPITRE UNIQUE (art. L5411-1 à L5411-2)](#713)
+        - [TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX (art. L5421-1 à L5421-6)](#714)
+          - [CHAPITRE UNIQUE (art. L5421-1 à L5421-6)](#715)
+      - [LIVRE V : AGENCE DÉPARTEMENTALE (art. L5511-1)](#716)
+        - [TITRE UNIQUE (art. L5511-1)](#717)
+          - [CHAPITRE UNIQUE (art. L5511-1)](#718)
+      - [LIVRE VI : COOPÉRATION INTERRÉGIONALE (art. L5611-1 à L5622-4)](#719)
+        - [TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES (art. L5611-1)](#720)
+          - [CHAPITRE UNIQUE (art. L5611-1)](#721)
+        - [TITRE II : ENTENTE INTERRÉGIONALE (art. L5621-1 à L5622-4)](#722)
+          - [CHAPITRE Ier : Organisation et fonctionnement (art. L5621-1 à L5621-9)](#723)
+          - [CHAPITRE II : Dispositions financières (art. L5622-1 à L5622-4)](#724)
+      - [LIVRE VII : SYNDICAT MIXTE (art. L5711-1 à L5722-6)](#725)
+        - [TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE (art. L5711-1)](#726)
+          - [CHAPITRE unique. (art. L5711-1)](#727)
+        - [TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC (art. L5721-1 à L5722-6)](#728)
+          - [CHAPITRE Ier : Organisation et fonctionnement (art. L5721-1 à L5721-7)](#729)
+          - [CHAPITRE II : Dispositions financières (art. L5722-1 à L5722-6)](#730)
+      - [LIVRE VIII : DISPOSITIONS PARTICULIÈRES (art. L5811-1 à L5822-1)](#731)
+        - [TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN (art. L5811-1 à L5816-9)](#732)
+          - [CHAPITRE Ier : Syndicat de communes. (art. L5811-1)](#733)
+          - [CHAPITRE II : Communauté de communes. (art. L5812-1)](#734)
+          - [CHAPITRE III : Communauté urbaine. (art. L5813-1 à L5813-2)](#735)
+          - [CHAPITRE IV : Communauté de villes. (art. L5814-1)](#736)
+          - [CHAPITRE V : Entente, convention et conférence intercommunales. (art. L5815-1 à L5815-2)](#737)
+          - [CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes. (art. L5816-1 à L5816-9)](#738)
+        - [TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION (art. L5821-1 à L5822-1)](#739)
+          - [CHAPITRE Ier : Communauté urbaine. (art. L5821-1)](#740)
+          - [CHAPITRE II : Charte intercommunale de développement et d'aménagement. (art. L5822-1)](#741)
 # Partie législative<a id=1></a>
 
 ## PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES<a id=2></a>
@@ -9679,13 +9681,44 @@ _Cite_:
   - Code de l'organisation judiciaire L311-12
 
 
-## DEUXIÈME PARTIE : LA COMMUNE<a id=83></a>
+#### TITRE II : INDEMNITES DE FONCTION DES ELUS LOCAUX<a id=83></a>
 
-### LIVRE Ier : ORGANISATION DE LA COMMUNE<a id=84></a>
+##### CHAPITRE UNIQUE<a id=84></a>
 
-#### TITRE Ier : NOM ET TERRITOIRE DE LA COMMUNE<a id=85></a>
+###### Article L1621-1
 
-##### CHAPITRE Ier : Nom.<a id=86></a>
+Les indemnités de fonction perçues par les élus locaux en application des articles du présent code ne sont saisissables que
+pour la partie qui excède la fraction représentative des frais d'emploi, telle que définie à l'article 204-0 bis du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 204-0 bis
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°2000-295 du 5 avril 2000 - art. 8 ()
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. D2573-8 (VD)
+  - Code général des collectivités territoriales - art. L1781-1 (V)
+  - Code général des collectivités territoriales - art. L1881-1 (M)
+
+
+## DEUXIÈME PARTIE : LA COMMUNE<a id=85></a>
+
+### LIVRE Ier : ORGANISATION DE LA COMMUNE<a id=86></a>
+
+#### TITRE Ier : NOM ET TERRITOIRE DE LA COMMUNE<a id=87></a>
+
+##### CHAPITRE Ier : Nom.<a id=88></a>
 
 ###### Article L2111-1
 
@@ -9734,9 +9767,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2111-1 (V)
 
 
-##### CHAPITRE II : Limites territoriales et chef-lieu<a id=87></a>
+##### CHAPITRE II : Limites territoriales et chef-lieu<a id=89></a>
 
-##### Section 1 : Délimitation<a id=88></a>
+##### Section 1 : Délimitation<a id=90></a>
 
 ###### Article L2112-1
 
@@ -9769,7 +9802,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2114-1 (V)
 
 
-##### Section 2 : Modifications<a id=89></a>
+##### Section 2 : Modifications<a id=91></a>
 
 ###### Article L2112-2
 
@@ -10167,9 +10200,9 @@ _Cite_:
   - Code rural - art. L123-5 (V)
 
 
-##### CHAPITRE III : Fusion de communes<a id=90></a>
+##### CHAPITRE III : Fusion de communes<a id=92></a>
 
-##### Section 1 : Dispositions communes<a id=91></a>
+##### Section 1 : Dispositions communes<a id=93></a>
 
 ###### Article L2113-1
 
@@ -10453,7 +10486,7 @@ _Cité par_:
   - Code électoral - art. L290-2 (V)
 
 
-##### Section 2 : Fusions simples<a id=92></a>
+##### Section 2 : Fusions simples<a id=94></a>
 
 ###### Article L2113-9
 
@@ -10513,9 +10546,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 3 : Fusions comportant la création d'une ou plusieurs communes associées<a id=93></a>
+##### Section 3 : Fusions comportant la création d'une ou plusieurs communes associées<a id=95></a>
 
-##### Sous-section 1 : Dispositions communes<a id=94></a>
+##### Sous-section 1 : Dispositions communes<a id=96></a>
 
 ###### Article L2113-11
 
@@ -10714,7 +10747,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2113-2 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux communes issues d'une fusion comptant plus de 100 000 habitants<a id=95></a>
+##### Sous-section 2 : Dispositions relatives aux communes issues d'une fusion comptant plus de 100 000 habitants<a id=97></a>
 
 ###### Article L2113-17
 
@@ -10864,7 +10897,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2564-4 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux communes issues d'une fusion comptant 100 000 habitants ou moins<a id=96></a>
+##### Sous-section 3 : Dispositions relatives aux communes issues d'une fusion comptant 100 000 habitants ou moins<a id=98></a>
 
 ###### Article L2113-21
 
@@ -11063,7 +11096,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2113-20
 
 
-##### CHAPITRE IV : Suppression de communes<a id=97></a>
+##### CHAPITRE IV : Suppression de communes<a id=99></a>
 
 ###### Article L2114-1
 
@@ -11170,11 +11203,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE II : ORGANES DE LA COMMUNE<a id=98></a>
+#### TITRE II : ORGANES DE LA COMMUNE<a id=100></a>
 
-##### CHAPITRE Ier : Le conseil municipal<a id=99></a>
+##### CHAPITRE Ier : Le conseil municipal<a id=101></a>
 
-##### Section 1 : Composition<a id=100></a>
+##### Section 1 : Composition<a id=102></a>
 
 ###### Article L2121-1
 
@@ -11529,7 +11562,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-5 (V)
 
 
-##### Section 2 : Démissions<a id=101></a>
+##### Section 2 : Démissions<a id=103></a>
 
 ###### Article L2121-4
 
@@ -11592,7 +11625,7 @@ _Anciens textes_:
   - Loi n°1873-06-07 art. 1, 2 et 3
 
 
-##### Section 3 : Dissolution<a id=102></a>
+##### Section 3 : Dissolution<a id=104></a>
 
 ###### Article L2121-6
 
@@ -11623,7 +11656,7 @@ _Cité par_:
   - Code électoral - art. L273-5 (VD)
 
 
-##### Section 4 : Fonctionnement<a id=103></a>
+##### Section 4 : Fonctionnement<a id=105></a>
 
 ###### Article L2121-7
 
@@ -12353,7 +12386,7 @@ _Modifié par_:
   - Loi n°99-586 du 12 juillet 1999 - art. 76 ()
 
 
-##### Section 5 : Attributions<a id=104></a>
+##### Section 5 : Attributions<a id=106></a>
 
 ###### Article L2121-29
 
@@ -12566,7 +12599,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R123-20 (V)
 
 
-##### Section 6 : Délégation spéciale<a id=105></a>
+##### Section 6 : Délégation spéciale<a id=107></a>
 
 ###### Article L2121-35
 
@@ -12720,9 +12753,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2121-35 (V)
 
 
-##### CHAPITRE II : Le maire et les adjoints<a id=106></a>
+##### CHAPITRE II : Le maire et les adjoints<a id=108></a>
 
-##### Section 1 : Dispositions générales<a id=107></a>
+##### Section 1 : Dispositions générales<a id=109></a>
 
 ###### Article L2122-1
 
@@ -12811,9 +12844,21 @@ _Cité par_:
 
 ###### Article L2122-4
 
-- Le maire et les adjoints sont élus par le conseil municipal parmi ses membres.
+Le conseil municipal élit le maire et les adjoints parmi ses membres, au scrutin secret et à la majorité absolue. Nul ne peut
+être élu maire s'il n'est âgé de dix-huit ans révolus.
 
-Nul ne peut être élu maire s'il n'est âgé de vingt et un ans révolus.
+Les fonctions de maire sont incompatibles avec l'exercice d'un mandat de représentant au Parlement européen ou d'une des
+fonctions électives suivantes : président d'un conseil régional, président d'un conseil général.
+
+Les fonctions de maire sont également incompatibles avec celles de membre de la Commission européenne, membre du directoire
+de la Banque centrale européenne ou membre du conseil de la politique monétaire de la Banque de France.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-426 DC du 30 mars
+2000.]
+
+Tout maire élu à un mandat ou exerçant une fonction le plaçant dans une situation d'incompatibilité prévue par les deuxième à
+quatrième alinéas cesse de ce fait même d'exercer ses fonctions de maire. En cas de contestation, l'incompatibilité prend
+effet à compter de la date à laquelle la décision juridictionnelle confirmant l'élection devient définitive.
 
 **Liens relatifs à cet article**
 
@@ -12821,9 +12866,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 7 ()
 
 _Anciens textes_:
 
@@ -12921,7 +12966,7 @@ _Créé par_:
   - Loi n°98-404 du 25 mai 1998 - art. 9 ()
 
 
-##### Section 2 : Désignation<a id=108></a>
+##### Section 2 : Désignation<a id=110></a>
 
 ###### Article L2122-7
 
@@ -13322,9 +13367,9 @@ _Anciens textes_:
   - Loi n°1884-04-05 art. 84
 
 
-##### Section 3 : Attributions<a id=109></a>
+##### Section 3 : Attributions<a id=111></a>
 
-##### Sous-section 1 : Conditions générales d'exercice.<a id=110></a>
+##### Sous-section 1 : Conditions générales d'exercice.<a id=112></a>
 
 ###### Article L2122-18
 
@@ -13332,18 +13377,27 @@ _Anciens textes_:
 une partie de ses fonctions à un ou plusieurs de ses adjoints et, en l'absence ou en cas d'empêchement des adjoints, à des
 membres du conseil municipal.
 
+Le membre du conseil municipal ayant démissionné de la fonction de maire en application des articles LO 141 du code
+électoral, L. 3122-3, L. 4133-3 du présent code ou de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977 relative à
+l'élection des représentants au Parlement européen ne peut recevoir de délégation jusqu'au terme de son mandat de conseiller
+municipal ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+
 Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, et si celui-ci ne démissionne pas, ces
 délégations peuvent être attribuées à un conseiller municipal, nonobstant les dispositions de l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°77-729 du 7 juillet 1977 - art. 6-2 (Ab)
+
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 9 ()
 
 _Cité par_:
 
@@ -13436,7 +13490,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2511-28 (VD)
 
 
-##### Sous-section 2 : Attributions exercées au nom de la commune.<a id=111></a>
+##### Sous-section 2 : Attributions exercées au nom de la commune.<a id=113></a>
 
 ###### Article L2122-21
 
@@ -13725,7 +13779,7 @@ _Cité par_:
   - Code pénal - art. 432-12 (V)
 
 
-##### Sous-section 3 : Attributions exercées au nom de l'Etat.<a id=112></a>
+##### Sous-section 3 : Attributions exercées au nom de l'Etat.<a id=114></a>
 
 ###### Article L2122-27
 
@@ -13955,7 +14009,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5217-12-1 (MMN)
 
 
-##### Section 4 : Honorariat des maires, maires délégués et adjoints<a id=113></a>
+##### Section 4 : Honorariat des maires, maires délégués et adjoints<a id=115></a>
 
 ###### Article L2122-35
 
@@ -13990,11 +14044,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2572-5 (V)
 
 
-##### CHAPITRE III : Conditions d'exercice des mandats municipaux<a id=114></a>
+##### CHAPITRE III : Conditions d'exercice des mandats municipaux<a id=116></a>
 
-##### Section 1 : Garanties accordées aux titulaires de mandats municipaux<a id=115></a>
+##### Section 1 : Garanties accordées aux titulaires de mandats municipaux<a id=117></a>
 
-##### Sous-section 1 : Garanties accordées dans l'exercice du mandat<a id=116></a>
+##### Sous-section 1 : Garanties accordées dans l'exercice du mandat<a id=118></a>
 
 ###### Article L2123-1
 
@@ -14104,7 +14158,7 @@ _Nouveaux textes_:
 ###### Article L2123-3
 
 - I. - Indépendamment des autorisations d'absence dont ils bénéficient dans les conditions prévues à l'article L. 2123-1, les
-maires, les adjoints et, dans les communes de 100 000 habitants au moins, les conseillers municipaux ont droit à un crédit
+maires, les adjoints et, dans les communes de 3 500 habitants au moins, les conseillers municipaux ont droit à un crédit
 d'heures leur permettant de disposer du temps nécessaire à l'administration de la commune ou de l'organisme auprès duquel ils
 la représentent et à la préparation des réunions des instances où ils siègent.
 
@@ -14118,6 +14172,10 @@ habitants et les adjoints au maire des communes de 10 000 à 29 999 habitants ;
 
 3° A l'équivalent de 60 p. 100 de la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de 100
 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants.
+
+4° A l'équivalent de 40 % de la durée légale du travail pour les conseillers municipaux des communes de 30 000 à 99 999
+habitants, de 30 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 15 % pour les conseillers
+municipaux des communes de 3 500 à 9 999 habitants.
 
 Les heures non utilisées pendant un trimestre ne sont pas reportables.
 
@@ -14133,9 +14191,14 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 2000-04-05 art. 10, 11 jorf 6 avril 2000
+  - Loi n°2000-295 du 5 avril 2000 - art. 10 ()
+
+_Transféré par_:
+
+  - Loi n°2002-276 du 27 février 2002 - art. 66 ()
 
 _Anciens textes_:
 
@@ -14272,7 +14335,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-7 (V)
 
 
-##### Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle<a id=117></a>
+##### Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle<a id=119></a>
 
 ###### Article L2123-7
 
@@ -14350,10 +14413,15 @@ _Cité par_:
 
 ###### Article L2123-9
 
-- Les maires des communes de 10 000 habitants au moins et les adjoints au maire des communes de 30 000 habitants au moins
-qui, pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle bénéficient, s'ils sont salariés, des
-dispositions des articles L. 122-24-2 et L. 122-24-3 du code du travail relatives aux droits des salariés élus membres de
+Les maires, d'une part, ainsi que les adjoints au maire des communes de 20 000 habitants au moins, d'autre part, qui, pour
+l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle, bénéficient, s'ils sont salariés, des
+dispositions des articles L. 122-24-2 et L. 122-24-3 du code du travail (1) relatives aux droits des salariés élus membres de
 l'Assemblée nationale et du Sénat.
+
+**Nota:**
+
+(1) : Les articles L122-24-2 et L122-24-3 de l'ancien code du travail ont été renumérotés dans les articles L3142-60 à
+L3142-64 du nouveau code du travail.
 
 **Liens relatifs à cet article**
 
@@ -14361,9 +14429,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 12 ()
 
 _Anciens textes_:
 
@@ -14386,8 +14454,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail - art. L122-24-2 (M)
-  - Code du travail - art. L122-24-3 (M)
+  - Code du travail - art. L122-24-2 (Ab)
+  - Code du travail - art. L122-24-3 (Ab)
 
 
 ###### Article L2123-10
@@ -14466,7 +14534,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2123-9 (M)
 
 
-##### Section 2 : Droit à la formation<a id=118></a>
+##### Section 2 : Droit à la formation<a id=120></a>
 
 ###### Article L2123-12
 
@@ -14629,9 +14697,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-7 (V)
 
 
-##### Section 3 : Indemnités des titulaires de mandats municipaux<a id=119></a>
+##### Section 3 : Indemnités des titulaires de mandats municipaux<a id=121></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=120></a>
+##### Sous-section 1 : Dispositions générales.<a id=122></a>
 
 ###### Article L2123-17
 
@@ -14658,7 +14726,7 @@ _Anciens textes_:
   - Loi n°1884-04-05 art. 74 (phr 1)
 
 
-##### Sous-section 2 : Frais de mission et de représentation.<a id=121></a>
+##### Sous-section 2 : Frais de mission et de représentation.<a id=123></a>
 
 ###### Article L2123-18
 
@@ -14721,7 +14789,7 @@ _Anciens textes_:
   - Loi n°1884-04-05 art. 74 (phr 3)
 
 
-##### Sous-section 3 : Indemnités de fonction.<a id=122></a>
+##### Sous-section 3 : Indemnités de fonction.<a id=124></a>
 
 ###### Article L2123-20
 
@@ -14881,51 +14949,11 @@ _Cite_:
 
 ###### Article L2123-23
 
-- Les indemnités maximales votées par les conseils municipaux pour l'exercice effectif des fonctions de maire des communes et
-de président de délégations spéciales sont déterminées en appliquant au terme de référence mentionné à l'article L. 2123-20
-le barème suivant :
+Les indemnités maximales pour les fonctions de maire des communes et de président de délégations spéciales prises en compte
+pour l'application des articles L. 2121-28, L. 2123-13, L. 2123-24, L. 5211-12 et L. 5215-16 sont déterminées en appliquant
+au terme de référence mentionné à l'article L. 2123-20 le barème suivant :
 
-POPULATION (habitants)
-
-TAUX MAXIMAL
-
-(en %)
-
-Moins de 500
-
-12 
-
-De     500 à     999
-
-17 
-
-De   1 000 à   3 499
-
-31 
-
-De   3 500 à   9 999
-
-43 
-
-De  10 000 à  19 999
-
-55 
-
-De  20 000 à  49 999
-
-65 
-
-De  50 000 à  99 999
-
-75 
-
-De 100 000 à 200 000
-
-90 
-
-Plus de 200 000
-
-95 
+tableau non reproduit
 
 La population à prendre en compte est la population totale municipale résultant du dernier recensement.
 
@@ -14934,10 +14962,6 @@ La population à prendre en compte est la population totale municipale résultan
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
-
-_Créé par_:
-
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 _Cité par_:
 
@@ -14957,6 +14981,14 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2123-23 (VD)
   - Code général des collectivités territoriales - art. R5211-4 (M)
 
+_Modifié par_:
+
+  - Loi n°2000-295 du 5 avril 2000 - art. 13 ()
+
+_Abrogé par_:
+
+  - Loi n°2002-276 du 27 février 2002 - art. 80 ()
+
 _Anciens textes_:
 
   - CODE DES COMMUNES. - art. L123-5-1 (Ab)
@@ -14964,7 +14996,43 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code général des collectivités territoriales - art. L2121-28 (M)
+  - Code général des collectivités territoriales - art. L2123-13 (M)
   - Code général des collectivités territoriales - art. L2123-20 (M)
+  - Code général des collectivités territoriales - art. L5211-12 (M)
+  - Code général des collectivités territoriales - art. L5215-16 (M)
+
+
+###### Article L2123-23-1
+
+Les indemnités maximales votées par les conseillers municipaux pour l'exercice effectif des fonctions de maire des communes
+et de président de délégations spéciales sont déterminées en appliquant au terme de référence mentionné à l'article L.
+2123-20 le barème suivant :tableau non reproduit
+
+La population à prendre en compte est la population totale municipale du dernier recensement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°2000-295 du 5 avril 2000 - art. 13 ()
+
+_Transféré par_:
+
+  - Loi n°2002-276 du 27 février 2002 - art. 80 ()
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2123-20 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2123-23 (M)
+  - Code général des collectivités territoriales - art. L2123-23 (V)
 
 
 ###### Article L2123-24
@@ -15025,9 +15093,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2123-20 (M)
 
 
-##### Section 4 : Protection sociale<a id=123></a>
+##### Section 4 : Protection sociale<a id=125></a>
 
-##### Sous-section 1 : Sécurité sociale.<a id=124></a>
+##### Sous-section 1 : Sécurité sociale.<a id=126></a>
 
 ###### Article L2123-25
 
@@ -15069,7 +15137,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2123-9 (M)
 
 
-##### Sous-section 2 : Retraite.<a id=125></a>
+##### Sous-section 2 : Retraite.<a id=127></a>
 
 ###### Article L2123-26
 
@@ -15246,7 +15314,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2123-27 (V)
 
 
-##### Section 5 : Responsabilité des communes en cas d'accident<a id=126></a>
+##### Section 5 : Responsabilité des communes en cas d'accident<a id=128></a>
 
 ###### Article L2123-31
 
@@ -15346,7 +15414,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5211-8 (T)
 
 
-##### Section 6 : Responsabilité des élus.<a id=127></a>
+##### Section 6 : Responsabilité des élus.<a id=129></a>
 
 ###### Article L2123-34
 
@@ -15386,7 +15454,7 @@ _Cite_:
   - Code pénal - art. 121-3 (M)
 
 
-##### CHAPITRE IV : Dispositions applicables en période de mobilisation générale et en temps de guerre<a id=128></a>
+##### CHAPITRE IV : Dispositions applicables en période de mobilisation générale et en temps de guerre<a id=130></a>
 
 ###### Article L2124-1
 
@@ -15588,9 +15656,9 @@ _Anciens textes_:
   - Décret n°1939-09-26 art. 3
 
 
-#### TITRE III : ACTES DES AUTORITÉS COMMUNALES ET ACTIONS CONTENTIEUSES<a id=129></a>
+#### TITRE III : ACTES DES AUTORITÉS COMMUNALES ET ACTIONS CONTENTIEUSES<a id=131></a>
 
-##### CHAPITRE Ier : Régime juridique des actes pris par les autorités communales<a id=130></a>
+##### CHAPITRE Ier : Régime juridique des actes pris par les autorités communales<a id=132></a>
 
 ###### Article L2131-1
 
@@ -16112,9 +16180,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1411-9 (V)
 
 
-##### CHAPITRE II : Actions contentieuses de la commune<a id=131></a>
+##### CHAPITRE II : Actions contentieuses de la commune<a id=133></a>
 
-##### Section 1 : Dispositions générales<a id=132></a>
+##### Section 1 : Dispositions générales<a id=134></a>
 
 ###### Article L2132-1
 
@@ -16205,7 +16273,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 2 : Exercice par un contribuable des actions appartenant à la commune<a id=133></a>
+##### Section 2 : Exercice par un contribuable des actions appartenant à la commune<a id=135></a>
 
 ###### Article L2132-5
 
@@ -16283,9 +16351,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE IV : INFORMATION ET PARTICIPATION DES HABITANTS<a id=134></a>
+#### TITRE IV : INFORMATION ET PARTICIPATION DES HABITANTS<a id=136></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=135></a>
+##### CHAPITRE Ier : Dispositions générales<a id=137></a>
 
 ###### Article L2141-1
 
@@ -16316,7 +16384,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-14 (V)
 
 
-##### CHAPITRE II : Participation des habitants à la vie locale.<a id=136></a>
+##### CHAPITRE II : Participation des habitants à la vie locale.<a id=138></a>
 
 ###### Article L2142-1
 
@@ -16522,7 +16590,7 @@ _Anciens textes_:
   - Code des communes L125-7 ecqc la commune
 
 
-##### CHAPITRE III : Dispositions diverses.<a id=137></a>
+##### CHAPITRE III : Dispositions diverses.<a id=139></a>
 
 ###### Article L2143-1
 
@@ -16677,11 +16745,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L1413-1 (M)
 
 
-### LIVRE II : ADMINISTRATION ET SERVICES COMMUNAUX<a id=138></a>
+### LIVRE II : ADMINISTRATION ET SERVICES COMMUNAUX<a id=140></a>
 
-#### TITRE Ier : POLICE<a id=139></a>
+#### TITRE Ier : POLICE<a id=141></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=140></a>
+##### CHAPITRE Ier : Dispositions générales<a id=142></a>
 
 ###### Article L2211-1
 
@@ -16713,7 +16781,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-17 (Ab)
 
 
-##### CHAPITRE II : Police municipale<a id=141></a>
+##### CHAPITRE II : Police municipale<a id=143></a>
 
 ###### Article L2212-1
 
@@ -17127,9 +17195,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L131-2 (Ab)
 
 
-##### CHAPITRE III : Pouvoirs de police portant sur des objets particuliers<a id=142></a>
+##### CHAPITRE III : Pouvoirs de police portant sur des objets particuliers<a id=144></a>
 
-##### Section 1 : Police de la circulation et du stationnement<a id=143></a>
+##### Section 1 : Police de la circulation et du stationnement<a id=145></a>
 
 ###### Article L2213-1
 
@@ -17420,7 +17488,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L2124-13 (V)
 
 
-##### Section 2 : Police des funérailles et des lieux de sépulture<a id=144></a>
+##### Section 2 : Police des funérailles et des lieux de sépulture<a id=146></a>
 
 ###### Article L2213-7
 
@@ -17670,7 +17738,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2521-3 (Ab)
 
 
-##### Section 3 : Police dans les campagnes<a id=145></a>
+##### Section 3 : Police dans les campagnes<a id=147></a>
 
 ###### Article L2213-16
 
@@ -17855,7 +17923,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 4 : Autres polices<a id=146></a>
+##### Section 4 : Autres polices<a id=148></a>
 
 ###### Article L2213-22
 
@@ -18164,7 +18232,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-19 (V)
 
 
-##### CHAPITRE IV : Dispositions applicables dans les communes où la police est étatisée<a id=147></a>
+##### CHAPITRE IV : Dispositions applicables dans les communes où la police est étatisée<a id=149></a>
 
 ###### Article L2214-1
 
@@ -18305,7 +18373,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2213-9 (V)
 
 
-##### CHAPITRE V : Pouvoirs du représentant de l'Etat dans le département<a id=148></a>
+##### CHAPITRE V : Pouvoirs du représentant de l'Etat dans le département<a id=150></a>
 
 ###### Article L2215-1
 
@@ -18539,7 +18607,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2131-5 (V)
 
 
-##### CHAPITRE VI : Responsabilité<a id=149></a>
+##### CHAPITRE VI : Responsabilité<a id=151></a>
 
 ###### Article L2216-1
 
@@ -18635,11 +18703,11 @@ _Nouveaux textes_:
   - Code de la sécurité intérieure - art. L211-10 (VD)
 
 
-#### TITRE II : SERVICES COMMUNAUX<a id=150></a>
+#### TITRE II : SERVICES COMMUNAUX<a id=152></a>
 
-##### CHAPITRE Ier : Régies municipales<a id=151></a>
+##### CHAPITRE Ier : Régies municipales<a id=153></a>
 
-##### Section 1 : Dispositions générales<a id=152></a>
+##### Section 1 : Dispositions générales<a id=154></a>
 
 ###### Article L2221-1
 
@@ -18912,7 +18980,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-24 (V)
 
 
-##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=153></a>
+##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=155></a>
 
 ###### Article L2221-10
 
@@ -18953,7 +19021,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L323-9 (Ab)
 
 
-##### Section 3 : Régies dotées de la seule autonomie financière<a id=154></a>
+##### Section 3 : Régies dotées de la seule autonomie financière<a id=156></a>
 
 ###### Article L2221-11
 
@@ -19087,7 +19155,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2221-67 (V)
 
 
-##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=155></a>
+##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=157></a>
 
 ###### Article L2221-15
 
@@ -19207,7 +19275,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L323-19 (Ab)
 
 
-##### CHAPITRE II : Concessions et affermages<a id=156></a>
+##### CHAPITRE II : Concessions et affermages<a id=158></a>
 
 ###### Article L2222-1
 
@@ -19265,11 +19333,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-8 (T)
 
 
-##### CHAPITRE III : Cimetières et opérations funéraires<a id=157></a>
+##### CHAPITRE III : Cimetières et opérations funéraires<a id=159></a>
 
-##### Section 1 : Cimetières<a id=158></a>
+##### Section 1 : Cimetières<a id=160></a>
 
-##### Sous-section 1 : Dispositions générales<a id=159></a>
+##### Sous-section 1 : Dispositions générales<a id=161></a>
 
 ###### Article L2223-1
 
@@ -19585,7 +19653,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 2 : Concessions<a id=160></a>
+##### Sous-section 2 : Concessions<a id=162></a>
 
 ###### Article L2223-13
 
@@ -19760,9 +19828,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2542-27 (V)
 
 
-##### Section 2 : Opérations funéraires<a id=161></a>
+##### Section 2 : Opérations funéraires<a id=163></a>
 
-##### Sous-section 1 : Service des pompes funèbres<a id=162></a>
+##### Sous-section 1 : Service des pompes funèbres<a id=164></a>
 
 ###### Article L2223-19
 
@@ -20271,7 +20339,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 2 : Réglementation de l'activité des opérateurs participant au service extérieur des pompes funèbres<a id=163></a>
+##### Sous-section 2 : Réglementation de l'activité des opérateurs participant au service extérieur des pompes funèbres<a id=165></a>
 
 ###### Article L2223-31
 
@@ -20379,7 +20447,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2223-35 (V)
 
 
-##### Sous-section 3 : Sanctions pénales<a id=164></a>
+##### Sous-section 3 : Sanctions pénales<a id=166></a>
 
 ###### Article L2223-35
 
@@ -20512,7 +20580,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2223-36 (V)
 
 
-##### Sous-section 4 : Equipements funéraires<a id=165></a>
+##### Sous-section 4 : Equipements funéraires<a id=167></a>
 
 ###### Article L2223-38
 
@@ -20801,7 +20869,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2223-25 (M)
 
 
-##### Sous-section 5 : Dispositions diverses et transitoires<a id=166></a>
+##### Sous-section 5 : Dispositions diverses et transitoires<a id=168></a>
 
 ###### Article L2223-44
 
@@ -20907,9 +20975,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L361-21 (Ab)
 
 
-##### CHAPITRE IV : Services publics industriels et commerciaux<a id=167></a>
+##### CHAPITRE IV : Services publics industriels et commerciaux<a id=169></a>
 
-##### Section 1 : Dispositions générales<a id=168></a>
+##### Section 1 : Dispositions générales<a id=170></a>
 
 ###### Article L2224-1
 
@@ -21156,7 +21224,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2333-122 (Ab)
 
 
-##### Section 2 : Assainissement.<a id=169></a>
+##### Section 2 : Assainissement.<a id=171></a>
 
 ###### Article L2224-7
 
@@ -21427,7 +21495,7 @@ _Cite_:
   - Code de la santé publique - art. L35-5 (M)
 
 
-##### Section 3 : Ordures ménagères et autres déchets<a id=170></a>
+##### Section 3 : Ordures ménagères et autres déchets<a id=172></a>
 
 ###### Article L2224-13
 
@@ -21652,7 +21720,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 4 : Halles, marchés et poids publics<a id=171></a>
+##### Section 4 : Halles, marchés et poids publics<a id=173></a>
 
 ###### Article L2224-18
 
@@ -21959,7 +22027,7 @@ _Cite_:
   - Code de la consommation - art. L213-4 (V)
 
 
-##### Section 5 : Abattoirs.<a id=172></a>
+##### Section 5 : Abattoirs.<a id=174></a>
 
 ###### Article L2224-30
 
@@ -22001,7 +22069,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2224-32 (Ab)
 
 
-##### Section 6 : Distribution et production d'électricité.<a id=173></a>
+##### Section 6 : Distribution et production d'électricité.<a id=175></a>
 
 ###### Article L2224-31
 
@@ -22380,11 +22448,11 @@ _Cité par_:
   - Code de l'énergie - art. L211-4 (V)
 
 
-#### TITRE III : STATIONS CLASSÉES<a id=174></a>
+#### TITRE III : STATIONS CLASSÉES<a id=176></a>
 
-##### CHAPITRE unique<a id=175></a>
+##### CHAPITRE unique<a id=177></a>
 
-##### Section 1 : Définitions.<a id=176></a>
+##### Section 1 : Définitions.<a id=178></a>
 
 ###### Article L2231-1
 
@@ -22507,9 +22575,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 2 : Dispositions communes aux stations classées<a id=177></a>
+##### Section 2 : Dispositions communes aux stations classées<a id=179></a>
 
-##### Sous-section 1 : Classement.<a id=178></a>
+##### Sous-section 1 : Classement.<a id=180></a>
 
 ###### Article L2231-5
 
@@ -22625,7 +22693,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2231-30 (Ab)
 
 
-##### Sous-section 2 : Office du tourisme.<a id=179></a>
+##### Sous-section 2 : Office du tourisme.<a id=181></a>
 
 ###### Article L2231-9
 
@@ -22866,7 +22934,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L142-12 (Ab)
 
 
-##### Section 3 : Dispositions particulières aux stations de tourisme.<a id=180></a>
+##### Section 3 : Dispositions particulières aux stations de tourisme.<a id=182></a>
 
 ###### Article L2231-17
 
@@ -22899,7 +22967,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2231-58 (Ab)
 
 
-##### Section 4 : Dispositions générales.<a id=181></a>
+##### Section 4 : Dispositions générales.<a id=183></a>
 
 ###### Article L2231-18
 
@@ -22929,9 +22997,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE IV : BIENS DE LA COMMUNE<a id=182></a>
+#### TITRE IV : BIENS DE LA COMMUNE<a id=184></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=183></a>
+##### CHAPITRE Ier : Dispositions générales<a id=185></a>
 
 ###### Article L2241-1
 
@@ -23144,7 +23212,7 @@ _Anciens textes_:
   - Loi n°1884-04-05 art. 89 al. 3
 
 
-##### CHAPITRE II : Dons et legs<a id=184></a>
+##### CHAPITRE II : Dons et legs<a id=186></a>
 
 ###### Article L2242-1
 
@@ -23293,7 +23361,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L312-6 (Ab)
 
 
-##### CHAPITRE III : Déclaration de parcelle en état d'abandon<a id=185></a>
+##### CHAPITRE III : Déclaration de parcelle en état d'abandon<a id=187></a>
 
 ###### Article L2243-1
 
@@ -23431,9 +23499,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2243-1-1 (V)
 
 
-#### TITRE V : INTERVENTIONS EN MATIÈRE ÉCONOMIQUE ET SOCIALE<a id=186></a>
+#### TITRE V : INTERVENTIONS EN MATIÈRE ÉCONOMIQUE ET SOCIALE<a id=188></a>
 
-##### CHAPITRE Ier : Aides directes et indirectes.<a id=187></a>
+##### CHAPITRE Ier : Aides directes et indirectes.<a id=189></a>
 
 ###### Article L2251-1
 
@@ -23577,7 +23645,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R1511-42 (V)
 
 
-##### CHAPITRE II : Garanties d'emprunts<a id=188></a>
+##### CHAPITRE II : Garanties d'emprunts<a id=190></a>
 
 ###### Article L2252-1
 
@@ -23714,9 +23782,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-36 (V)
 
 
-##### CHAPITRE III : Participation au capital de sociétés<a id=189></a>
+##### CHAPITRE III : Participation au capital de sociétés<a id=191></a>
 
-##### Section 1 : Dispositions générales<a id=190></a>
+##### Section 1 : Dispositions générales<a id=192></a>
 
 ###### Article L2253-1
 
@@ -23901,7 +23969,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2253-2 (V)
 
 
-##### Section 2 : Participation à des sociétés de garantie<a id=191></a>
+##### Section 2 : Participation à des sociétés de garantie<a id=193></a>
 
 ###### Article L2253-7
 
@@ -23959,11 +24027,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. Rubrique 7 (V)
 
 
-### LIVRE III : FINANCES COMMUNALES<a id=192></a>
+### LIVRE III : FINANCES COMMUNALES<a id=194></a>
 
-#### TITRE Ier : BUDGET ET COMPTES<a id=193></a>
+#### TITRE Ier : BUDGET ET COMPTES<a id=195></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=194></a>
+##### CHAPITRE Ier : Dispositions générales<a id=196></a>
 
 ###### Article L2311-1
 
@@ -24127,7 +24195,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2311-13 (V)
 
 
-##### CHAPITRE II : Adoption du budget<a id=195></a>
+##### CHAPITRE II : Adoption du budget<a id=197></a>
 
 ###### Article L2312-1
 
@@ -24283,7 +24351,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2312-3 (V)
 
 
-##### CHAPITRE III : Publicité des budgets et des comptes<a id=196></a>
+##### CHAPITRE III : Publicité des budgets et des comptes<a id=198></a>
 
 ###### Article L2313-1
 
@@ -24414,9 +24482,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2313-1 (V)
 
 
-#### TITRE II : DÉPENSES<a id=197></a>
+#### TITRE II : DÉPENSES<a id=199></a>
 
-##### CHAPITRE Ier : Dépenses obligatoires<a id=198></a>
+##### CHAPITRE Ier : Dépenses obligatoires<a id=200></a>
 
 ###### Article L2321-1
 
@@ -24657,7 +24725,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE II : Dépenses imprévues<a id=199></a>
+##### CHAPITRE II : Dépenses imprévues<a id=201></a>
 
 ###### Article L2322-1
 
@@ -24723,11 +24791,11 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L221-7 (Ab)
 
 
-#### TITRE III : RECETTES<a id=200></a>
+#### TITRE III : RECETTES<a id=202></a>
 
-##### CHAPITRE Ier : Catégories de recettes<a id=201></a>
+##### CHAPITRE Ier : Catégories de recettes<a id=203></a>
 
-##### Section 1 : Recettes de la section de fonctionnement<a id=202></a>
+##### Section 1 : Recettes de la section de fonctionnement<a id=204></a>
 
 ###### Article L2331-1
 
@@ -24994,7 +25062,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2331-2 (V)
 
 
-##### Section 2 : Recettes de la section d'investissement<a id=203></a>
+##### Section 2 : Recettes de la section d'investissement<a id=205></a>
 
 ###### Article L2331-5
 
@@ -25239,7 +25307,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2331-8 (M)
 
 
-##### Section 3 : Répartition et recouvrement de certaines taxes<a id=204></a>
+##### Section 3 : Répartition et recouvrement de certaines taxes<a id=206></a>
 
 ###### Article L2331-11
 
@@ -25275,7 +25343,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code rural - art. L161-7 (V)
 
 
-##### CHAPITRE II : Contributions et taxes prévues par le code général des impôts<a id=205></a>
+##### CHAPITRE II : Contributions et taxes prévues par le code général des impôts<a id=207></a>
 
 ###### Article L2332-1
 
@@ -25364,9 +25432,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L232-3 (Ab)
 
 
-##### CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts<a id=206></a>
+##### CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts<a id=208></a>
 
-##### Section 1 : Taxe d'usage des abattoirs publics<a id=207></a>
+##### Section 1 : Taxe d'usage des abattoirs publics<a id=209></a>
 
 ###### Article L2333-1
 
@@ -25429,7 +25497,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code rural - art. L654-9 (V)
 
 
-##### Section 2 : Taxe communale sur l'électricité<a id=208></a>
+##### Section 2 : Taxe communale sur l'électricité<a id=210></a>
 
 ###### Article L2333-2
 
@@ -25594,9 +25662,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-4 (V)
 
 
-##### Section 3 : Taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses<a id=209></a>
+##### Section 3 : Taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses<a id=211></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=210></a>
+##### Sous-section 1 : Dispositions générales.<a id=212></a>
 
 ###### Article L2333-6
 
@@ -25635,7 +25703,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L233-15 (Ab)
 
 
-##### Sous-section 2 : Assiette de la taxe et exonérations.<a id=211></a>
+##### Sous-section 2 : Assiette de la taxe et exonérations.<a id=213></a>
 
 ###### Article L2333-7
 
@@ -25761,7 +25829,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-6 (VT)
 
 
-##### Sous-section 3 : Taux de la taxe.<a id=212></a>
+##### Sous-section 3 : Taux de la taxe.<a id=214></a>
 
 ###### Article L2333-10
 
@@ -25860,7 +25928,7 @@ _Cite_:
   - Code général des collectivités territoriales L2333-7, 10
 
 
-##### Sous-section 4 : Paiement et recouvrement de la taxe.<a id=213></a>
+##### Sous-section 4 : Paiement et recouvrement de la taxe.<a id=215></a>
 
 ###### Article L2333-11
 
@@ -25934,7 +26002,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L233-24 (Ab)
 
 
-##### Sous-section 5 : Sanctions applicables.<a id=214></a>
+##### Sous-section 5 : Sanctions applicables.<a id=216></a>
 
 ###### Article L2333-13
 
@@ -26056,7 +26124,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2334-2 (V)
 
 
-##### Section 4 : Taxe sur les véhicules publicitaires.<a id=215></a>
+##### Section 4 : Taxe sur les véhicules publicitaires.<a id=217></a>
 
 ###### Article L2333-17
 
@@ -26187,7 +26255,7 @@ _Cite_:
   - Code général des collectivités territoriales L2333-13 à L2333-16
 
 
-##### Section 5 : Taxe communale sur les emplacements publicitaires fixes.<a id=216></a>
+##### Section 5 : Taxe communale sur les emplacements publicitaires fixes.<a id=218></a>
 
 ###### Article L2333-21
 
@@ -26382,11 +26450,11 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L233-85 (Ab)
 
 
-##### Section 6 : Taxes particulières aux stations<a id=217></a>
+##### Section 6 : Taxes particulières aux stations<a id=219></a>
 
-##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire<a id=218></a>
+##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire<a id=220></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=219></a>
+##### Paragraphe 1 : Dispositions générales.<a id=221></a>
 
 ###### Article L2333-26
 
@@ -26528,7 +26596,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code du tourisme. - art. L422-3 (M)
 
 
-##### Paragraphe 2 : Assiette, tarif et exonération de la taxe de séjour.<a id=220></a>
+##### Paragraphe 2 : Assiette, tarif et exonération de la taxe de séjour.<a id=222></a>
 
 ###### Article L2333-29
 
@@ -26832,7 +26900,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2333-51 (Ab)
 
 
-##### Paragraphe 3 : Recouvrement de la taxe de séjour et pénalités.<a id=221></a>
+##### Paragraphe 3 : Recouvrement de la taxe de séjour et pénalités.<a id=223></a>
 
 ###### Article L2333-37
 
@@ -26986,7 +27054,7 @@ _Anciens textes_:
   - Ordonnance 59-110 1959-01-09 art. 9 par. II
 
 
-##### Paragraphe 4 : Assiette et tarif de la taxe de séjour forfaitaire.<a id=222></a>
+##### Paragraphe 4 : Assiette et tarif de la taxe de séjour forfaitaire.<a id=224></a>
 
 ###### Article L2333-41
 
@@ -27116,7 +27184,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-42 (V)
 
 
-##### Paragraphe 5 : Recouvrement de la taxe de séjour forfaitaire et pénalités.<a id=223></a>
+##### Paragraphe 5 : Recouvrement de la taxe de séjour forfaitaire et pénalités.<a id=225></a>
 
 ###### Article L2333-44
 
@@ -27224,7 +27292,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-45 (Ab)
 
 
-##### Sous-section 2 : Taxe communale sur les entreprises spécialement intéressées à la prospérité de la station.<a id=224></a>
+##### Sous-section 2 : Taxe communale sur les entreprises spécialement intéressées à la prospérité de la station.<a id=226></a>
 
 ###### Article L2333-47
 
@@ -27277,7 +27345,7 @@ _Anciens textes_:
   - Loi n°1942-04-03 art. 5 al. 2
 
 
-##### Sous-section 3 : Taxe communale sur les entreprises exploitant des engins de remontées mécaniques.<a id=225></a>
+##### Sous-section 3 : Taxe communale sur les entreprises exploitant des engins de remontées mécaniques.<a id=227></a>
 
 ###### Article L2333-49
 
@@ -27484,7 +27552,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-52 (M)
 
 
-##### Sous-section 4 : Prélèvement progressif sur le produit des jeux dans les casinos.<a id=226></a>
+##### Sous-section 4 : Prélèvement progressif sur le produit des jeux dans les casinos.<a id=228></a>
 
 ###### Article L2333-54
 
@@ -27657,9 +27725,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-56
 
 
-##### Section 7 : Taxes de trottoirs et de pavage<a id=227></a>
+##### Section 7 : Taxes de trottoirs et de pavage<a id=229></a>
 
-##### Sous-section 1 : Taxe de trottoirs.<a id=228></a>
+##### Sous-section 1 : Taxe de trottoirs.<a id=230></a>
 
 ###### Article L2333-58
 
@@ -27767,7 +27835,7 @@ _Abrogé par_:
   - Loi n°2014-1654 du 29 décembre 2014 - art. 20
 
 
-##### Sous-section 2 : Taxe de pavage.<a id=229></a>
+##### Sous-section 2 : Taxe de pavage.<a id=231></a>
 
 ###### Article L2333-62
 
@@ -27819,7 +27887,7 @@ _Abrogé par_:
   - Loi n°2012-354 du 14 mars 2012 - art. 24 (V)
 
 
-##### Section 8 : Versement destiné aux transports en commun<a id=230></a>
+##### Section 8 : Versement destiné aux transports en commun<a id=232></a>
 
 ###### Article L2333-64
 
@@ -28209,7 +28277,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-64 (V)
 
 
-##### Section 9 : Redevance  pour  l'enlèvement  des  déchets,  ordures  et résidus, redevance d'enlèvement des ordures ménagères sur les terrains de camping et redevance spéciale<a id=231></a>
+##### Section 9 : Redevance  pour  l'enlèvement  des  déchets,  ordures  et résidus, redevance d'enlèvement des ordures ménagères sur les terrains de camping et redevance spéciale<a id=233></a>
 
 ###### Article L2333-76
 
@@ -28394,7 +28462,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-77 (V)
 
 
-##### Section 10 : Redevance d'accès aux pistes de ski de fond balisées.<a id=232></a>
+##### Section 10 : Redevance d'accès aux pistes de ski de fond balisées.<a id=234></a>
 
 ###### Article L2333-81
 
@@ -28493,7 +28561,7 @@ _Créé par_:
   - PILOTE_SUIVEUR: Code du tourisme. - art. L422-8 (V)
 
 
-##### Section 11 : Redevances dues pour le transport et la distribution de l'électricité et de gaz<a id=233></a>
+##### Section 11 : Redevances dues pour le transport et la distribution de l'électricité et de gaz<a id=235></a>
 
 ###### Article L2333-84
 
@@ -28576,11 +28644,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE IV : Dotations et autres recettes réparties par le comité des finances locales<a id=234></a>
+##### CHAPITRE IV : Dotations et autres recettes réparties par le comité des finances locales<a id=236></a>
 
-##### Section 1 : Dotation globale de fonctionnement<a id=235></a>
+##### Section 1 : Dotation globale de fonctionnement<a id=237></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=236></a>
+##### Sous-section 1 : Dispositions générales.<a id=238></a>
 
 ###### Article L2334-1
 
@@ -29064,7 +29132,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2313-2 (M)
 
 
-##### Sous-section 2 : Dotation forfaitaire.<a id=237></a>
+##### Sous-section 2 : Dotation forfaitaire.<a id=239></a>
 
 ###### Article L2334-7
 
@@ -29482,7 +29550,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2574-12 (T)
 
 
-##### Sous-section 3 : Dotation d'aménagement.<a id=238></a>
+##### Sous-section 3 : Dotation d'aménagement.<a id=240></a>
 
 ###### Article L2334-13
 
@@ -29603,7 +29671,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L234-16 (Ab)
 
 
-##### Paragraphe 1 : Dotation de solidarité urbaine.<a id=239></a>
+##### Paragraphe 1 : Dotation de solidarité urbaine.<a id=241></a>
 
 ###### Article L2334-15
 
@@ -29899,7 +29967,7 @@ _Cite_:
   - Code général des collectivités territoriales L2334-15 à L2334-18
 
 
-##### Paragraphe 2 : Dotation de solidarité rurale.<a id=240></a>
+##### Paragraphe 2 : Dotation de solidarité rurale.<a id=242></a>
 
 ###### Article L2334-20
 
@@ -30093,7 +30161,7 @@ _Cite_:
   - Code général des collectivités territoriales L2334-20 à L2334-22
 
 
-##### Section 2 : Répartition du produit des amendes relatives à la circulation routière<a id=241></a>
+##### Section 2 : Répartition du produit des amendes relatives à la circulation routière<a id=243></a>
 
 ###### Article L2334-24
 
@@ -30158,7 +30226,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L234-23 (Ab)
 
 
-##### Section 3 : Dotation spéciale pour le logement des instituteurs<a id=242></a>
+##### Section 3 : Dotation spéciale pour le logement des instituteurs<a id=244></a>
 
 ###### Article L2334-26
 
@@ -30395,7 +30463,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-27 (V)
 
 
-##### Section 4 : Dotation globale d'équipement<a id=243></a>
+##### Section 4 : Dotation globale d'équipement<a id=245></a>
 
 ###### Article L2334-32
 
@@ -30780,9 +30848,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-33 (V)
 
 
-##### CHAPITRE V : Dotations, subventions et fonds divers<a id=244></a>
+##### CHAPITRE V : Dotations, subventions et fonds divers<a id=246></a>
 
-##### Section 1 : Dotation particulière relative aux conditions d'exercice des mandats locaux<a id=245></a>
+##### Section 1 : Dotation particulière relative aux conditions d'exercice des mandats locaux<a id=247></a>
 
 ###### Article L2335-1
 
@@ -30821,7 +30889,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2563-6 (V)
 
 
-##### Section 2 : Subventions de fonctionnement sans affectation spéciale<a id=246></a>
+##### Section 2 : Subventions de fonctionnement sans affectation spéciale<a id=248></a>
 
 ###### Article L2335-2
 
@@ -30937,9 +31005,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 3 : Subventions d'investissement<a id=247></a>
+##### Section 3 : Subventions d'investissement<a id=249></a>
 
-##### Sous-section 1 : Régime des subventions accordées par l'Etat.<a id=248></a>
+##### Sous-section 1 : Régime des subventions accordées par l'Etat.<a id=250></a>
 
 ###### Article L2335-5
 
@@ -30968,7 +31036,7 @@ _Anciens textes_:
   - Décret n°1939-04-21 art. 7
 
 
-##### Sous-section 2 : Majorations de subventions accordées aux communes fusionnées.<a id=249></a>
+##### Sous-section 2 : Majorations de subventions accordées aux communes fusionnées.<a id=251></a>
 
 ###### Article L2335-6
 
@@ -31079,7 +31147,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-55 (V)
 
 
-##### Section 4 : Fonds national pour le développement des adductions d'eau.<a id=250></a>
+##### Section 4 : Fonds national pour le développement des adductions d'eau.<a id=252></a>
 
 ###### Article L2335-9
 
@@ -31314,9 +31382,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2335-13 (M)
 
 
-##### CHAPITRE VI : Avances et emprunts<a id=251></a>
+##### CHAPITRE VI : Avances et emprunts<a id=253></a>
 
-##### Section 1 : Avances<a id=252></a>
+##### Section 1 : Avances<a id=254></a>
 
 ###### Article L2336-1
 
@@ -31422,7 +31490,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L2337-2 (V)
 
 
-##### Section 2 : Recours à l'emprunt<a id=253></a>
+##### Section 2 : Recours à l'emprunt<a id=255></a>
 
 ###### Article L2336-3
 
@@ -31463,9 +31531,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2336-5 (V)
 
 
-#### TITRE IV : COMPTABILITÉ<a id=254></a>
+#### TITRE IV : COMPTABILITÉ<a id=256></a>
 
-##### CHAPITRE Ier : Publicité des comptes de la commune<a id=255></a>
+##### CHAPITRE Ier : Publicité des comptes de la commune<a id=257></a>
 
 ###### Article L2341-1
 
@@ -31500,7 +31568,7 @@ _Anciens textes_:
   - Loi n°1884-04-05 art. 160
 
 
-##### CHAPITRE II : Engagement des dépenses<a id=256></a>
+##### CHAPITRE II : Engagement des dépenses<a id=258></a>
 
 ###### Article L2342-1
 
@@ -31567,7 +31635,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L241-3 bis (Ab)
 
 
-##### CHAPITRE III : Comptabilité du comptable<a id=257></a>
+##### CHAPITRE III : Comptabilité du comptable<a id=259></a>
 
 ###### Article L2343-1
 
@@ -31626,11 +31694,11 @@ _Anciens textes_:
   - Loi n°1941-09-14 art. 8
 
 
-### LIVRE IV : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=258></a>
+### LIVRE IV : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=260></a>
 
-#### TITRE Ier : SECTION DE COMMUNE<a id=259></a>
+#### TITRE Ier : SECTION DE COMMUNE<a id=261></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=260></a>
+##### CHAPITRE Ier : Dispositions générales<a id=262></a>
 
 ###### Article L2411-1
 
@@ -32432,7 +32500,7 @@ _Cite_:
   - Code électoral - art. LO227-2 (V)
 
 
-##### CHAPITRE II : Dispositions financières<a id=261></a>
+##### CHAPITRE II : Dispositions financières<a id=263></a>
 
 ###### Article L2412-1
 
@@ -32504,9 +32572,9 @@ _Cite_:
   - Code forestier - art. L143-1 (V)
 
 
-#### TITRE II : BIENS IMMOBILIERS SOUMIS À UN DROIT DE JOUISSANCE EXCLUSIF<a id=262></a>
+#### TITRE II : BIENS IMMOBILIERS SOUMIS À UN DROIT DE JOUISSANCE EXCLUSIF<a id=264></a>
 
-##### CHAPITRE UNIQUE<a id=263></a>
+##### CHAPITRE UNIQUE<a id=265></a>
 
 ###### Article L2421-1
 
@@ -33148,13 +33216,13 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2421-6 (V)
 
 
-### LIVRE V : DISPOSITIONS PARTICULIÈRES<a id=264></a>
+### LIVRE V : DISPOSITIONS PARTICULIÈRES<a id=266></a>
 
-#### TITRE Ier : PARIS, MARSEILLE ET LYON<a id=265></a>
+#### TITRE Ier : PARIS, MARSEILLE ET LYON<a id=267></a>
 
-##### CHAPITRE Ier : Dispositions communes<a id=266></a>
+##### CHAPITRE Ier : Dispositions communes<a id=268></a>
 
-##### Section 1 : Organisation<a id=267></a>
+##### Section 1 : Organisation<a id=269></a>
 
 ###### Article L2511-1
 
@@ -33206,7 +33274,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 1 : Le conseil d'arrondissement<a id=268></a>
+##### Sous-section 1 : Le conseil d'arrondissement<a id=270></a>
 
 ###### Article L2511-3
 
@@ -34250,7 +34318,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2511-17 (V)
 
 
-##### Sous-section 2 : Le maire d'arrondissement<a id=269></a>
+##### Sous-section 2 : Le maire d'arrondissement<a id=271></a>
 
 ###### Article L2511-25
 
@@ -34533,7 +34601,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2511-23 (V)
 
 
-##### Sous-section 3 : Conditions d'exercice des mandats de maires, d'adjoints au maire, de conseillers municipaux et d'arrondissement<a id=270></a>
+##### Sous-section 3 : Conditions d'exercice des mandats de maires, d'adjoints au maire, de conseillers municipaux et d'arrondissement<a id=272></a>
 
 ###### Article L2511-33
 
@@ -34584,9 +34652,9 @@ _Cite_:
 
 ###### Article L2511-34
 
-- Les indemnités maximales votées par le conseil de Paris et les conseils municipaux de Marseille et de Lyon pour l'exercice
-effectif des fonctions de maire de Paris, Marseille et Lyon sont égales au terme de référence, mentionné au I de l'article L.
-2123-20, majoré de 15 p. 100.
+Les indemnités maximales pour l'exercice des fonctions de maire de Paris, Marseille et Lyon sont, pour l'application des
+deuxième et troisième alinéas du présent article ainsi que pour celle des articles L. 2121-28 et L. 2123-13, égales au terme
+de référence, mentionné au I de l'article L. 2123-20, majoré de 15 %.
 
 Les indemnités votées par le conseil de Paris et les conseils municipaux de Marseille et de Lyon pour l'exercice effectif des
 fonctions d'adjoint au maire et de membre de délégation spéciale faisant fonction d'adjoint sont au maximum égales à 40 p.
@@ -34601,23 +34669,25 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 13 ()
 
 _Anciens textes_:
 
   - CODE DES COMMUNES. - art. L123-8 (M)
   - CODE DES COMMUNES. - art. L123-8 (Ab)
 
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2121-28 (M)
+  - Code général des collectivités territoriales - art. L2123-13 (M)
+  - Code général des collectivités territoriales - art. L2123-20 (M)
+
 _Cité par_:
 
   - Code général des collectivités territoriales - art. L2123-11-2 (VD)
   - Code général des collectivités territoriales - art. L3123-16 (VT)
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2123-20 (M)
 
 
 ###### Article L2511-35
@@ -34643,7 +34713,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 2 : Dispositions financières<a id=271></a>
+##### Section 2 : Dispositions financières<a id=273></a>
 
 ###### Article L2511-36
 
@@ -35016,9 +35086,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2511-41 (V)
 
 
-##### CHAPITRE II : Dispositions spécifiques à la commune de Paris<a id=272></a>
+##### CHAPITRE II : Dispositions spécifiques à la commune de Paris<a id=274></a>
 
-##### Section 1 : Organisation<a id=273></a>
+##### Section 1 : Organisation<a id=275></a>
 
 ###### Article L2512-1
 
@@ -35328,9 +35398,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L184-25 (Ab)
 
 
-##### Section 2 : Attributions<a id=274></a>
+##### Section 2 : Attributions<a id=276></a>
 
-##### Sous-section 1 : Police.<a id=275></a>
+##### Sous-section 1 : Police.<a id=277></a>
 
 ###### Article L2512-13
 
@@ -35506,7 +35576,7 @@ _Cite_:
   - Code de la santé publique - art. L48 (Ab)
 
 
-##### Sous-section 2 : Secours et défense contre l'incendie.<a id=276></a>
+##### Sous-section 2 : Secours et défense contre l'incendie.<a id=278></a>
 
 ###### Article L2512-17
 
@@ -35594,7 +35664,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2512-17 (V)
 
 
-##### Sous-section 3 : Dispositions financières.<a id=277></a>
+##### Sous-section 3 : Dispositions financières.<a id=279></a>
 
 ###### Article L2512-20
 
@@ -35729,9 +35799,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2512-27 (VD)
 
 
-##### CHAPITRE III : Dispositions spécifiques aux communes de Marseille et de Lyon<a id=278></a>
+##### CHAPITRE III : Dispositions spécifiques aux communes de Marseille et de Lyon<a id=280></a>
 
-##### Section 1 : Organisation<a id=279></a>
+##### Section 1 : Organisation<a id=281></a>
 
 ###### Article L2513-1
 
@@ -35776,7 +35846,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 2 : Attributions<a id=280></a>
+##### Section 2 : Attributions<a id=282></a>
 
 ###### Article L2513-3
 
@@ -35807,7 +35877,7 @@ _Anciens textes_:
   - Décret-Loi 1939-07-29 art. 7
 
 
-##### Section 3 : Dispositions financières<a id=281></a>
+##### Section 3 : Dispositions financières<a id=283></a>
 
 ###### Article L2513-4
 
@@ -35863,11 +35933,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE II : COMMUNES DES DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE<a id=282></a>
+#### TITRE II : COMMUNES DES DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE<a id=284></a>
 
-##### CHAPITRE Ier : Attributions<a id=283></a>
+##### CHAPITRE Ier : Attributions<a id=285></a>
 
-##### Section 1 : Police<a id=284></a>
+##### Section 1 : Police<a id=286></a>
 
 ###### Article L2521-1
 
@@ -35933,7 +36003,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L183-2 (Ab)
 
 
-##### Section 2 : Secours et défense contre l'incendie<a id=285></a>
+##### Section 2 : Secours et défense contre l'incendie<a id=287></a>
 
 ###### Article L2521-3
 
@@ -35956,9 +36026,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L393-2 (Ab)
 
 
-##### CHAPITRE II : Dispositions financières<a id=286></a>
+##### CHAPITRE II : Dispositions financières<a id=288></a>
 
-##### Section 1 : Dotation globale d'équipement<a id=287></a>
+##### Section 1 : Dotation globale d'équipement<a id=289></a>
 
 ###### Article L2522-1
 
@@ -35985,7 +36055,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-35 (V)
 
 
-##### Section 2 : Brigade des sapeurs-pompiers de Paris<a id=288></a>
+##### Section 2 : Brigade des sapeurs-pompiers de Paris<a id=290></a>
 
 ###### Article L2522-2
 
@@ -36016,9 +36086,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2522-1 (V)
 
 
-#### TITRE III : COMMUNES DE LA RÉGION D'ILE-DE-FRANCE<a id=289></a>
+#### TITRE III : COMMUNES DE LA RÉGION D'ILE-DE-FRANCE<a id=291></a>
 
-##### CHAPITRE UNIQUE : Dispositions financières<a id=290></a>
+##### CHAPITRE UNIQUE : Dispositions financières<a id=292></a>
 
 ###### Article L2531-1
 
@@ -36045,7 +36115,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-64 (V)
 
 
-##### Section 1 : Versement destiné aux transports en commun<a id=291></a>
+##### Section 1 : Versement destiné aux transports en commun<a id=293></a>
 
 ###### Article L2531-2
 
@@ -36349,7 +36419,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 2 : Fonds de solidarité des communes de la région d'Ile-de-France<a id=292></a>
+##### Section 2 : Fonds de solidarité des communes de la région d'Ile-de-France<a id=294></a>
 
 ###### Article L2531-12
 
@@ -36695,11 +36765,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2531-12 (V)
 
 
-#### TITRE IV : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN<a id=293></a>
+#### TITRE IV : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN<a id=295></a>
 
-##### CHAPITRE Ier : Organisation<a id=294></a>
+##### CHAPITRE Ier : Organisation<a id=296></a>
 
-##### Section 1 : Dispositions générales<a id=295></a>
+##### Section 1 : Dispositions générales<a id=297></a>
 
 ###### Article L2541-1
 
@@ -36744,9 +36814,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2122-28 (V)
 
 
-##### Section 2 : Le conseil municipal<a id=296></a>
+##### Section 2 : Le conseil municipal<a id=298></a>
 
-##### Sous-section 1 : Fonctionnement.<a id=297></a>
+##### Sous-section 1 : Fonctionnement.<a id=299></a>
 
 ###### Article L2541-2
 
@@ -36913,7 +36983,7 @@ _Anciens textes_:
   - Loi locale 1895-06-06 art. 60
 
 
-##### Sous-section 2 : Les membres du conseil municipal.<a id=298></a>
+##### Sous-section 2 : Les membres du conseil municipal.<a id=300></a>
 
 ###### Article L2541-9
 
@@ -36997,7 +37067,7 @@ _Anciens textes_:
   - Loi locale 1895-06-06 art. 62 al. 3 et art. 70 dernier alinéa
 
 
-##### Sous-section 3 : Attributions.<a id=299></a>
+##### Sous-section 3 : Attributions.<a id=301></a>
 
 ###### Article L2541-12
 
@@ -37154,7 +37224,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L181-22 (Ab)
 
 
-##### Sous-section 4 : Régime des délibérations.<a id=300></a>
+##### Sous-section 4 : Régime des délibérations.<a id=302></a>
 
 ###### Article L2541-17
 
@@ -37206,7 +37276,7 @@ _Anciens textes_:
   - Loi locale 1895-06-06 art. 50 al. 3 (phr 2) et art. 70 al. 1 2° d et al. 2
 
 
-##### Section 3 : Le maire<a id=301></a>
+##### Section 3 : Le maire<a id=303></a>
 
 ###### Article L2541-19
 
@@ -37277,7 +37347,7 @@ _Anciens textes_:
   - Loi locale 1895-06-06 art. 20
 
 
-##### Section 4 : Régime juridique des actes pris par les autorités communales et actions contentieuses<a id=302></a>
+##### Section 4 : Régime juridique des actes pris par les autorités communales et actions contentieuses<a id=304></a>
 
 ###### Article L2541-22
 
@@ -37390,9 +37460,9 @@ _Anciens textes_:
   - Loi locale 1895-06-06 art. 19 al. 1
 
 
-##### CHAPITRE II : Administration et services communaux<a id=303></a>
+##### CHAPITRE II : Administration et services communaux<a id=305></a>
 
-##### Section 1 : Police<a id=304></a>
+##### Section 1 : Police<a id=306></a>
 
 ###### Article L2542-1
 
@@ -37761,7 +37831,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 2 : Opérations funéraires<a id=305></a>
+##### Section 2 : Opérations funéraires<a id=307></a>
 
 ###### Article L2542-14
 
@@ -38054,7 +38124,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 3 : Biens de la commune<a id=306></a>
+##### Section 3 : Biens de la commune<a id=308></a>
 
 ###### Article L2542-26
 
@@ -38126,7 +38196,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2542-1 (V)
 
 
-##### Section 4 : Interventions en matière économique et sociale<a id=307></a>
+##### Section 4 : Interventions en matière économique et sociale<a id=309></a>
 
 ###### Article L2542-28
 
@@ -38205,9 +38275,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE III : Dispositions financières<a id=308></a>
+##### CHAPITRE III : Dispositions financières<a id=310></a>
 
-##### Section 1 : Dispositions générales<a id=309></a>
+##### Section 1 : Dispositions générales<a id=311></a>
 
 ###### Article L2543-1
 
@@ -38250,7 +38320,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2343-1 (V)
 
 
-##### Section 2 : Budget<a id=310></a>
+##### Section 2 : Budget<a id=312></a>
 
 ###### Article L2543-2
 
@@ -38288,7 +38358,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2543-1 (V)
 
 
-##### Section 3 : Dépenses<a id=311></a>
+##### Section 3 : Dépenses<a id=313></a>
 
 ###### Article L2543-3
 
@@ -38339,7 +38409,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 4 : Recettes<a id=312></a>
+##### Section 4 : Recettes<a id=314></a>
 
 ###### Article L2543-4
 
@@ -38451,7 +38521,7 @@ _Cite_:
   - Code de l'urbanisme - art. L332-6-1
 
 
-##### Section 5 : Comptabilité<a id=313></a>
+##### Section 5 : Comptabilité<a id=315></a>
 
 ###### Article L2543-8
 
@@ -38519,9 +38589,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L261-14 (Ab)
 
 
-##### CHAPITRE IV : Intérêts propres à certaines catégories d'habitants<a id=314></a>
+##### CHAPITRE IV : Intérêts propres à certaines catégories d'habitants<a id=316></a>
 
-##### Section 1 : Dispositions générales<a id=315></a>
+##### Section 1 : Dispositions générales<a id=317></a>
 
 ###### Article L2544-1
 
@@ -38549,7 +38619,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2412-1 (V)
 
 
-##### Section 2 : Section de commune possédant un patrimoine séparé<a id=316></a>
+##### Section 2 : Section de commune possédant un patrimoine séparé<a id=318></a>
 
 ###### Article L2544-2
 
@@ -38770,7 +38840,7 @@ _Anciens textes_:
   - Loi locale 1897-07-07 art. 6
 
 
-##### Section 3 : Biens communaux et établissements communaux<a id=317></a>
+##### Section 3 : Biens communaux et établissements communaux<a id=319></a>
 
 ###### Article L2544-10
 
@@ -38938,7 +39008,7 @@ _Anciens textes_:
   - Loi locale 1895-06-06 art. 54 al. 9
 
 
-##### Section 4 : Adjudications publiques en matière de biens communaux<a id=318></a>
+##### Section 4 : Adjudications publiques en matière de biens communaux<a id=320></a>
 
 ###### Article L2544-17
 
@@ -38988,9 +39058,9 @@ _Anciens textes_:
   - Loi locale 1895-06-06 art. 21 al. 2
 
 
-#### TITRE V : COMMUNES DES DEPARTEMENTS DE LA HAUTE-CORSE ET DE LA CORSE-DU-SUD<a id=319></a>
+#### TITRE V : COMMUNES DES DEPARTEMENTS DE LA HAUTE-CORSE ET DE LA CORSE-DU-SUD<a id=321></a>
 
-##### CHAPITRE UNIQUE<a id=320></a>
+##### CHAPITRE UNIQUE<a id=322></a>
 
 ###### Article L2551-1
 
@@ -39019,9 +39089,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L234-6 (Ab)
 
 
-#### TITRE VI : COMMUNES DES DÉPARTEMENTS D'OUTRE-MER<a id=321></a>
+#### TITRE VI : COMMUNES DES DÉPARTEMENTS D'OUTRE-MER<a id=323></a>
 
-##### CHAPITRE Ier : Organisation<a id=322></a>
+##### CHAPITRE Ier : Organisation<a id=324></a>
 
 ###### Article L2561-1
 
@@ -39061,7 +39131,7 @@ _Cite_:
   - Code général des collectivités territoriales L2113-1 à L2113-5, L2113-9, L2113-11 à L2113-13, L2113-15, L2113-16, L2113-19, L2113-21 à L2113-25, L2114-1 à L2114-3, L2123-21, L2124-3 à L2124-7
 
 
-##### CHAPITRE II : Attributions.<a id=323></a>
+##### CHAPITRE II : Attributions.<a id=325></a>
 
 ###### Article L2562-1
 
@@ -39089,9 +39159,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2242-4 (V)
 
 
-##### CHAPITRE III : Dispositions financières<a id=324></a>
+##### CHAPITRE III : Dispositions financières<a id=326></a>
 
-##### Section 1 : Dispositions applicables aux communes des départements de Guadeloupe, de Guyane, de Martinique et de la Réunion<a id=325></a>
+##### Section 1 : Dispositions applicables aux communes des départements de Guadeloupe, de Guyane, de Martinique et de la Réunion<a id=327></a>
 
 ###### Article L2563-1
 
@@ -39259,13 +39329,13 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2333-26 (M)
 
 
-## TROISIEME PARTIE : LE DÉPARTEMENT<a id=326></a>
+## TROISIEME PARTIE : LE DÉPARTEMENT<a id=328></a>
 
-### LIVRE Ier : ORGANISATION DU DÉPARTEMENT<a id=327></a>
+### LIVRE Ier : ORGANISATION DU DÉPARTEMENT<a id=329></a>
 
-#### TITRE Ier : NOM ET TERRITOIRE DU DÉPARTEMENT<a id=328></a>
+#### TITRE Ier : NOM ET TERRITOIRE DU DÉPARTEMENT<a id=330></a>
 
-##### CHAPITRE Ier : Nom<a id=329></a>
+##### CHAPITRE Ier : Nom<a id=331></a>
 
 ###### Article L3111-1
 
@@ -39295,7 +39365,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R3111-1 (V)
 
 
-##### CHAPITRE II : Limites territoriales et chef-lieu<a id=330></a>
+##### CHAPITRE II : Limites territoriales et chef-lieu<a id=332></a>
 
 ###### Article L3112-1
 
@@ -39364,7 +39434,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3521-1 (VD)
 
 
-##### CHAPITRE III : Subdivisions du département<a id=331></a>
+##### CHAPITRE III : Subdivisions du département<a id=333></a>
 
 ###### Article L3113-1
 
@@ -39428,11 +39498,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L1615-2 (V)
 
 
-#### TITRE II : ORGANES DU DÉPARTEMENT<a id=332></a>
+#### TITRE II : ORGANES DU DÉPARTEMENT<a id=334></a>
 
-##### CHAPITRE Ier : Le conseil général<a id=333></a>
+##### CHAPITRE Ier : Le conseil général<a id=335></a>
 
-##### Section 1 : Dispositions générales<a id=334></a>
+##### Section 1 : Dispositions générales<a id=336></a>
 
 ###### Article L3121-1
 
@@ -39458,7 +39528,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 2 : Composition<a id=335></a>
+##### Section 2 : Composition<a id=337></a>
 
 ###### Article L3121-2
 
@@ -39485,7 +39555,7 @@ _Cite_:
   - Code électoral - art. L192 (V)
 
 
-##### Section 3 : Démission et dissolution<a id=336></a>
+##### Section 3 : Démission et dissolution<a id=338></a>
 
 ###### Article L3121-3
 
@@ -39621,9 +39691,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3511-1 (V)
 
 
-##### Section 4 : Fonctionnement<a id=337></a>
+##### Section 4 : Fonctionnement<a id=339></a>
 
-##### Sous-section 1 : Siège et règlement intérieur.<a id=338></a>
+##### Sous-section 1 : Siège et règlement intérieur.<a id=340></a>
 
 ###### Article L3121-7
 
@@ -39678,7 +39748,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3571-1 (V)
 
 
-##### Sous-section 2 : Réunion.<a id=339></a>
+##### Sous-section 2 : Réunion.<a id=341></a>
 
 ###### Article L3121-9
 
@@ -39751,7 +39821,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3133-1 (VD)
 
 
-##### Sous-section 3 : Séances.<a id=340></a>
+##### Sous-section 3 : Séances.<a id=342></a>
 
 ###### Article L3121-11
 
@@ -39842,7 +39912,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 4 : Délibérations.<a id=341></a>
+##### Sous-section 4 : Délibérations.<a id=343></a>
 
 ###### Article L3121-14
 
@@ -39967,7 +40037,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 32 (Ab)
 
 
-##### Sous-section 5 : Information.<a id=342></a>
+##### Sous-section 5 : Information.<a id=344></a>
 
 ###### Article L3121-18
 
@@ -40083,7 +40153,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3511-1 (V)
 
 
-##### Sous-section 6 : Commissions - Représentation au sein d'organismes extérieurs.<a id=343></a>
+##### Sous-section 6 : Commissions - Représentation au sein d'organismes extérieurs.<a id=345></a>
 
 ###### Article L3121-22
 
@@ -40161,7 +40231,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 7 : Fonctionnement des groupes d'élus.<a id=344></a>
+##### Sous-section 7 : Fonctionnement des groupes d'élus.<a id=346></a>
 
 ###### Article L3121-24
 
@@ -40206,7 +40276,7 @@ _Anciens textes_:
   - Loi n°96-142 1996-03-02 art. 7 par. I Loi 92-125 1992-02-06 art. 32 bis par. I et II
 
 
-##### Sous-section 8 : Relations avec le représentant de l'Etat.<a id=345></a>
+##### Sous-section 8 : Relations avec le représentant de l'Etat.<a id=347></a>
 
 ###### Article L3121-25
 
@@ -40261,11 +40331,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE II : Le président, la commission permanente et le bureau du conseil général<a id=346></a>
+##### CHAPITRE II : Le président, la commission permanente et le bureau du conseil général<a id=348></a>
 
-##### Section 1 : Le président<a id=347></a>
+##### Section 1 : Le président<a id=349></a>
 
-##### Sous-section 1 : Désignation.<a id=348></a>
+##### Sous-section 1 : Désignation.<a id=350></a>
 
 ###### Article L3122-1
 
@@ -40308,7 +40378,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3532-1 (V)
 
 
-##### Sous-section 2 : Remplacement.<a id=349></a>
+##### Sous-section 2 : Remplacement.<a id=351></a>
 
 ###### Article L3122-2
 
@@ -40353,13 +40423,23 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5913-1 (V)
 
 
-##### Sous-section 3 : Incompatibilités.<a id=350></a>
+##### Sous-section 3 : Incompatibilités.<a id=352></a>
 
 ###### Article L3122-3
 
-- Les fonctions de président de conseil général et de président de conseil régional sont incompatibles.
+Les fonctions de président de conseil général sont incompatibles avec l'exercice d'un mandat de représentant au Parlement
+européen ou d'une des fonctions électives suivantes : président d'un conseil régional, maire.
 
-Tout président d'un conseil général élu président d'un conseil régional cesse de ce fait même d'exercer sa première fonction.
+Les fonctions de président de conseil général sont également incompatibles avec celles de membre de la Commission européenne,
+membre du directoire de la Banque centrale européenne ou membre du Conseil de la politique monétaire de la Banque de France.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-426 DC du 30 mars
+2000.]
+
+Tout président de conseil général élu à un mandat ou exerçant une fonction le plaçant dans une situation d'incompatibilité
+prévue par les trois alinéas précédents cesse de ce fait même d'exercer ses fonctions de président de conseil général. En cas
+de contestation, l'incompatibilité prend effet à compter de la date à laquelle la décision juridictionnelle confirmant
+l'élection devient définitive.
 
 **Liens relatifs à cet article**
 
@@ -40372,9 +40452,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 14 ()
 
 _Cité par_:
 
@@ -40383,7 +40463,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4231-3 (V)
 
 
-##### Section 2 : La commission permanente<a id=351></a>
+##### Section 2 : La commission permanente<a id=353></a>
 
 ###### Article L3122-4
 
@@ -40525,7 +40605,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3121-9 (V)
 
 
-##### Section 3 : Le bureau<a id=352></a>
+##### Section 3 : Le bureau<a id=354></a>
 
 ###### Article L3122-8
 
@@ -40556,11 +40636,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3571-1 (V)
 
 
-##### CHAPITRE III : Conditions d'exercice des mandats départementaux<a id=353></a>
+##### CHAPITRE III : Conditions d'exercice des mandats départementaux<a id=355></a>
 
-##### Section 1 : Garanties accordées aux titulaires de mandats départementaux<a id=354></a>
+##### Section 1 : Garanties accordées aux titulaires de mandats départementaux<a id=356></a>
 
-##### Sous-section 1 : Garanties accordées dans l'exercice du mandat.<a id=355></a>
+##### Sous-section 1 : Garanties accordées dans l'exercice du mandat.<a id=357></a>
 
 ###### Article L3123-1
 
@@ -40728,7 +40808,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 9 (Ab)
 
 
-##### Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle.<a id=356></a>
+##### Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle.<a id=358></a>
 
 ###### Article L3123-5
 
@@ -40908,7 +40988,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3534-3 (M)
 
 
-##### Section 2 : Droit à la formation<a id=357></a>
+##### Section 2 : Droit à la formation<a id=359></a>
 
 ###### Article L3123-10
 
@@ -41066,7 +41146,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1221-1 (V)
 
 
-##### Section 3 : Indemnités des titulaires de mandats départementaux<a id=358></a>
+##### Section 3 : Indemnités des titulaires de mandats départementaux<a id=360></a>
 
 ###### Article L3123-15
 
@@ -41280,9 +41360,9 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 15 (Ab)
 
 
-##### Section 4 : Protection sociale<a id=359></a>
+##### Section 4 : Protection sociale<a id=361></a>
 
-##### Sous-section 1 : Sécurité sociale.<a id=360></a>
+##### Sous-section 1 : Sécurité sociale.<a id=362></a>
 
 ###### Article L3123-20
 
@@ -41316,7 +41396,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 8 (Ab)
 
 
-##### Sous-section 2 : Retraite.<a id=361></a>
+##### Sous-section 2 : Retraite.<a id=363></a>
 
 ###### Article L3123-21
 
@@ -41482,7 +41562,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3123-22 (V)
 
 
-##### Section 5 : Responsabilité du département en cas d'accident<a id=362></a>
+##### Section 5 : Responsabilité du département en cas d'accident<a id=364></a>
 
 ###### Article L3123-26
 
@@ -41548,7 +41628,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3123-26 (V)
 
 
-##### Section 6 : Responsabilité des élus.<a id=363></a>
+##### Section 6 : Responsabilité des élus.<a id=365></a>
 
 ###### Article L3123-28
 
@@ -41580,9 +41660,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3534-1 (M)
 
 
-#### TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DÉPARTEMENTALES<a id=364></a>
+#### TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DÉPARTEMENTALES<a id=366></a>
 
-##### CHAPITRE Ier : Publicité et entrée en vigueur<a id=365></a>
+##### CHAPITRE Ier : Publicité et entrée en vigueur<a id=367></a>
 
 ###### Article L3131-1
 
@@ -41786,7 +41866,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1411-9 (V)
 
 
-##### CHAPITRE II : Contrôle de légalité<a id=366></a>
+##### CHAPITRE II : Contrôle de légalité<a id=368></a>
 
 ###### Article L3132-1
 
@@ -41933,9 +42013,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE IV : RELATIONS ENTRE LE DÉPARTEMENT ET LES SERVICES DE L'ÉTAT<a id=367></a>
+#### TITRE IV : RELATIONS ENTRE LE DÉPARTEMENT ET LES SERVICES DE L'ÉTAT<a id=369></a>
 
-##### CHAPITRE Ier : Services de l'Etat mis à disposition<a id=368></a>
+##### CHAPITRE Ier : Services de l'Etat mis à disposition<a id=370></a>
 
 ###### Article L3141-1
 
@@ -41973,7 +42053,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3571-1 (V)
 
 
-##### CHAPITRE II : Coordination entre les services de l'Etat et les services du département<a id=369></a>
+##### CHAPITRE II : Coordination entre les services de l'Etat et les services du département<a id=371></a>
 
 ###### Article L3142-1
 
@@ -42011,7 +42091,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R3544-1 (VT)
 
 
-##### CHAPITRE III : Responsabilité<a id=370></a>
+##### CHAPITRE III : Responsabilité<a id=372></a>
 
 ###### Article L3143-1
 
@@ -42044,11 +42124,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3571-1 (V)
 
 
-### LIVRE II : ADMINISTRATION ET SERVICES DÉPARTEMENTAUX<a id=371></a>
+### LIVRE II : ADMINISTRATION ET SERVICES DÉPARTEMENTAUX<a id=373></a>
 
-#### TITRE Ier : COMPÉTENCES DU CONSEIL GÉNÉRAL<a id=372></a>
+#### TITRE Ier : COMPÉTENCES DU CONSEIL GÉNÉRAL<a id=374></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=373></a>
+##### CHAPITRE Ier : Dispositions générales<a id=375></a>
 
 ###### Article L3211-1
 
@@ -42120,9 +42200,9 @@ _Cite_:
   - Code général des collectivités territoriales L3312-1, L1612-12 à L1612-15
 
 
-##### CHAPITRE II : Budget, contributions et emprunts<a id=374></a>
+##### CHAPITRE II : Budget, contributions et emprunts<a id=376></a>
 
-##### Section 1 : Budget et contributions<a id=375></a>
+##### Section 1 : Budget et contributions<a id=377></a>
 
 ###### Article L3212-1
 
@@ -42216,7 +42296,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3551-1 (V)
 
 
-##### Section 2 : Emprunts<a id=376></a>
+##### Section 2 : Emprunts<a id=378></a>
 
 ###### Article L3212-4
 
@@ -42256,9 +42336,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE III : Gestion du patrimoine<a id=377></a>
+##### CHAPITRE III : Gestion du patrimoine<a id=379></a>
 
-##### Section 1 : Domaine<a id=378></a>
+##### Section 1 : Domaine<a id=380></a>
 
 ###### Article L3213-1
 
@@ -42349,7 +42429,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L3222-2 (V)
 
 
-##### Section 2 : Voirie<a id=379></a>
+##### Section 2 : Voirie<a id=381></a>
 
 ###### Article L3213-3
 
@@ -42409,7 +42489,7 @@ _Cite_:
   - Code de la voirie routière - art. L153-4 (V)
 
 
-##### Section 3 : Transactions<a id=380></a>
+##### Section 3 : Transactions<a id=382></a>
 
 ###### Article L3213-5
 
@@ -42439,7 +42519,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3551-1 (V)
 
 
-##### Section 4 : Dons et legs<a id=381></a>
+##### Section 4 : Dons et legs<a id=383></a>
 
 ###### Article L3213-6
 
@@ -42473,7 +42553,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 53 (Ab)
 
 
-##### CHAPITRE IV : Action sociale<a id=382></a>
+##### CHAPITRE IV : Action sociale<a id=384></a>
 
 ###### Article L3214-1
 
@@ -42534,7 +42614,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3551-6 (V)
 
 
-##### CHAPITRE V : Travaux<a id=383></a>
+##### CHAPITRE V : Travaux<a id=385></a>
 
 ###### Article L3215-1
 
@@ -42606,7 +42686,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 46 (Ab)
 
 
-##### CHAPITRE VI : Elections.<a id=384></a>
+##### CHAPITRE VI : Elections.<a id=386></a>
 
 ###### Article L3216-1
 
@@ -42637,9 +42717,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3551-1 (M)
 
 
-#### TITRE II : COMPÉTENCES DU PRÉSIDENT DU CONSEIL GÉNÉRAL<a id=385></a>
+#### TITRE II : COMPÉTENCES DU PRÉSIDENT DU CONSEIL GÉNÉRAL<a id=387></a>
 
-##### CHAPITRE UNIQUE<a id=386></a>
+##### CHAPITRE UNIQUE<a id=388></a>
 
 ###### Article L3221-1
 
@@ -42715,8 +42795,13 @@ _Cité par_:
 sa responsabilité, l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de
 ces derniers, à d'autres membres du conseil général. Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
-Il est le chef des services du département. Il peut, sous sa surveillance et sa responsabilité, donner délégation de
-signature en toute matière aux responsables desdits services.
+Le membre du conseil général ayant démissionné de la fonction de président de conseil général en application des articles LO
+141 du code électoral, L. 2122-4, L. 4133-3 du présent code ou de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977
+relative à l'élection des représentants au Parlement européen ne peut recevoir de délégation jusqu'au terme de son mandat de
+conseiller général ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+
+Le président du conseil général est le chef des services du département. Il peut, sous sa surveillance et sa responsabilité,
+donner délégation de signature en toute matière aux responsables desdits services.
 
 **Liens relatifs à cet article**
 
@@ -42730,9 +42815,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 15 ()
 
 _Cité par_:
 
@@ -42996,11 +43081,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE III : INTERVENTIONS ET AIDES DU DÉPARTEMENT<a id=387></a>
+#### TITRE III : INTERVENTIONS ET AIDES DU DÉPARTEMENT<a id=389></a>
 
-##### CHAPITRE Ier : Interventions en matière économique et sociale<a id=388></a>
+##### CHAPITRE Ier : Interventions en matière économique et sociale<a id=390></a>
 
-##### Section 1 : Aides directes et indirectes.<a id=389></a>
+##### Section 1 : Aides directes et indirectes.<a id=391></a>
 
 ###### Article L3231-1
 
@@ -43110,7 +43195,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3231-2 (M)
 
 
-##### Section 2 : Garanties d'emprunts<a id=390></a>
+##### Section 2 : Garanties d'emprunts<a id=392></a>
 
 ###### Article L3231-4
 
@@ -43234,7 +43319,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3553-3 (V)
 
 
-##### Section 3 : Participation au capital de sociétés<a id=391></a>
+##### Section 3 : Participation au capital de sociétés<a id=393></a>
 
 ###### Article L3231-6
 
@@ -43355,9 +43440,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE II : Aides à objet spécifique<a id=392></a>
+##### CHAPITRE II : Aides à objet spécifique<a id=394></a>
 
-##### Section 1 : Aide à l'équipement rural<a id=393></a>
+##### Section 1 : Aide à l'équipement rural<a id=395></a>
 
 ###### Article L3232-1
 
@@ -43396,7 +43481,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1111-5 (V)
 
 
-##### Section 2 : Adductions d'eau, assainissement et électrification.<a id=394></a>
+##### Section 2 : Adductions d'eau, assainissement et électrification.<a id=396></a>
 
 ###### Article L3232-2
 
@@ -43474,7 +43559,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2335-9 (M)
 
 
-##### Section 3 : Aides aux entreprises de spectacle cinématographique<a id=395></a>
+##### Section 3 : Aides aux entreprises de spectacle cinématographique<a id=397></a>
 
 ###### Article L3232-4
 
@@ -43522,7 +43607,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1042 (V)
 
 
-##### CHAPITRE III : Dispositions diverses<a id=396></a>
+##### CHAPITRE III : Dispositions diverses<a id=398></a>
 
 ###### Article L3233-1
 
@@ -43548,9 +43633,9 @@ _Abrogé par_:
   - Loi n°2015-991 du 7 août 2015 - art. 94
 
 
-#### TITRE IV : GESTION DES SERVICES PUBLICS<a id=397></a>
+#### TITRE IV : GESTION DES SERVICES PUBLICS<a id=399></a>
 
-##### CHAPITRE UNIQUE<a id=398></a>
+##### CHAPITRE UNIQUE<a id=400></a>
 
 ###### Article L3241-1
 
@@ -43704,11 +43789,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-### LIVRE III : FINANCES DU DÉPARTEMENT<a id=399></a>
+### LIVRE III : FINANCES DU DÉPARTEMENT<a id=401></a>
 
-#### TITRE Ier : BUDGETS ET COMPTES<a id=400></a>
+#### TITRE Ier : BUDGETS ET COMPTES<a id=402></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=401></a>
+##### CHAPITRE Ier : Dispositions générales<a id=403></a>
 
 ###### Article L3311-1
 
@@ -43734,7 +43819,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 60 (Ab)
 
 
-##### CHAPITRE II : Adoption du budget et règlement des comptes<a id=402></a>
+##### CHAPITRE II : Adoption du budget et règlement des comptes<a id=404></a>
 
 ###### Article L3312-1
 
@@ -43855,7 +43940,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 66 (Ab)
 
 
-##### CHAPITRE III : Publicité des budgets et des comptes<a id=403></a>
+##### CHAPITRE III : Publicité des budgets et des comptes<a id=405></a>
 
 ###### Article L3313-1
 
@@ -43900,9 +43985,9 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 67 (Ab)
 
 
-#### TITRE II : DÉPENSES<a id=404></a>
+#### TITRE II : DÉPENSES<a id=406></a>
 
-##### CHAPITRE Ier : Dépenses obligatoires<a id=405></a>
+##### CHAPITRE Ier : Dépenses obligatoires<a id=407></a>
 
 ###### Article L3321-1
 
@@ -43985,7 +44070,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 61 (Ab)
 
 
-##### CHAPITRE II : Dépenses imprévues<a id=406></a>
+##### CHAPITRE II : Dépenses imprévues<a id=408></a>
 
 ###### Article L3322-1
 
@@ -44011,9 +44096,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2322-1 (V)
 
 
-#### TITRE III : RECETTES<a id=407></a>
+#### TITRE III : RECETTES<a id=409></a>
 
-##### CHAPITRE Ier : Dispositions générales.<a id=408></a>
+##### CHAPITRE Ier : Dispositions générales.<a id=410></a>
 
 ###### Article L3331-1
 
@@ -44048,9 +44133,9 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 63 (Ab)
 
 
-##### CHAPITRE II : Catégories de recettes<a id=409></a>
+##### CHAPITRE II : Catégories de recettes<a id=411></a>
 
-##### Section 1 : Recettes de la section de fonctionnement<a id=410></a>
+##### Section 1 : Recettes de la section de fonctionnement<a id=412></a>
 
 ###### Article L3332-1
 
@@ -44159,7 +44244,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 58 (Ab)
 
 
-##### Section 2 : Recettes de la section d'investissement<a id=411></a>
+##### Section 2 : Recettes de la section d'investissement<a id=413></a>
 
 ###### Article L3332-3
 
@@ -44231,9 +44316,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. LO6473-3 (V)
 
 
-##### CHAPITRE III : Contributions et taxes autres que celles prévues par le code général des impôts<a id=412></a>
+##### CHAPITRE III : Contributions et taxes autres que celles prévues par le code général des impôts<a id=414></a>
 
-##### Section 1 : Taxe additionnelle départementale à la taxe de séjour<a id=413></a>
+##### Section 1 : Taxe additionnelle départementale à la taxe de séjour<a id=415></a>
 
 ###### Article L3333-1
 
@@ -44289,7 +44374,7 @@ _Anciens textes_:
   - Loi n°1927-03-26 art. 108
 
 
-##### Section 2 : Taxe départementale sur l'électricité<a id=414></a>
+##### Section 2 : Taxe départementale sur l'électricité<a id=416></a>
 
 ###### Article L3333-2
 
@@ -44372,7 +44457,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-2 (V)
 
 
-##### Section 3 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique<a id=415></a>
+##### Section 3 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique<a id=417></a>
 
 ###### Article L3333-4
 
@@ -44514,11 +44599,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-52 (V)
 
 
-##### CHAPITRE IV : Concours financiers de l'Etat<a id=416></a>
+##### CHAPITRE IV : Concours financiers de l'Etat<a id=418></a>
 
-##### Section 1 : Dotation globale de fonctionnement<a id=417></a>
+##### Section 1 : Dotation globale de fonctionnement<a id=419></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=418></a>
+##### Sous-section 1 : Dispositions générales.<a id=420></a>
 
 ###### Article L3334-1
 
@@ -44623,7 +44708,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-2 (V)
 
 
-##### Sous-section 2 : Dotation forfaitaire.<a id=419></a>
+##### Sous-section 2 : Dotation forfaitaire.<a id=421></a>
 
 ###### Article L3334-3
 
@@ -44666,7 +44751,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 3 : Dotation de péréquation.<a id=420></a>
+##### Sous-section 3 : Dotation de péréquation.<a id=422></a>
 
 ###### Article L3334-4
 
@@ -44834,7 +44919,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R3443-2-1 (V)
 
 
-##### Sous-section 4 : Concours particuliers<a id=421></a>
+##### Sous-section 4 : Concours particuliers<a id=423></a>
 
 ###### Article L3334-7
 
@@ -44941,7 +45026,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L6473-5 (V)
 
 
-##### Sous-section 5 : Solidarité financière entre les départements.<a id=422></a>
+##### Sous-section 5 : Solidarité financière entre les départements.<a id=424></a>
 
 ###### Article L3334-8
 
@@ -45011,7 +45096,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3334-7 (M)
 
 
-##### Sous-section 6 : Garantie d'évolution.<a id=423></a>
+##### Sous-section 6 : Garantie d'évolution.<a id=425></a>
 
 ###### Article L3334-9
 
@@ -45052,7 +45137,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3334-7 (M)
 
 
-##### Section 2 : Dotation globale d'équipement<a id=424></a>
+##### Section 2 : Dotation globale d'équipement<a id=426></a>
 
 ###### Article L3334-10
 
@@ -45356,7 +45441,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3334-12 (T)
 
 
-##### Section 3 : Dotation départementale d'équipement des collèges<a id=425></a>
+##### Section 3 : Dotation départementale d'équipement des collèges<a id=427></a>
 
 ###### Article L3334-16
 
@@ -45418,7 +45503,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code de l'éducation - art. L213-9 (V)
 
 
-##### CHAPITRE V : Avances et emprunts<a id=426></a>
+##### CHAPITRE V : Avances et emprunts<a id=428></a>
 
 ###### Article L3335-1
 
@@ -45459,9 +45544,9 @@ _Modifié par_:
   - Loi n°99-1126 du 28 décembre 1999 - art. 11 ()
 
 
-#### TITRE IV : COMPTABILITE<a id=427></a>
+#### TITRE IV : COMPTABILITE<a id=429></a>
 
-##### CHAPITRE Ier : Engagement des dépenses<a id=428></a>
+##### CHAPITRE Ier : Engagement des dépenses<a id=430></a>
 
 ###### Article L3341-1
 
@@ -45506,7 +45591,7 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 26 avril 1996 - art. 5 (V)
 
 
-##### CHAPITRE II : Comptable du département<a id=429></a>
+##### CHAPITRE II : Comptable du département<a id=431></a>
 
 ###### Article L3342-1
 
@@ -45568,11 +45653,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3511-1 (V)
 
 
-### LIVRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINS DÉPARTEMENTS<a id=430></a>
+### LIVRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINS DÉPARTEMENTS<a id=432></a>
 
-#### TITRE Ier : DÉPARTEMENT DE PARIS<a id=431></a>
+#### TITRE Ier : DÉPARTEMENT DE PARIS<a id=433></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=432></a>
+##### CHAPITRE Ier : Dispositions générales<a id=434></a>
 
 ###### Article L3411-1
 
@@ -45636,7 +45721,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L222-2 (VD)
 
 
-##### CHAPITRE II : Organisation<a id=433></a>
+##### CHAPITRE II : Organisation<a id=435></a>
 
 ###### Article L3412-1
 
@@ -45686,7 +45771,7 @@ _Abrogé par_:
   - Loi n°2017-257 du 28 février 2017 - art. 7
 
 
-##### CHAPITRE III : Dispositions financières<a id=434></a>
+##### CHAPITRE III : Dispositions financières<a id=436></a>
 
 ###### Article L3413-1
 
@@ -45744,9 +45829,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3334-7-1 (M)
 
 
-#### TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE<a id=435></a>
+#### TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE<a id=437></a>
 
-##### CHAPITRE UNIQUE<a id=436></a>
+##### CHAPITRE UNIQUE<a id=438></a>
 
 ###### Article L3421-1
 
@@ -45800,9 +45885,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5215-20 (VT)
 
 
-#### TITRE III : DÉPARTEMENTS DE LA CORSE-DU-SUD ET DE LA HAUTE-CORSE<a id=437></a>
+#### TITRE III : DÉPARTEMENTS DE LA CORSE-DU-SUD ET DE LA HAUTE-CORSE<a id=439></a>
 
-##### CHAPITRE UNIQUE<a id=438></a>
+##### CHAPITRE UNIQUE<a id=440></a>
 
 ###### Article L3431-1
 
@@ -45855,9 +45940,9 @@ _Cite_:
   - Code des douanes - art. 268 bis (M)
 
 
-#### TITRE IV : DÉPARTEMENTS D'OUTRE-MER<a id=439></a>
+#### TITRE IV : DÉPARTEMENTS D'OUTRE-MER<a id=441></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=440></a>
+##### CHAPITRE Ier : Dispositions générales<a id=442></a>
 
 ###### Article L3441-1
 
@@ -45886,7 +45971,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3334-16-2 (V)
 
 
-##### CHAPITRE II : Organisation<a id=441></a>
+##### CHAPITRE II : Organisation<a id=443></a>
 
 ###### Article L3442-1
 
@@ -45914,7 +45999,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4432-9 (V)
 
 
-##### CHAPITRE III : Dispositions financières<a id=442></a>
+##### CHAPITRE III : Dispositions financières<a id=444></a>
 
 ###### Article L3443-1
 
@@ -45977,13 +46062,13 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3334-16 (M)
 
 
-## QUATRIÈME PARTIE : LA RÉGION<a id=443></a>
+## QUATRIÈME PARTIE : LA RÉGION<a id=445></a>
 
-### LIVRE Ier : ORGANISATION DE LA RÉGION<a id=444></a>
+### LIVRE Ier : ORGANISATION DE LA RÉGION<a id=446></a>
 
-#### TITRE Ier : CRÉATION<a id=445></a>
+#### TITRE Ier : CRÉATION<a id=447></a>
 
-##### CHAPITRE UNIQUE<a id=446></a>
+##### CHAPITRE UNIQUE<a id=448></a>
 
 ###### Article L4111-1
 
@@ -46062,9 +46147,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE II : NOM ET TERRITOIRE DE LA RÉGION<a id=447></a>
+#### TITRE II : NOM ET TERRITOIRE DE LA RÉGION<a id=449></a>
 
-##### CHAPITRE Ier : Nom<a id=448></a>
+##### CHAPITRE Ier : Nom<a id=450></a>
 
 ###### Article L4121-1
 
@@ -46092,9 +46177,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE II : Limites territoriales et chef-lieu<a id=449></a>
+##### CHAPITRE II : Limites territoriales et chef-lieu<a id=451></a>
 
-##### Section 1 : Limites territoriales.<a id=450></a>
+##### Section 1 : Limites territoriales.<a id=452></a>
 
 ###### Article L4122-1
 
@@ -46133,7 +46218,7 @@ _Cité par_:
   - Décret n°2016-1912 du 28 décembre 2016 (V)
 
 
-##### Section 2 : Chef-lieu.<a id=451></a>
+##### Section 2 : Chef-lieu.<a id=453></a>
 
 ###### Article L4122-2
 
@@ -46164,7 +46249,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4122-1 (V)
 
 
-##### CHAPITRE III : Regroupement de régions<a id=452></a>
+##### CHAPITRE III : Regroupement de régions<a id=454></a>
 
 ###### Article L4123-1
 
@@ -46197,9 +46282,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4123-1 (V)
 
 
-#### TITRE III : ORGANES DE LA RÉGION<a id=453></a>
+#### TITRE III : ORGANES DE LA RÉGION<a id=455></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=454></a>
+##### CHAPITRE Ier : Dispositions générales<a id=456></a>
 
 ###### Article L4131-1
 
@@ -46266,9 +46351,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE II : Le conseil régional<a id=455></a>
+##### CHAPITRE II : Le conseil régional<a id=457></a>
 
-##### Section 1 : Composition.<a id=456></a>
+##### Section 1 : Composition.<a id=458></a>
 
 ###### Article L4132-1
 
@@ -46290,7 +46375,7 @@ _Cite_:
   - Code électoral - art. L336 (V)
 
 
-##### Section 2 : Démission et dissolution.<a id=457></a>
+##### Section 2 : Démission et dissolution.<a id=459></a>
 
 ###### Article L4132-2
 
@@ -46384,9 +46469,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 3 : Fonctionnement<a id=458></a>
+##### Section 3 : Fonctionnement<a id=460></a>
 
-##### Sous-section 1 : Siège et règlement intérieur.<a id=459></a>
+##### Sous-section 1 : Siège et règlement intérieur.<a id=461></a>
 
 ###### Article L4132-5
 
@@ -46432,7 +46517,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5621-2 (V)
 
 
-##### Sous-section 2 : Réunions.<a id=460></a>
+##### Sous-section 2 : Réunions.<a id=462></a>
 
 ###### Article L4132-7
 
@@ -46515,7 +46600,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4143-1 (V)
 
 
-##### Sous-section 3 : Séances.<a id=461></a>
+##### Sous-section 3 : Séances.<a id=463></a>
 
 ###### Article L4132-10
 
@@ -46595,7 +46680,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 4 : Délibérations.<a id=462></a>
+##### Sous-section 4 : Délibérations.<a id=464></a>
 
 ###### Article L4132-13
 
@@ -46715,7 +46800,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 5 : Information.<a id=463></a>
+##### Sous-section 5 : Information.<a id=465></a>
 
 ###### Article L4132-17
 
@@ -46819,7 +46904,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 6 : Commissions - Représentation au sein d'organismes extérieurs<a id=464></a>
+##### Sous-section 6 : Commissions - Représentation au sein d'organismes extérieurs<a id=466></a>
 
 ###### Article L4132-21
 
@@ -46895,7 +46980,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 7 : Fonctionnement des groupes d'élus.<a id=465></a>
+##### Sous-section 7 : Fonctionnement des groupes d'élus.<a id=467></a>
 
 ###### Article L4132-23
 
@@ -46939,7 +47024,7 @@ _Modifié par_:
   - Loi n°99-586 du 12 juillet 1999 - art. 76 ()
 
 
-##### Sous-section 8 : Relations avec le représentant de l'Etat.<a id=466></a>
+##### Sous-section 8 : Relations avec le représentant de l'Etat.<a id=468></a>
 
 ###### Article L4132-24
 
@@ -47038,11 +47123,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE III : LE PRÉSIDENT, LA COMMISSION PERMANENTE ET LE BUREAU DU CONSEIL RÉGIONAL<a id=467></a>
+##### CHAPITRE III : LE PRÉSIDENT, LA COMMISSION PERMANENTE ET LE BUREAU DU CONSEIL RÉGIONAL<a id=469></a>
 
-##### Section 1 : Le président<a id=468></a>
+##### Section 1 : Le président<a id=470></a>
 
-##### Sous-section 1 : Désignation.<a id=469></a>
+##### Sous-section 1 : Désignation.<a id=471></a>
 
 ###### Article L4133-1
 
@@ -47085,7 +47170,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5621-3 (V)
 
 
-##### Sous-section 2 : Remplacement.<a id=470></a>
+##### Sous-section 2 : Remplacement.<a id=472></a>
 
 ###### Article L4133-2
 
@@ -47122,13 +47207,24 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4133-5 (V)
 
 
-##### Sous-section 3 : Incompatibilités.<a id=471></a>
+##### Sous-section 3 : Incompatibilités.<a id=473></a>
 
 ###### Article L4133-3
 
-- Les fonctions de président de conseil régional et de président de conseil général sont incompatibles.
+Les fonctions de président de conseil régional sont incompatibles avec l'exercice d'un mandat de représentant au Parlement
+européen ou d'une des fonctions électives suivantes : président d'un conseil général, maire.
 
-Tout président d'un conseil régional élu président d'un conseil général cesse de ce fait même d'exercer sa première fonction.
+Les fonctions de président de conseil régional sont également incompatibles avec celles de membre de la Commission
+européenne, membre du directoire de la Banque centrale européenne ou membre du conseil de la politique monétaire de la Banque
+de France.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-426 DC du 30 mars
+2000.]
+
+Tout président de conseil régional élu à un mandat ou exerçant une fonction le plaçant dans une situation d'incompatibilité
+prévue par les trois alinéas précédents cesse de ce fait même d'exercer ses fonctions de président de conseil régional. En
+cas de contestation, l'incompatibilité prend effet à compter de la date à laquelle la décision juridictionnelle confirmant
+l'élection devient définitive.
 
 **Liens relatifs à cet article**
 
@@ -47141,9 +47237,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 16 ()
 
 _Cité par_:
 
@@ -47153,7 +47249,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. LO6462-8 (V)
 
 
-##### Section 2 : La commission permanente<a id=472></a>
+##### Section 2 : La commission permanente<a id=474></a>
 
 ###### Article L4133-4
 
@@ -47312,7 +47408,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4132-7 (V)
 
 
-##### Section 3 : Le bureau<a id=473></a>
+##### Section 3 : Le bureau<a id=475></a>
 
 ###### Article L4133-8
 
@@ -47338,9 +47434,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4231-3 (V)
 
 
-##### CHAPITRE IV : Le conseil économique et social régional<a id=474></a>
+##### CHAPITRE IV : Le conseil économique et social régional<a id=476></a>
 
-##### Section 1 : Dispositions générales.<a id=475></a>
+##### Section 1 : Dispositions générales.<a id=477></a>
 
 ###### Article L4134-1
 
@@ -47367,7 +47463,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L1 (V)
 
 
-##### Section 2 : Composition.<a id=476></a>
+##### Section 2 : Composition.<a id=478></a>
 
 ###### Article L4134-2
 
@@ -47394,9 +47490,9 @@ _Cité par_:
   - Décret n°2017-1193 du 26 juillet 2017 - art.
 
 
-##### Section 3 : Fonctionnement<a id=477></a>
+##### Section 3 : Fonctionnement<a id=479></a>
 
-##### Sous-section 1 : Sections du conseil économique et social régional.<a id=478></a>
+##### Sous-section 1 : Sections du conseil économique et social régional.<a id=480></a>
 
 ###### Article L4134-3
 
@@ -47422,7 +47518,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 2 : Règlement intérieur.<a id=479></a>
+##### Sous-section 2 : Règlement intérieur.<a id=481></a>
 
 ###### Article L4134-4
 
@@ -47444,7 +47540,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 3 : Moyens de fonctionnement.<a id=480></a>
+##### Sous-section 3 : Moyens de fonctionnement.<a id=482></a>
 
 ###### Article L4134-5
 
@@ -47474,7 +47570,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4134-7-2 (V)
 
 
-##### Section 4 : Garanties et indemnités accordées aux membres du conseil économique et social régional.<a id=481></a>
+##### Section 4 : Garanties et indemnités accordées aux membres du conseil économique et social régional.<a id=483></a>
 
 ###### Article L4134-6
 
@@ -47548,11 +47644,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4135-19 (M)
 
 
-##### CHAPITRE V : Conditions d'exercice des mandats régionaux<a id=482></a>
+##### CHAPITRE V : Conditions d'exercice des mandats régionaux<a id=484></a>
 
-##### Section 1 : Garanties accordées aux titulaires de mandats régionaux<a id=483></a>
+##### Section 1 : Garanties accordées aux titulaires de mandats régionaux<a id=485></a>
 
-##### Sous-section 1 : Garanties accordées dans l'exercice du mandat.<a id=484></a>
+##### Sous-section 1 : Garanties accordées dans l'exercice du mandat.<a id=486></a>
 
 ###### Article L4135-1
 
@@ -47712,7 +47808,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4135-3 (V)
 
 
-##### Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle.<a id=485></a>
+##### Sous-section 2 : Garanties accordées dans l'exercice d'une activité professionnelle.<a id=487></a>
 
 ###### Article L4135-5
 
@@ -47874,7 +47970,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4135-8 (V)
 
 
-##### Section 2 : Droit à la formation.<a id=486></a>
+##### Section 2 : Droit à la formation.<a id=488></a>
 
 ###### Article L4135-10
 
@@ -48020,7 +48116,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1221-1 (V)
 
 
-##### Section 3 : Indemnités des titulaires de mandats régionaux.<a id=487></a>
+##### Section 3 : Indemnités des titulaires de mandats régionaux.<a id=489></a>
 
 ###### Article L4135-15
 
@@ -48219,9 +48315,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4135-22 (V)
 
 
-##### Section 4 : Protection sociale<a id=488></a>
+##### Section 4 : Protection sociale<a id=490></a>
 
-##### Sous-section 1 : Sécurité sociale.<a id=489></a>
+##### Sous-section 1 : Sécurité sociale.<a id=491></a>
 
 ###### Article L4135-20
 
@@ -48253,7 +48349,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4135-21 (VT)
 
 
-##### Sous-section 2 : Retraite.<a id=490></a>
+##### Sous-section 2 : Retraite.<a id=492></a>
 
 ###### Article L4135-21
 
@@ -48407,7 +48503,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4135-22 (V)
 
 
-##### Section 5 : Responsabilité de la région en cas d'accident.<a id=491></a>
+##### Section 5 : Responsabilité de la région en cas d'accident.<a id=493></a>
 
 ###### Article L4135-26
 
@@ -48470,7 +48566,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4135-26 (V)
 
 
-##### Section 6 : Responsabilité des élus.<a id=492></a>
+##### Section 6 : Responsabilité des élus.<a id=494></a>
 
 ###### Article L4135-28
 
@@ -48503,9 +48599,9 @@ _Cite_:
   - Code pénal - art. 121-3 (M)
 
 
-#### TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS RÉGIONALES<a id=493></a>
+#### TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS RÉGIONALES<a id=495></a>
 
-##### CHAPITRE Ier : Publicité et entrée en vigueur<a id=494></a>
+##### CHAPITRE Ier : Publicité et entrée en vigueur<a id=496></a>
 
 ###### Article L4141-1
 
@@ -48704,7 +48800,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1411-9 (V)
 
 
-##### CHAPITRE II : Contrôle de légalité<a id=495></a>
+##### CHAPITRE II : Contrôle de légalité<a id=497></a>
 
 ###### Article L4142-1
 
@@ -48848,9 +48944,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE V : RELATIONS ENTRE LA RÉGION ET LES SERVICES DE L'ÉTAT<a id=496></a>
+#### TITRE V : RELATIONS ENTRE LA RÉGION ET LES SERVICES DE L'ÉTAT<a id=498></a>
 
-##### CHAPITRE Ier : Services de l'Etat mis à disposition<a id=497></a>
+##### CHAPITRE Ier : Services de l'Etat mis à disposition<a id=499></a>
 
 ###### Article L4151-1
 
@@ -48888,7 +48984,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4433-24-2 (Ab)
 
 
-##### CHAPITRE II : Coordination<a id=498></a>
+##### CHAPITRE II : Coordination<a id=500></a>
 
 ###### Article L4152-1
 
@@ -48921,11 +49017,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-### LIVRE II : ATTRIBUTIONS DE LA RÉGION<a id=499></a>
+### LIVRE II : ATTRIBUTIONS DE LA RÉGION<a id=501></a>
 
-#### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=500></a>
+#### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=502></a>
 
-##### CHAPITRE UNIQUE<a id=501></a>
+##### CHAPITRE UNIQUE<a id=503></a>
 
 ###### Article L4211-1
 
@@ -48998,9 +49094,9 @@ _Cite_:
   - Code général des collectivités territoriales L3231-1 à L3231-3, L3231-6, L3232-4
 
 
-#### TITRE II : COMPÉTENCES DU CONSEIL RÉGIONAL<a id=502></a>
+#### TITRE II : COMPÉTENCES DU CONSEIL RÉGIONAL<a id=504></a>
 
-##### CHAPITRE UNIQUE : Dispositions générales<a id=503></a>
+##### CHAPITRE UNIQUE : Dispositions générales<a id=505></a>
 
 ###### Article L4221-1
 
@@ -49186,9 +49282,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1612-15 (V)
 
 
-#### TITRE III : COMPÉTENCES DU PRÉSIDENT DU CONSEIL RÉGIONAL<a id=504></a>
+#### TITRE III : COMPÉTENCES DU PRÉSIDENT DU CONSEIL RÉGIONAL<a id=506></a>
 
-##### CHAPITRE UNIQUE<a id=505></a>
+##### CHAPITRE UNIQUE<a id=507></a>
 
 ###### Article L4231-1
 
@@ -49250,8 +49346,13 @@ _Cité par_:
 sa responsabilité, l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de
 ces derniers, à d'autres membres du conseil régional. Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
-Il est le chef des services de la région. Il peut, sous sa surveillance et sa responsabilité, donner délégation de signature
-en toute matière aux responsables desdits services.
+Le membre du conseil régional ayant démissionné de la fonction de président de conseil régional en application des articles
+LO 141 du code électoral, L. 2122-4, L. 3122-3 du présent code ou de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977
+relative à l'élection des représentants au Parlement européen ne peut recevoir de délégation jusqu'au terme de son mandat de
+conseiller régional ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+
+Le président du conseil régional est le chef des services de la région. Il peut, sous sa surveillance et sa responsabilité,
+donner délégation de signature en toute matière aux responsables desdits services.
 
 **Liens relatifs à cet article**
 
@@ -49263,9 +49364,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 17 ()
 
 _Cité par_:
 
@@ -49375,9 +49476,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4221-5 (V)
 
 
-#### TITRE IV : COMPÉTENCES DU CONSEIL ÉCONOMIQUE ET SOCIAL RÉGIONAL<a id=506></a>
+#### TITRE IV : COMPÉTENCES DU CONSEIL ÉCONOMIQUE ET SOCIAL RÉGIONAL<a id=508></a>
 
-##### CHAPITRE UNIQUE<a id=507></a>
+##### CHAPITRE UNIQUE<a id=509></a>
 
 ###### Article L4241-1
 
@@ -49464,9 +49565,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4241-1 (V)
 
 
-#### TITRE V : ATTRIBUTIONS DE LA RÉGION EN MATIÈRE DE PLANIFICATION ET D'INTERVENTION ÉCONOMIQUE<a id=508></a>
+#### TITRE V : ATTRIBUTIONS DE LA RÉGION EN MATIÈRE DE PLANIFICATION ET D'INTERVENTION ÉCONOMIQUE<a id=510></a>
 
-##### CHAPITRE Ier : Le plan de la région<a id=509></a>
+##### CHAPITRE Ier : Le plan de la région<a id=511></a>
 
 ###### Article L4251-1
 
@@ -49630,7 +49731,7 @@ _Cité par_:
   - Code des transports - art. L1214-7 (V)
 
 
-##### CHAPITRE II : Recherche et développement technologique<a id=510></a>
+##### CHAPITRE II : Recherche et développement technologique<a id=512></a>
 
 ###### Article L4252-1
 
@@ -49735,9 +49836,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE III : Interventions en matière économique et sociale<a id=511></a>
+##### CHAPITRE III : Interventions en matière économique et sociale<a id=513></a>
 
-##### Section 1 : Garanties d'emprunts.<a id=512></a>
+##### Section 1 : Garanties d'emprunts.<a id=514></a>
 
 ###### Article L4253-1
 
@@ -49843,7 +49944,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R1511-38 (V)
 
 
-##### Section 2 : Participation au capital de sociétés.<a id=513></a>
+##### Section 2 : Participation au capital de sociétés.<a id=515></a>
 
 ###### Article L4253-3
 
@@ -49914,9 +50015,9 @@ _Créé par_:
   - Loi n°96-142 du 21 février 1996 - art. 1 (V)
 
 
-#### TITRE VI : GESTION DES SERVICES PUBLICS DE LA RÉGION<a id=514></a>
+#### TITRE VI : GESTION DES SERVICES PUBLICS DE LA RÉGION<a id=516></a>
 
-##### CHAPITRE UNIQUE<a id=515></a>
+##### CHAPITRE UNIQUE<a id=517></a>
 
 ###### Article L4261-1
 
@@ -49939,11 +50040,11 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-### LIVRE III : FINANCES DE LA RÉGION<a id=516></a>
+### LIVRE III : FINANCES DE LA RÉGION<a id=518></a>
 
-#### TITRE Ier : BUDGETS ET COMPTES<a id=517></a>
+#### TITRE Ier : BUDGETS ET COMPTES<a id=519></a>
 
-##### CHAPITRE Ier : Adoption du budget et règlement des comptes<a id=518></a>
+##### CHAPITRE Ier : Adoption du budget et règlement des comptes<a id=520></a>
 
 ###### Article L4311-1
 
@@ -50198,7 +50299,7 @@ _Abrogé par_:
   - Ordonnance n°2009-1400 du 17 novembre 2009 - art. 5
 
 
-##### CHAPITRE II : Publicité des budgets et des comptes<a id=519></a>
+##### CHAPITRE II : Publicité des budgets et des comptes<a id=521></a>
 
 ###### Article L4312-1
 
@@ -50242,9 +50343,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2313-1 (M)
 
 
-#### TITRE II : DÉPENSES<a id=520></a>
+#### TITRE II : DÉPENSES<a id=522></a>
 
-##### CHAPITRE Ier : Dépenses obligatoires<a id=521></a>
+##### CHAPITRE Ier : Dépenses obligatoires<a id=523></a>
 
 ###### Article L4321-1
 
@@ -50298,7 +50399,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4135-9 (V)
 
 
-##### CHAPITRE II : Dépenses imprévues<a id=522></a>
+##### CHAPITRE II : Dépenses imprévues<a id=524></a>
 
 ###### Article L4322-1
 
@@ -50327,9 +50428,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2322-1 (V)
 
 
-#### TITRE III : RECETTES<a id=523></a>
+#### TITRE III : RECETTES<a id=525></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=524></a>
+##### CHAPITRE Ier : Dispositions générales<a id=526></a>
 
 ###### Article L4331-1
 
@@ -50446,9 +50547,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. LO6473-3 (V)
 
 
-##### CHAPITRE II : Modalités particulières de financement<a id=525></a>
+##### CHAPITRE II : Modalités particulières de financement<a id=527></a>
 
-##### Section 1 : Fonds régional de l'apprentissage et de la formation professionnelle continue.<a id=526></a>
+##### Section 1 : Fonds régional de l'apprentissage et de la formation professionnelle continue.<a id=528></a>
 
 ###### Article L4332-1
 
@@ -50562,7 +50663,7 @@ _Cité par_:
   - Code de l'éducation - art. L214-15 (M)
 
 
-##### Section 2 : Dotation régionale d'équipement scolaire.<a id=527></a>
+##### Section 2 : Dotation régionale d'équipement scolaire.<a id=529></a>
 
 ###### Article L4332-3
 
@@ -50615,7 +50716,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code de l'éducation - art. L214-11 (V)
 
 
-##### Section 3 : Fonds de correction des déséquilibres régionaux.<a id=528></a>
+##### Section 3 : Fonds de correction des déséquilibres régionaux.<a id=530></a>
 
 ###### Article L4332-4
 
@@ -50923,7 +51024,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4332-7 (M)
 
 
-##### CHAPITRE III : Avances et emprunts<a id=529></a>
+##### CHAPITRE III : Avances et emprunts<a id=531></a>
 
 ###### Article L4333-1
 
@@ -50944,9 +51045,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2336-1 (V)
 
 
-#### TITRE IV : COMPTABILITÉ<a id=530></a>
+#### TITRE IV : COMPTABILITÉ<a id=532></a>
 
-##### CHAPITRE UNIQUE  : Engagement des dépenses<a id=531></a>
+##### CHAPITRE UNIQUE  : Engagement des dépenses<a id=533></a>
 
 ###### Article L4341-1
 
@@ -50977,11 +51078,11 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 26 avril 1996 - art. 5 (V)
 
 
-### LIVRE IV : RÉGIONS À STATUT PARTICULIER ET COLLECTIVITÉ TERRITORIALE DE CORSE<a id=532></a>
+### LIVRE IV : RÉGIONS À STATUT PARTICULIER ET COLLECTIVITÉ TERRITORIALE DE CORSE<a id=534></a>
 
-#### TITRE Ier : LA RÉGION D'ILE-DE-FRANCE<a id=533></a>
+#### TITRE Ier : LA RÉGION D'ILE-DE-FRANCE<a id=535></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=534></a>
+##### CHAPITRE Ier : Dispositions générales<a id=536></a>
 
 ###### Article L4411-1
 
@@ -51009,7 +51110,7 @@ _Cité par_:
   - Code de justice administrative - art. L554-1 (VD)
 
 
-##### CHAPITRE II : Organes<a id=535></a>
+##### CHAPITRE II : Organes<a id=537></a>
 
 ###### Article L4412-1
 
@@ -51031,9 +51132,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE III : Attributions<a id=536></a>
+##### CHAPITRE III : Attributions<a id=538></a>
 
-##### Section 1 : Equipements collectifs.<a id=537></a>
+##### Section 1 : Equipements collectifs.<a id=539></a>
 
 ###### Article L4413-1
 
@@ -51067,7 +51168,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4413-1 (V)
 
 
-##### Section 2 : Espaces verts.<a id=538></a>
+##### Section 2 : Espaces verts.<a id=540></a>
 
 ###### Article L4413-2
 
@@ -51109,7 +51210,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4413-12 (V)
 
 
-##### Section 3 : Transports.<a id=539></a>
+##### Section 3 : Transports.<a id=541></a>
 
 ###### Article L4413-3
 
@@ -51146,9 +51247,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE IV : Dispositions financières<a id=540></a>
+##### CHAPITRE IV : Dispositions financières<a id=542></a>
 
-##### Section 1 : Recettes fiscales.<a id=541></a>
+##### Section 1 : Recettes fiscales.<a id=543></a>
 
 ###### Article L4414-1
 
@@ -51214,7 +51315,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1640 B (V)
 
 
-##### Section 2 : Autres ressources.<a id=542></a>
+##### Section 2 : Autres ressources.<a id=544></a>
 
 ###### Article L4414-3
 
@@ -51373,7 +51474,7 @@ _Cité par_:
   - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
 
 
-##### Section 3 : Dispositions diverses.<a id=543></a>
+##### Section 3 : Dispositions diverses.<a id=545></a>
 
 ###### Article L4414-8
 
@@ -51396,9 +51497,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE II : LA COLLECTIVITÉ TERRITORIALE DE CORSE<a id=544></a>
+#### TITRE II : LA COLLECTIVITÉ TERRITORIALE DE CORSE<a id=546></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=545></a>
+##### CHAPITRE Ier : Dispositions générales<a id=547></a>
 
 ###### Article L4421-1
 
@@ -51457,7 +51558,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE II : Organisation<a id=546></a>
+##### CHAPITRE II : Organisation<a id=548></a>
 
 ###### Article L4422-1
 
@@ -51480,9 +51581,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 1 : L'Assemblée de Corse<a id=547></a>
+##### Section 1 : L'Assemblée de Corse<a id=549></a>
 
-##### Sous-section 1 : Composition.<a id=548></a>
+##### Sous-section 1 : Composition.<a id=550></a>
 
 ###### Article L4422-2
 
@@ -51504,7 +51605,7 @@ _Cite_:
   - Code électoral - art. L364 (V)
 
 
-##### Sous-section 2 : Fonctionnement.<a id=549></a>
+##### Sous-section 2 : Fonctionnement.<a id=551></a>
 
 ###### Article L4422-3
 
@@ -51914,9 +52015,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4422-14 (V)
 
 
-##### Section 2 : Le conseil exécutif et le président du conseil exécutif<a id=550></a>
+##### Section 2 : Le conseil exécutif et le président du conseil exécutif<a id=552></a>
 
-##### Sous-section 1 : Election et composition.<a id=551></a>
+##### Sous-section 1 : Election et composition.<a id=553></a>
 
 ###### Article L4422-14
 
@@ -51974,6 +52075,10 @@ _Nouveaux textes_:
 
 - Le conseil exécutif est composé d'un président assisté de six conseillers exécutifs.
 
+Pour l'application de l'ensemble des dispositions instituant les incompatibilités entre certains mandats électoraux ou
+fonctions électives, les fonctions de président du conseil exécutif de Corse sont assimilées à celles de président d'un
+conseil régional.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -51985,12 +52090,17 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°2000-295 du 5 avril 2000 - art. 18 ()
+
+_Transféré par_:
+
+  - Loi n°2002-92 du 22 janvier 2002 - art. 3 ()
 
 _Nouveaux textes_:
 
+  - Code général des collectivités territoriales - art. L4422-19 (T)
   - Code général des collectivités territoriales - art. L4422-19 (V)
 
 
@@ -52075,7 +52185,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4422-4 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux membres du conseil exécutif.<a id=552></a>
+##### Sous-section 2 : Dispositions relatives aux membres du conseil exécutif.<a id=554></a>
 
 ###### Article L4422-18
 
@@ -52123,7 +52233,31 @@ _Cite_:
   - Code général des collectivités territoriales L4135-1 à L4135-28
 
 
-##### Section 3 : Rapports entre l'Assemblée et le conseil exécutif<a id=553></a>
+###### Article L4422-18-1
+
+Pour l'application de l'ensemble des dispositions instituant les incompatibilités entre certains mandats électoraux ou
+fonctions électives, les fonctions de membre du conseil exécutif de Corse sont assimilées au mandat de conseiller régional.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°2000-295 du 5 avril 2000 - art. 19 ()
+
+_Transféré par_:
+
+  - Loi n°2002-92 du 22 janvier 2002 - art. 3 ()
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L4422-23 (V)
+
+
+##### Section 3 : Rapports entre l'Assemblée et le conseil exécutif<a id=555></a>
 
 ###### Article L4422-19
 
@@ -52303,7 +52437,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4424-7 (M)
 
 
-##### Section 4 : Le conseil économique, social et culturel de Corse<a id=554></a>
+##### Section 4 : Le conseil économique, social et culturel de Corse<a id=556></a>
 
 ###### Article L4422-23
 
@@ -52384,7 +52518,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4422-35 (V)
 
 
-##### Section 5 : Le représentant de l'Etat<a id=555></a>
+##### Section 5 : Le représentant de l'Etat<a id=557></a>
 
 ###### Article L4422-25
 
@@ -52580,7 +52714,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4425-7 (T)
 
 
-##### Section 6 : Services et biens de l'Etat mis à disposition de la collectivité territoriale de Corse<a id=556></a>
+##### Section 6 : Services et biens de l'Etat mis à disposition de la collectivité territoriale de Corse<a id=558></a>
 
 ###### Article L4422-31
 
@@ -52636,7 +52770,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4422-44 (V)
 
 
-##### CHAPITRE III : Régime juridique des actes<a id=557></a>
+##### CHAPITRE III : Régime juridique des actes<a id=559></a>
 
 ###### Article L4423-1
 
@@ -52667,9 +52801,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4422-42 (VD)
 
 
-##### CHAPITRE IV : Attributions<a id=558></a>
+##### CHAPITRE IV : Attributions<a id=560></a>
 
-##### Section 1 : Compétences de l'Assemblée de Corse.<a id=559></a>
+##### Section 1 : Compétences de l'Assemblée de Corse.<a id=561></a>
 
 ###### Article L4424-1
 
@@ -52756,7 +52890,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4422-16 (V)
 
 
-##### Section 2 : Compétences du conseil exécutif.<a id=560></a>
+##### Section 2 : Compétences du conseil exécutif.<a id=562></a>
 
 ###### Article L4424-3
 
@@ -52803,7 +52937,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4422-24 (T)
 
 
-##### Section 3 : Compétences du président du conseil exécutif.<a id=561></a>
+##### Section 3 : Compétences du président du conseil exécutif.<a id=563></a>
 
 ###### Article L4424-4
 
@@ -53022,7 +53156,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4422-29 (V)
 
 
-##### Section 4 : Compétences du conseil économique, social et culturel.<a id=562></a>
+##### Section 4 : Compétences du conseil économique, social et culturel.<a id=564></a>
 
 ###### Article L4424-9
 
@@ -53159,9 +53293,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4424-16 (T)
 
 
-##### Section 5 : Attributions de la collectivité territoriale de Corse en matière d'identité culturelle<a id=563></a>
+##### Section 5 : Attributions de la collectivité territoriale de Corse en matière d'identité culturelle<a id=565></a>
 
-##### Sous-section 1 : Education.<a id=564></a>
+##### Sous-section 1 : Education.<a id=566></a>
 
 ###### Article L4424-11
 
@@ -53368,7 +53502,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4424-2 (M)
 
 
-##### Sous-section 2 : Communication, culture et environnement.<a id=565></a>
+##### Sous-section 2 : Communication, culture et environnement.<a id=567></a>
 
 ###### Article L4424-16
 
@@ -53527,9 +53661,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4425-4 (VT)
 
 
-##### Section 6 : Attributions de la collectivité territoriale de Corse en matière de développement économique<a id=566></a>
+##### Section 6 : Attributions de la collectivité territoriale de Corse en matière de développement économique<a id=568></a>
 
-##### Sous-section 1 : Plan et aides.<a id=567></a>
+##### Sous-section 1 : Plan et aides.<a id=569></a>
 
 ###### Article L4424-19
 
@@ -53650,7 +53784,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4424-10 (M)
 
 
-##### Sous-section 2 : Agriculture.<a id=568></a>
+##### Sous-section 2 : Agriculture.<a id=570></a>
 
 ###### Article L4424-22
 
@@ -53702,7 +53836,7 @@ _Cite_:
   - Code rural L112-11 à L112-15
 
 
-##### Sous-section 3 : Tourisme.<a id=569></a>
+##### Sous-section 3 : Tourisme.<a id=571></a>
 
 ###### Article L4424-23
 
@@ -53750,7 +53884,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4424-31 (V)
 
 
-##### Sous-section 4 : Logement.<a id=570></a>
+##### Sous-section 4 : Logement.<a id=572></a>
 
 ###### Article L4424-24
 
@@ -53800,7 +53934,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4424-26 (V)
 
 
-##### Sous-section 5 : Transports.<a id=571></a>
+##### Sous-section 5 : Transports.<a id=573></a>
 
 ###### Article L4424-25
 
@@ -54113,7 +54247,7 @@ _Abrogé par_:
   - PILOTE_SUIVEUR: Code du tourisme. - art. L151-1 (V)
 
 
-##### Sous-section 6 : Formation professionnelle.<a id=572></a>
+##### Sous-section 6 : Formation professionnelle.<a id=574></a>
 
 ###### Article L4424-32
 
@@ -54172,7 +54306,7 @@ _Abrogé par_:
   - PILOTE_SUIVEUR: Code du tourisme. - art. L151-4 (V)
 
 
-##### Sous-section 7 : Energie.<a id=573></a>
+##### Sous-section 7 : Energie.<a id=575></a>
 
 ###### Article L4424-33
 
@@ -54222,7 +54356,7 @@ _Nouveaux textes_:
   - PILOTE_SUIVEUR: Code rural - art. L112-10 (V)
 
 
-##### CHAPITRE V : Dispositions financières<a id=574></a>
+##### CHAPITRE V : Dispositions financières<a id=576></a>
 
 ###### Article L4425-1
 
@@ -54527,7 +54661,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L4425-8 (VT)
 
 
-##### CHAPITRE VI : Dispositions d'application<a id=575></a>
+##### CHAPITRE VI : Dispositions d'application<a id=577></a>
 
 ###### Article L4426-1
 
@@ -54544,9 +54678,9 @@ _Créé par_:
   - Loi n°96-142 du 21 février 1996 - art. 1 (V)
 
 
-#### TITRE III : LES RÉGIONS D'OUTRE-MER<a id=576></a>
+#### TITRE III : LES RÉGIONS D'OUTRE-MER<a id=578></a>
 
-##### CHAPITRE Ier : Dispositions générales<a id=577></a>
+##### CHAPITRE Ier : Dispositions générales<a id=579></a>
 
 ###### Article L4431-1
 
@@ -54582,11 +54716,11 @@ _Cité par_:
   - Code de justice administrative - art. L554-1 (VD)
 
 
-##### CHAPITRE II : Organes<a id=578></a>
+##### CHAPITRE II : Organes<a id=580></a>
 
-##### Section 1 : Le conseil régional<a id=579></a>
+##### Section 1 : Le conseil régional<a id=581></a>
 
-##### Sous-section 1 : Composition.<a id=580></a>
+##### Sous-section 1 : Composition.<a id=582></a>
 
 ###### Article L4432-1
 
@@ -54611,7 +54745,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 2 : Election.<a id=581></a>
+##### Sous-section 2 : Election.<a id=583></a>
 
 ###### Article L4432-2
 
@@ -54633,7 +54767,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 3 : Incompatibilités.<a id=582></a>
+##### Sous-section 3 : Incompatibilités.<a id=584></a>
 
 ###### Article L4432-4
 
@@ -54722,7 +54856,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4432-8 (Ab)
 
 
-##### Sous-section 4 : Indemnités.<a id=583></a>
+##### Sous-section 4 : Indemnités.<a id=585></a>
 
 ###### Article L4432-6
 
@@ -54748,7 +54882,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3123-16 (V)
 
 
-##### Sous-section 5 : Démission.<a id=584></a>
+##### Sous-section 5 : Démission.<a id=586></a>
 
 ###### Article L4432-7
 
@@ -54815,9 +54949,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4432-5
 
 
-##### Section 2 : Le conseil économique et social régional et le conseil de la culture, de l'éducation et de l'environnement<a id=585></a>
+##### Section 2 : Le conseil économique et social régional et le conseil de la culture, de l'éducation et de l'environnement<a id=587></a>
 
-##### Sous-section 1 : Composition.<a id=586></a>
+##### Sous-section 1 : Composition.<a id=588></a>
 
 ###### Article L4432-9
 
@@ -54861,7 +54995,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4135-26 (M)
 
 
-##### Sous-section 2 : Fonctionnement.<a id=587></a>
+##### Sous-section 2 : Fonctionnement.<a id=589></a>
 
 ###### Article L4432-10
 
@@ -54899,9 +55033,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4434-1 (V)
 
 
-##### Section 3 : Autres organismes<a id=588></a>
+##### Section 3 : Autres organismes<a id=590></a>
 
-##### Sous-section 1 : Le centre régional de promotion de la santé.<a id=589></a>
+##### Sous-section 1 : Le centre régional de promotion de la santé.<a id=591></a>
 
 ###### Article L4432-11
 
@@ -54929,7 +55063,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 2 : Le conseil régional de l'habitat.<a id=590></a>
+##### Sous-section 2 : Le conseil régional de l'habitat.<a id=592></a>
 
 ###### Article L4432-12
 
@@ -54953,9 +55087,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE III : Attributions<a id=591></a>
+##### CHAPITRE III : Attributions<a id=593></a>
 
-##### Section 1 : Compétences du conseil régional<a id=592></a>
+##### Section 1 : Compétences du conseil régional<a id=594></a>
 
 ###### Article L4433-1
 
@@ -55068,9 +55202,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 2 : Compétences du conseil économique et social régional et du conseil de la culture, de l'éducation et de l'environnement<a id=593></a>
+##### Section 2 : Compétences du conseil économique et social régional et du conseil de la culture, de l'éducation et de l'environnement<a id=595></a>
 
-##### Sous-section 1 : Le conseil économique et social régional.<a id=594></a>
+##### Sous-section 1 : Le conseil économique et social régional.<a id=596></a>
 
 ###### Article L4433-5
 
@@ -55099,7 +55233,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 2 : Le conseil de la culture, de l'éducation et de l'environnement.<a id=595></a>
+##### Sous-section 2 : Le conseil de la culture, de l'éducation et de l'environnement.<a id=597></a>
 
 ###### Article L4433-6
 
@@ -55128,9 +55262,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 3 : Attributions des régions d'outre-mer en matière de développement économique et d'aménagement du territoire<a id=596></a>
+##### Section 3 : Attributions des régions d'outre-mer en matière de développement économique et d'aménagement du territoire<a id=598></a>
 
-##### Sous-section 1 : Schéma d'aménagement régional.<a id=597></a>
+##### Sous-section 1 : Schéma d'aménagement régional.<a id=599></a>
 
 ###### Article L4433-7
 
@@ -55341,7 +55475,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1614-10 (V)
 
 
-##### Sous-section 2 : Agriculture et forêt.<a id=598></a>
+##### Sous-section 2 : Agriculture et forêt.<a id=600></a>
 
 ###### Article L4433-12
 
@@ -55417,7 +55551,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. L62
 
 
-##### Sous-section 3 : Emploi et formation professionnelle.<a id=599></a>
+##### Sous-section 3 : Emploi et formation professionnelle.<a id=601></a>
 
 ###### Article L4433-14
 
@@ -55448,7 +55582,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 4 : Mise en valeur des ressources de la mer.<a id=600></a>
+##### Sous-section 4 : Mise en valeur des ressources de la mer.<a id=602></a>
 
 ###### Article L4433-15
 
@@ -55527,7 +55661,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 5 : Energie, ressources minières et développement industriel.<a id=601></a>
+##### Sous-section 5 : Energie, ressources minières et développement industriel.<a id=603></a>
 
 ###### Article L4433-17
 
@@ -55595,7 +55729,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 6 : Transports.<a id=602></a>
+##### Sous-section 6 : Transports.<a id=604></a>
 
 ###### Article L4433-20
 
@@ -55655,7 +55789,7 @@ _Cite_:
   - Code du travail - art. L1521-1 (V)
 
 
-##### Sous-section 7 : Logement.<a id=603></a>
+##### Sous-section 7 : Logement.<a id=605></a>
 
 ###### Article L4433-22
 
@@ -55725,9 +55859,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 4 : Actions culturelles<a id=604></a>
+##### Section 4 : Actions culturelles<a id=606></a>
 
-##### Sous-section 1 : Education et recherche.<a id=605></a>
+##### Sous-section 1 : Education et recherche.<a id=607></a>
 
 ###### Article L4433-25
 
@@ -55790,7 +55924,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 2 : Développement culturel.<a id=606></a>
+##### Sous-section 2 : Développement culturel.<a id=608></a>
 
 ###### Article L4433-27
 
@@ -55830,7 +55964,7 @@ _Cité par_:
   - Décret n°99-78 du 5 février 1999 - art. 17 (M)
 
 
-##### Sous-section 3 : Communication audiovisuelle.<a id=607></a>
+##### Sous-section 3 : Communication audiovisuelle.<a id=609></a>
 
 ###### Article L4433-28
 
@@ -55915,7 +56049,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 4 : Environnement et tourisme.<a id=608></a>
+##### Sous-section 4 : Environnement et tourisme.<a id=610></a>
 
 ###### Article L4433-31
 
@@ -55981,7 +56115,7 @@ _Nouveaux textes_:
   - Code du tourisme. - art. L161-1 (VT)
 
 
-##### CHAPITRE IV : Dispositions financières et fiscales<a id=609></a>
+##### CHAPITRE IV : Dispositions financières et fiscales<a id=611></a>
 
 ###### Article L4434-1
 
@@ -56304,7 +56438,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4332-6 (M)
 
 
-##### CHAPITRE V : Dispositions d'application.<a id=610></a>
+##### CHAPITRE V : Dispositions d'application.<a id=612></a>
 
 ###### Article L4435-1
 
@@ -56344,13 +56478,13 @@ _Transféré par_:
   - Loi n°2007-223 du 21 février 2007 - art. 1
 
 
-## CINQUIÈME PARTIE : LA COOPÉRATION LOCALE<a id=611></a>
+## CINQUIÈME PARTIE : LA COOPÉRATION LOCALE<a id=613></a>
 
-### LIVRE Ier : DISPOSITIONS GÉNÉRALES<a id=612></a>
+### LIVRE Ier : DISPOSITIONS GÉNÉRALES<a id=614></a>
 
-#### TITRE UNIQUE<a id=613></a>
+#### TITRE UNIQUE<a id=615></a>
 
-##### CHAPITRE UNIQUE<a id=614></a>
+##### CHAPITRE UNIQUE<a id=616></a>
 
 ###### Article L5111-1
 
@@ -56433,9 +56567,9 @@ _Modifié par_:
   - Loi n°99-586 du 12 juillet 1999 - art. 31 ()
 
 
-### LIVRE II : LA COOPÉRATION INTERCOMMUNALE<a id=615></a>
+### LIVRE II : LA COOPÉRATION INTERCOMMUNALE<a id=617></a>
 
-#### TITRE Ier : ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE<a id=616></a>
+#### TITRE Ier : ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE<a id=618></a>
 
 ###### Article L5210-1
 
@@ -56509,9 +56643,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5832-1 (VD)
 
 
-##### CHAPITRE Ier : Dispositions communes<a id=617></a>
+##### CHAPITRE Ier : Dispositions communes<a id=619></a>
 
-##### Section 1 : Règles générales<a id=618></a>
+##### Section 1 : Règles générales<a id=620></a>
 
 ###### Article L5211-1
 
@@ -56568,9 +56702,12 @@ _Cite_:
 
 ###### Article L5211-2
 
-- Les dispositions du chapitre II du titre II du livre premier de la deuxième partie relatives au maire et aux adjoints sont
+Les dispositions du chapitre II du titre II du livre premier de la deuxième partie relatives au maire et aux adjoints sont
 applicables au président et aux membres de l'organe délibérant des établissements publics de coopération intercommunale, en
-tant qu'elles ne sont pas contraires aux dispositions du présent titre.
+tant qu'elles ne sont pas contraires aux dispositions du présent titre. 
+
+Les dispositions des deuxième à quatrième alinéas de l'article L. 2122-4 ne sont pas applicables au président et aux membres
+de l'organe délibérant des établissements publics de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
@@ -56580,7 +56717,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-586 du 12 juillet 1999 - art. 34 ()
+  - Loi n°2000-295 du 5 avril 2000 - art. 7 ()
 
 _Cité par_:
 
@@ -56594,6 +56731,10 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L165-33 (Ab)
   - CODE DES COMMUNES. - art. L167-5 (Ab)
   - CODE DES COMMUNES. - art. L168-6 (Ab)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2122-4 (V)
 
 
 ###### Article L5211-3
@@ -56655,7 +56796,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5211-1 (V)
 
 
-##### Section 2 : Création<a id=619></a>
+##### Section 2 : Création<a id=621></a>
 
 ###### Article L5211-5
 
@@ -56768,11 +56909,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5212-4 (M)
 
 
-##### Section 3 : Organes et fonctionnement<a id=620></a>
+##### Section 3 : Organes et fonctionnement<a id=622></a>
 
-##### Sous-section 1 : Organes<a id=621></a>
+##### Sous-section 1 : Organes<a id=623></a>
 
-##### Paragraphe 1 : Organe délibérant.<a id=622></a>
+##### Paragraphe 1 : Organe délibérant.<a id=624></a>
 
 ###### Article L5211-6
 
@@ -56906,7 +57047,7 @@ _Cité par_:
   - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
 
 
-##### Paragraphe 2 : Le président.<a id=623></a>
+##### Paragraphe 2 : Le président.<a id=625></a>
 
 ###### Article L5211-9
 
@@ -56976,7 +57117,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2213-17 (M)
 
 
-##### Paragraphe 10 : Le bureau.<a id=624></a>
+##### Paragraphe 10 : Le bureau.<a id=626></a>
 
 ###### Article L5211-10
 
@@ -57043,7 +57184,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L5211-37 (V)
 
 
-##### Sous-section 2 : Fonctionnement.<a id=625></a>
+##### Sous-section 2 : Fonctionnement.<a id=627></a>
 
 ###### Article L5211-11
 
@@ -57099,7 +57240,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-4 (VD)
 
 
-##### Section 4 : Conditions d'exercice des mandats des membres des conseils ou comités.<a id=626></a>
+##### Section 4 : Conditions d'exercice des mandats des membres des conseils ou comités.<a id=628></a>
 
 ###### Article L5211-12
 
@@ -57310,9 +57451,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L5211-44 (V)
 
 
-##### Section 5 : Modifications statutaires<a id=627></a>
+##### Section 5 : Modifications statutaires<a id=629></a>
 
-##### Sous-section 1 : Modifications relatives aux compétences.<a id=628></a>
+##### Sous-section 1 : Modifications relatives aux compétences.<a id=630></a>
 
 ###### Article L5211-16
 
@@ -57434,7 +57575,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L5211-47 (V)
 
 
-##### Sous-section 2 : Modifications relatives au périmètre et à l'organisation.<a id=629></a>
+##### Sous-section 2 : Modifications relatives au périmètre et à l'organisation.<a id=631></a>
 
 ###### Article L5211-18
 
@@ -57637,9 +57778,9 @@ _Cite_:
   - Code général des collectivités territoriales L5211-17 à L5211-19
 
 
-##### Section 6 : Dispositions financières<a id=630></a>
+##### Section 6 : Dispositions financières<a id=632></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=631></a>
+##### Sous-section 1 : Dispositions communes.<a id=633></a>
 
 ###### Article L5211-21
 
@@ -58051,7 +58192,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5722-2-1 (V)
 
 
-##### Sous-section 2 : Etablissements de coopération intercommunale à fiscalité propre.<a id=632></a>
+##### Sous-section 2 : Etablissements de coopération intercommunale à fiscalité propre.<a id=634></a>
 
 ###### Article L5211-28
 
@@ -58382,7 +58523,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L5211-29 (VT)
 
 
-##### Sous-section 2 : Etablissements publics de coopération intercommunale dotés d'une fiscalité propre.<a id=633></a>
+##### Sous-section 2 : Etablissements publics de coopération intercommunale dotés d'une fiscalité propre.<a id=635></a>
 
 ###### Article L5211-31
 
@@ -58626,7 +58767,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5211-36 (M)
 
 
-##### Sous-section 3 : Démocratisation et transparence.<a id=634></a>
+##### Sous-section 3 : Démocratisation et transparence.<a id=636></a>
 
 ###### Article L5211-36
 
@@ -58776,7 +58917,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5832-9 (VT)
 
 
-##### Section 7 : Transformation.<a id=635></a>
+##### Section 7 : Transformation.<a id=637></a>
 
 ###### Article L5211-41
 
@@ -58900,9 +59041,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5216-7 (Ab)
 
 
-##### Section 8 : Commission départementale de la coopération intercommunale<a id=636></a>
+##### Section 8 : Commission départementale de la coopération intercommunale<a id=638></a>
 
-##### Sous-section 1 : Composition.<a id=637></a>
+##### Sous-section 1 : Composition.<a id=639></a>
 
 ###### Article L5211-42
 
@@ -59021,7 +59162,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-42 (V)
 
 
-##### Sous-section 2 : Attributions.<a id=638></a>
+##### Sous-section 2 : Attributions.<a id=640></a>
 
 ###### Article L5211-45
 
@@ -59074,7 +59215,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-5 (V)
 
 
-##### Section 9 : Information et participation des habitants.<a id=639></a>
+##### Section 9 : Information et participation des habitants.<a id=641></a>
 
 ###### Article L5211-46
 
@@ -59388,7 +59529,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-12 (V)
 
 
-##### Section 10 : Dispositions diverses.<a id=640></a>
+##### Section 10 : Dispositions diverses.<a id=642></a>
 
 ###### Article L5211-56
 
@@ -59493,9 +59634,9 @@ _Créé par_:
   - TXT_SOURCE: Décret n°2000-167 du 28 février 2000 - art. 4 (V)
 
 
-##### CHAPITRE II : Syndicat de communes<a id=641></a>
+##### CHAPITRE II : Syndicat de communes<a id=643></a>
 
-##### Section 1 : Création<a id=642></a>
+##### Section 1 : Création<a id=644></a>
 
 ###### Article L5212-1
 
@@ -59613,9 +59754,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L163-18 (Ab)
 
 
-##### Section 2 : Organes<a id=643></a>
+##### Section 2 : Organes<a id=645></a>
 
-##### Sous-section 1 : Le comité du syndicat.<a id=644></a>
+##### Sous-section 1 : Le comité du syndicat.<a id=646></a>
 
 ###### Article L5212-6
 
@@ -59683,7 +59824,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L163-5 (Ab)
 
 
-##### Section 3 : Fonctionnement.<a id=645></a>
+##### Section 3 : Fonctionnement.<a id=647></a>
 
 ###### Article L5212-15
 
@@ -59811,7 +59952,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-16 (V)
 
 
-##### Section 4 : Dispositions financières.<a id=646></a>
+##### Section 4 : Dispositions financières.<a id=648></a>
 
 ###### Article L5212-18
 
@@ -60080,9 +60221,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-20 (V)
 
 
-##### Section 5 : Modification des conditions initiales de composition et de fonctionnement<a id=647></a>
+##### Section 5 : Modification des conditions initiales de composition et de fonctionnement<a id=649></a>
 
-##### Sous-section 3 : Retrait de communes.<a id=648></a>
+##### Sous-section 3 : Retrait de communes.<a id=650></a>
 
 ###### Article L5212-29
 
@@ -60233,7 +60374,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L163-16-2 (Ab)
 
 
-##### Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale.<a id=649></a>
+##### Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale.<a id=651></a>
 
 ###### Article L5212-32
 
@@ -60261,7 +60402,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5212-2 (V)
 
 
-##### Section 6 : Dissolution<a id=650></a>
+##### Section 6 : Dissolution<a id=652></a>
 
 ###### Article L5212-33
 
@@ -60347,9 +60488,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-19 (V)
 
 
-##### CHAPITRE IV : Communauté de communes<a id=651></a>
+##### CHAPITRE IV : Communauté de communes<a id=653></a>
 
-##### Section 1 : Création<a id=652></a>
+##### Section 1 : Création<a id=654></a>
 
 ###### Article L5214-1
 
@@ -60434,9 +60575,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-20 (V)
 
 
-##### Section 2 : Organes<a id=653></a>
+##### Section 2 : Organes<a id=655></a>
 
-##### Sous-section 1 : Le conseil de la communauté de communes.<a id=654></a>
+##### Sous-section 1 : Le conseil de la communauté de communes.<a id=656></a>
 
 ###### Article L5214-7
 
@@ -60507,7 +60648,7 @@ _Cite_:
   - Code général des collectivités territoriales L2123-3 à L2123-5, L2123-7 à L2123-11
 
 
-##### Section 4 : Compétences.<a id=655></a>
+##### Section 4 : Compétences.<a id=657></a>
 
 ###### Article L5214-16
 
@@ -60665,7 +60806,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5214-2 (Ab)
 
 
-##### Section 5 : Dispositions financières.<a id=656></a>
+##### Section 5 : Dispositions financières.<a id=658></a>
 
 ###### Article L5214-23
 
@@ -60798,9 +60939,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2334-17 (VD)
 
 
-##### Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes<a id=657></a>
+##### Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes<a id=659></a>
 
-##### Sous-section 3 : Retrait de communes.<a id=658></a>
+##### Sous-section 3 : Retrait de communes.<a id=660></a>
 
 ###### Article L5214-26
 
@@ -60845,7 +60986,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-25-1 (M)
 
 
-##### Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale.<a id=659></a>
+##### Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale.<a id=661></a>
 
 ###### Article L5214-27
 
@@ -60873,7 +61014,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5214-2 (Ab)
 
 
-##### Section 7 : Dissolution.<a id=660></a>
+##### Section 7 : Dissolution.<a id=662></a>
 
 ###### Article L5214-28
 
@@ -60957,9 +61098,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-24 (V)
 
 
-##### CHAPITRE V : Communauté urbaine<a id=661></a>
+##### CHAPITRE V : Communauté urbaine<a id=663></a>
 
-##### Section 1 : Création.<a id=662></a>
+##### Section 1 : Création.<a id=664></a>
 
 ###### Article L5215-1
 
@@ -61028,9 +61169,9 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L165-38 (Ab)
 
 
-##### Section 2 : Organes<a id=663></a>
+##### Section 2 : Organes<a id=665></a>
 
-##### Sous-section 1 : Le conseil de communauté.<a id=664></a>
+##### Sous-section 1 : Le conseil de communauté.<a id=666></a>
 
 ###### Article L5215-6
 
@@ -61179,7 +61320,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5211-7 (V)
 
 
-##### Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté.<a id=665></a>
+##### Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté.<a id=667></a>
 
 ###### Article L5215-16
 
@@ -61283,9 +61424,9 @@ _Cité par_:
   - Loi n°2012-347 du 12 mars 2012 - art. 15 (V)
 
 
-##### Section 3 : Compétences<a id=666></a>
+##### Section 3 : Compétences<a id=668></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=667></a>
+##### Sous-section 1 : Dispositions générales.<a id=669></a>
 
 ###### Article L5215-19
 
@@ -61308,7 +61449,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L165-24 (Ab)
 
 
-##### Sous-section 2 : Compétences obligatoires.<a id=668></a>
+##### Sous-section 2 : Compétences obligatoires.<a id=670></a>
 
 ###### Article L5215-20
 
@@ -61499,7 +61640,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5215-23 (V)
 
 
-##### Sous-section 3 : Transferts de compétences.<a id=669></a>
+##### Sous-section 3 : Transferts de compétences.<a id=671></a>
 
 ###### Article L5215-21
 
@@ -61661,7 +61802,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Sous-section 4 : Modalités particulières d'intervention.<a id=670></a>
+##### Sous-section 4 : Modalités particulières d'intervention.<a id=672></a>
 
 ###### Article L5215-26
 
@@ -61719,7 +61860,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5216-7-1 (V)
 
 
-##### Sous-section 5 : Transferts de biens, droits et obligations.<a id=671></a>
+##### Sous-section 5 : Transferts de biens, droits et obligations.<a id=673></a>
 
 ###### Article L5215-28
 
@@ -61828,7 +61969,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### Section 4 : Dispositions financières.<a id=672></a>
+##### Section 4 : Dispositions financières.<a id=674></a>
 
 ###### Article L5215-32
 
@@ -62085,9 +62226,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5215-17 (V)
 
 
-##### Section 5 : Modifications<a id=673></a>
+##### Section 5 : Modifications<a id=675></a>
 
-##### Sous-section 1 : Admission de nouvelles communes.<a id=674></a>
+##### Sous-section 1 : Admission de nouvelles communes.<a id=676></a>
 
 ###### Article L5215-40
 
@@ -62123,9 +62264,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5215-1 (Ab)
 
 
-##### Section 3 : Modifications<a id=675></a>
+##### Section 3 : Modifications<a id=677></a>
 
-##### Sous-section 2 : Admission de nouvelles communes<a id=676></a>
+##### Sous-section 2 : Admission de nouvelles communes<a id=678></a>
 
 ###### Article L5215-40-1
 
@@ -62190,7 +62331,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1638 quater (VD)
 
 
-##### Section 6 : Dissolution et transformation.<a id=677></a>
+##### Section 6 : Dissolution et transformation.<a id=679></a>
 
 ###### Article L5215-42
 
@@ -62240,7 +62381,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5217-7 (VT)
 
 
-##### CHAPITRE VI : Communauté d'agglomération<a id=678></a>
+##### CHAPITRE VI : Communauté d'agglomération<a id=680></a>
 
 ###### Article L5216-10
 
@@ -62313,7 +62454,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L168-6 (Ab)
 
 
-##### Section 1 : Création.<a id=679></a>
+##### Section 1 : Création.<a id=681></a>
 
 ###### Article L5216-1
 
@@ -62398,7 +62539,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 nonies C (VT)
 
 
-##### Section 2 : Le conseil de la communauté d'agglomération<a id=680></a>
+##### Section 2 : Le conseil de la communauté d'agglomération<a id=682></a>
 
 ###### Article L5216-3
 
@@ -62442,7 +62583,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-26 (Ab)
 
 
-##### Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération<a id=681></a>
+##### Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération<a id=683></a>
 
 ###### Article L5216-4
 
@@ -62519,7 +62660,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-27 (V)
 
 
-##### Section 4 : Compétences<a id=682></a>
+##### Section 4 : Compétences<a id=684></a>
 
 ###### Article L5216-5
 
@@ -62727,7 +62868,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5711-1 (M)
 
 
-##### Section 5 : Dispositions financières<a id=683></a>
+##### Section 5 : Dispositions financières<a id=685></a>
 
 ###### Article L5216-8
 
@@ -62779,7 +62920,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1640 B (V)
 
 
-##### Section 6 : Dissolution.<a id=684></a>
+##### Section 6 : Dissolution.<a id=686></a>
 
 ###### Article L5216-9
 
@@ -62822,9 +62963,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5842-30 (V)
 
 
-#### TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE<a id=685></a>
+#### TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE<a id=687></a>
 
-##### CHAPITRE Ier : Entente, convention et conférence intercommunales<a id=686></a>
+##### CHAPITRE Ier : Entente, convention et conférence intercommunales<a id=688></a>
 
 ###### Article L5221-1
 
@@ -62893,9 +63034,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2231-16 (Ab)
 
 
-##### CHAPITRE II : Biens et droits indivis entre plusieurs communes<a id=687></a>
+##### CHAPITRE II : Biens et droits indivis entre plusieurs communes<a id=689></a>
 
-##### Section 1 : Gestion des biens et droits indivis.<a id=688></a>
+##### Section 1 : Gestion des biens et droits indivis.<a id=690></a>
 
 ###### Article L5222-1
 
@@ -63036,7 +63177,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5222-2 (V)
 
 
-##### Section 2 : Fin de l'indivision.<a id=689></a>
+##### Section 2 : Fin de l'indivision.<a id=691></a>
 
 ###### Article L5222-4
 
@@ -63134,7 +63275,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L162-6 (Ab)
 
 
-##### CHAPITRE III : Charte intercommunale de développement et d'aménagement<a id=690></a>
+##### CHAPITRE III : Charte intercommunale de développement et d'aménagement<a id=692></a>
 
 ###### Article L5223-1
 
@@ -63226,11 +63367,11 @@ _Cite_:
   - Code rural - art. L121-2 (V)
 
 
-### LIVRE III : AGGLOMÉRATION NOUVELLE<a id=691></a>
+### LIVRE III : AGGLOMÉRATION NOUVELLE<a id=693></a>
 
-#### TITRE Ier : CRÉATION<a id=692></a>
+#### TITRE Ier : CRÉATION<a id=694></a>
 
-##### CHAPITRE UNIQUE<a id=693></a>
+##### CHAPITRE UNIQUE<a id=695></a>
 
 ###### Article L5311-1
 
@@ -63334,9 +63475,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES<a id=694></a>
+#### TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES<a id=696></a>
 
-##### CHAPITRE UNIQUE<a id=695></a>
+##### CHAPITRE UNIQUE<a id=697></a>
 
 ###### Article L5321-1
 
@@ -63546,9 +63687,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE<a id=696></a>
+#### TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE<a id=698></a>
 
-##### CHAPITRE Ier : Communauté d'agglomération nouvelle<a id=697></a>
+##### CHAPITRE Ier : Communauté d'agglomération nouvelle<a id=699></a>
 
 ###### Article L5331-1
 
@@ -63683,9 +63824,9 @@ _Cité par_:
   - Code de justice administrative. - art. L554-1 (V)
 
 
-##### CHAPITRE II : Syndicat d'agglomération nouvelle<a id=698></a>
+##### CHAPITRE II : Syndicat d'agglomération nouvelle<a id=700></a>
 
-##### Section 1 : Composition du comité du syndicat d'agglomération nouvelle.<a id=699></a>
+##### Section 1 : Composition du comité du syndicat d'agglomération nouvelle.<a id=701></a>
 
 ###### Article L5332-1
 
@@ -63766,7 +63907,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5331-1 (V)
 
 
-##### Section 2 : Admission de nouvelles communes au syndicat d'agglomération nouvelle et retrait.<a id=700></a>
+##### Section 2 : Admission de nouvelles communes au syndicat d'agglomération nouvelle et retrait.<a id=702></a>
 
 ###### Article L5332-3
 
@@ -63858,7 +63999,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-19
 
 
-##### CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle<a id=701></a>
+##### CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle<a id=703></a>
 
 ###### Article L5333-1
 
@@ -64193,9 +64334,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE IV : Dispositions financières<a id=702></a>
+##### CHAPITRE IV : Dispositions financières<a id=704></a>
 
-##### Section 1 : Dispositions générales.<a id=703></a>
+##### Section 1 : Dispositions générales.<a id=705></a>
 
 ###### Article L5334-1
 
@@ -64979,7 +65120,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2334-33 (V)
 
 
-##### Section 2 : Fin du régime particulier applicable aux agglomérations nouvelles.<a id=704></a>
+##### Section 2 : Fin du régime particulier applicable aux agglomérations nouvelles.<a id=706></a>
 
 ###### Article L5334-21
 
@@ -65012,9 +65153,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5341-1
 
 
-#### TITRE IV : FIN DU RÉGIME APPLICABLE AUX AGGLOMÉRATIONS NOUVELLES<a id=705></a>
+#### TITRE IV : FIN DU RÉGIME APPLICABLE AUX AGGLOMÉRATIONS NOUVELLES<a id=707></a>
 
-##### CHAPITRE UNIQUE<a id=706></a>
+##### CHAPITRE UNIQUE<a id=708></a>
 
 ###### Article L5341-1
 
@@ -65155,9 +65296,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5341-2 (M)
 
 
-#### TITRE V : DISPOSITIONS D'APPLICATION<a id=707></a>
+#### TITRE V : DISPOSITIONS D'APPLICATION<a id=709></a>
 
-##### CHAPITRE UNIQUE<a id=708></a>
+##### CHAPITRE UNIQUE<a id=710></a>
 
 ###### Article L5351-1
 
@@ -65182,11 +65323,11 @@ _Abrogé par_:
   - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
 
 
-### LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE<a id=709></a>
+### LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE<a id=711></a>
 
-#### TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES<a id=710></a>
+#### TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES<a id=712></a>
 
-##### CHAPITRE UNIQUE<a id=711></a>
+##### CHAPITRE UNIQUE<a id=713></a>
 
 ###### Article L5411-1
 
@@ -65242,9 +65383,9 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-#### TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX<a id=712></a>
+#### TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX<a id=714></a>
 
-##### CHAPITRE UNIQUE<a id=713></a>
+##### CHAPITRE UNIQUE<a id=715></a>
 
 ###### Article L5421-1
 
@@ -65423,11 +65564,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3313-1 (V)
 
 
-### LIVRE V : AGENCE DÉPARTEMENTALE<a id=714></a>
+### LIVRE V : AGENCE DÉPARTEMENTALE<a id=716></a>
 
-#### TITRE UNIQUE<a id=715></a>
+#### TITRE UNIQUE<a id=717></a>
 
-##### CHAPITRE UNIQUE<a id=716></a>
+##### CHAPITRE UNIQUE<a id=718></a>
 
 ###### Article L5511-1
 
@@ -65456,11 +65597,11 @@ _Cité par_:
   - Code de l'urbanisme - art. R*423-15 (VD)
 
 
-### LIVRE VI : COOPÉRATION INTERRÉGIONALE<a id=717></a>
+### LIVRE VI : COOPÉRATION INTERRÉGIONALE<a id=719></a>
 
-#### TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES<a id=718></a>
+#### TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES<a id=720></a>
 
-##### CHAPITRE UNIQUE<a id=719></a>
+##### CHAPITRE UNIQUE<a id=721></a>
 
 ###### Article L5611-1
 
@@ -65487,9 +65628,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L5621-4 (V)
 
 
-#### TITRE II : ENTENTE INTERRÉGIONALE<a id=720></a>
+#### TITRE II : ENTENTE INTERRÉGIONALE<a id=722></a>
 
-##### CHAPITRE Ier : Organisation et fonctionnement<a id=721></a>
+##### CHAPITRE Ier : Organisation et fonctionnement<a id=723></a>
 
 ###### Article L5621-1
 
@@ -65767,7 +65908,7 @@ _Créé par_:
   - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-##### CHAPITRE II : Dispositions financières<a id=722></a>
+##### CHAPITRE II : Dispositions financières<a id=724></a>
 
 ###### Article L5622-1
 
@@ -65881,11 +66022,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R5622-1 (V)
 
 
-### LIVRE VII : SYNDICAT MIXTE<a id=723></a>
+### LIVRE VII : SYNDICAT MIXTE<a id=725></a>
 
-#### TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE<a id=724></a>
+#### TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE<a id=726></a>
 
-##### CHAPITRE unique.<a id=725></a>
+##### CHAPITRE unique.<a id=727></a>
 
 ###### Article L5711-1
 
@@ -65958,9 +66099,9 @@ _Modifié par_:
   - Loi n°99-586 du 12 juillet 1999 - art. 24 ()
 
 
-#### TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC<a id=726></a>
+#### TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC<a id=728></a>
 
-##### CHAPITRE Ier : Organisation et fonctionnement<a id=727></a>
+##### CHAPITRE Ier : Organisation et fonctionnement<a id=729></a>
 
 ###### Article L5721-1
 
@@ -66369,7 +66510,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-25-1 (M)
 
 
-##### CHAPITRE II : Dispositions financières<a id=728></a>
+##### CHAPITRE II : Dispositions financières<a id=730></a>
 
 ###### Article L5722-1
 
@@ -66591,11 +66732,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-21 (V)
 
 
-### LIVRE VIII : DISPOSITIONS PARTICULIÈRES<a id=729></a>
+### LIVRE VIII : DISPOSITIONS PARTICULIÈRES<a id=731></a>
 
-#### TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN<a id=730></a>
+#### TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN<a id=732></a>
 
-##### CHAPITRE Ier : Syndicat de communes.<a id=731></a>
+##### CHAPITRE Ier : Syndicat de communes.<a id=733></a>
 
 ###### Article L5811-1
 
@@ -66630,7 +66771,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5212-4 (V)
 
 
-##### CHAPITRE II : Communauté de communes.<a id=732></a>
+##### CHAPITRE II : Communauté de communes.<a id=734></a>
 
 ###### Article L5812-1
 
@@ -66659,7 +66800,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5214-16 (V)
 
 
-##### CHAPITRE III : Communauté urbaine.<a id=733></a>
+##### CHAPITRE III : Communauté urbaine.<a id=735></a>
 
 ###### Article L5813-1
 
@@ -66710,7 +66851,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-1 (V)
 
 
-##### CHAPITRE IV : Communauté de villes.<a id=734></a>
+##### CHAPITRE IV : Communauté de villes.<a id=736></a>
 
 ###### Article L5814-1
 
@@ -66742,7 +66883,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5216-5 (V)
 
 
-##### CHAPITRE V : Entente, convention et conférence intercommunales.<a id=735></a>
+##### CHAPITRE V : Entente, convention et conférence intercommunales.<a id=737></a>
 
 ###### Article L5815-1
 
@@ -66802,7 +66943,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5816-3 (V)
 
 
-##### CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes.<a id=736></a>
+##### CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes.<a id=738></a>
 
 ###### Article L5816-1
 
@@ -67021,9 +67162,9 @@ _Anciens textes_:
   - Loi locale 1897-07-07 art. 11 al. 2 (phr 2)
 
 
-#### TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION<a id=737></a>
+#### TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION<a id=739></a>
 
-##### CHAPITRE Ier : Communauté urbaine.<a id=738></a>
+##### CHAPITRE Ier : Communauté urbaine.<a id=740></a>
 
 ###### Article L5821-1
 
@@ -67045,7 +67186,7 @@ _Anciens textes_:
   - CODE DES COMMUNES. - art. L182-1 (Ab)
 
 
-##### CHAPITRE II : Charte intercommunale de développement et d'aménagement.<a id=739></a>
+##### CHAPITRE II : Charte intercommunale de développement et d'aménagement.<a id=741></a>
 
 ###### Article L5822-1
 
