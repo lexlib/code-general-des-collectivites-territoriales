@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-04-13
+Version Consolidée au 1996-05-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5822-1)](#1)
     - [PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES (art. L1111-1 à L1617-5)](#2)
@@ -24535,7 +24535,7 @@ _Abrogé par_:
 
 ###### Article L2333-64
 
-- En dehors de la région d'Ile-de-France, les personnes physiques ou morales, publiques ou privées, à l'exception des
+En dehors de la région d'Ile-de-France, les personnes physiques ou morales, publiques ou privées, à l'exception des
 fondations et associations reconnues d'utilité publique à but non lucratif dont l'activité est de caractère social, peuvent
 être assujetties à un versement destiné au financement des transports en commun lorsqu'elles emploient plus de neuf
 salariés :
@@ -24545,15 +24545,25 @@ salariés :
 2° Ou dans le ressort d'un établissement public de coopération intercommunale compétent pour l'organisation des transports
 urbains, lorsque la population de l'ensemble des communes membres de l'établissement atteint le seuil indiqué.
 
+Les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent l'effectif de dix salariés sont
+dispensés pendant trois ans du paiement du versement. Le montant du versement est réduit de 75 p. 100, 50 p. 100 et 25 p.
+100, respectivement chacune des trois années suivant la dernière année de dispense. Pour les employeurs qui sont dispensés du
+versement en 1996, la dispense de paiement s'applique jusqu'au 31 décembre 1999.
+
+Les dispositions de l'alinéa précédent ne sont pas applicable s lorsque l'accroissement de l'effectif résulte de la reprise
+ou de l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes. Dans
+ce cas, le versement est dû dans les conditions de droit commun dès l'année au cours de laquelle l'effectif de dix salariés
+est atteint ou dépassé.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°96-314 du 12 avril 1996 - art. 11 (V)
 
 _Cité par_:
 
@@ -27158,6 +27168,30 @@ _Créé par_:
 _Cite_:
 
   - Code général des collectivités territoriales - art. L3142-1 (V)
+
+
+###### Article L2334-35-1
+
+Dans les départements d'outre-mer, le seuil de 2 000 habitants mentionnés aux articles L. 2334-34 et L. 2334-35 est porté à 7
+500 habitants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°96-142 1996-02-21
+
+_Créé par_:
+
+  - Loi n°96-314 du 12 avril 1996 - art. 73 ()
+
+_Abrogé par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 179
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2334-34
 
 
 ###### Article L2334-36
@@ -32531,6 +32565,16 @@ versement de transport lorsqu'elles emploient plus de neuf salariés.
 
 Le versement n'est perçu qu'à l'intérieur de la région des transports parisiens.
 
+Les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent l'effectif de dix salariés sont
+dispensés pendant trois ans du paiement du versement. Le montant du versement est réduit de 75 p. 100, 50 p. 100 et 25 p. 100
+respectivement chacune des trois années suivant la dernière année de dispense. Pour les employeurs qui sont dispensés du
+versement en 1996, la dispense de paiement s'applique jusqu'au 31 décembre 1999.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'accroissement de l'effectif résulte de la reprise ou
+de l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes. Dans ce
+cas, le versement est dû dans les conditions de droit commun dès l'année au cours de laquelle l'effectif de dix salariés est
+atteint ou dépassé.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -32557,9 +32601,9 @@ _Codifié par_:
 
   - Loi n°96-142 1996-02-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+  - Loi n°96-314 du 12 avril 1996 - art. 11 (V)
 
 
 ###### Article L2531-3
