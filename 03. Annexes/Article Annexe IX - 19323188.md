@@ -48,7 +48,8 @@ des retraités de l'activité agricole.
 
 **Jardins familiaux **
 
-Création et aménagement de jardins familiaux par des organismes visés à l'article L. 561-1 du code rural. 
+Création et aménagement de jardins familiaux par des organismes visés à l'article L. 561-1 du code rural et de la pêche
+maritime. 
 
 **Aménagement rural **
 
@@ -66,13 +67,17 @@ territoriales.
 
 _Cite_:
 
-  - Loi n°46-628 du 8 avril 1946 - art. 23 (V)
-  - Code général des collectivités territoriales - art. D2335-15 (V)
-  - Code général des collectivités territoriales - art. D3334-8-1 (V)
-  - Code général des collectivités territoriales - art. L2224-7 (V)
-  - Code rural ancien - art. 114 (Ab)
-  - Code rural - art. L561-1 (V)
+  - Loi n°46-628 du 8 avril 1946 - art. 23
+  - Code général des collectivités territoriales - art. D2335-15
+  - Code général des collectivités territoriales - art. D3334-8-1
+  - Code général des collectivités territoriales - art. L2224-7
+  - Code rural ancien - art. 114
+  - Code rural - art. L561-1
 
 _Modifié par_:
 
-  - Décret n°2006-700 du 16 juin 2006 - art. 3 II
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2019-701 du 3 juillet 2019 - art. 4
